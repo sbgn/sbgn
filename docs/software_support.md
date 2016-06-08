@@ -21,7 +21,7 @@ The following is a list of software packages known to provide support for SBGN. 
 | [Athena](http://www.codeplex.com/athena/)                                        | E     | +   | -   | -   | -       |
 | [Beacon Pathway Editor](http://bioinformatics.cs.vt.edu/beacon/)                 | E     | -   | -   | +   | -       |
 | [BIOCHAM](http://contraintes.inria.fr/BIOCHAM/)                                  | E     | +   | -   | -   | -       |
-| [Biographer](http://code.google.com/p/biographer/)                               | E     | +   | +   | +   | +       |
+| [Biographer](http://biographer.biologie.hu-berlin.de/)                           | E     | +   | +   | +   | +       |
 | [BioUML](http://www.biouml.org/)                                                 | V     | +   | -   | -   | -       |
 | [CellDesigner](http://www.celldesigner.org/)                                     | E     | +   | -   | -   | +       |
 | [ChiBE](https://code.google.com/archive/p/chibe/)                                | E     | +   | -   | -   | -       |
@@ -32,9 +32,9 @@ The following is a list of software packages known to provide support for SBGN. 
 | [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | V     | +   | -   | -   | +       |
 | [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | E     | +   | -   | -   | -       |
 | [iPathways](http://www.ipathways.org/)                                           | V     | +   | -   | -   | -       |
-| [JWS Online](http://jjj.biochem.sun.ac.za/)                                      | V     | +   | -   | -   | -       |
+| [JWS Online](http://jjj.bio.vu.nl/)                                              | V     | +   | -   | -   | -       |
 | [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | V     | +   | -   | -   | +       |
-| [MGV](http://www-ps.informatik.uni-tuebingen.de/mayday/wp/)                      | V     | +   | -   | -   | -       |
+| [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | V     | +   | -   | -   | -       |
 | [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
 | [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
 | [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       | 
