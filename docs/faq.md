@@ -7,7 +7,7 @@ FAQs
 
 The Frequently Asked Questions section provides answers to some frequently asked questions about SBGN.
 
-1.  [FAQ about PD](faq/pd.md)
+1.  [FAQ about PD](/docs/faq/pd)
 2.  [FAQ about ER](faq/ed.md)
 3.  [FAQ about AF](faq/af.md)
 
