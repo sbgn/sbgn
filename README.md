@@ -5,6 +5,7 @@ This repository contains the code for the main SBGN homepage
 # Notes on Jekyll
 * Jekyll Kramdown Notes: http://mindspill.net/computing/web-development-notes/kramdown-notes/#tables
 * GitHub Jekyll Notes: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+* Markdown syntax in GitHub: https://guides.github.com/features/mastering-markdown/
 
 # Jekyll Troubleshooting
 
@@ -14,6 +15,15 @@ This repository contains the code for the main SBGN homepage
 ## Linking
 * File names should be at least 3 characters (WRONG: faq, RIGHT: faqs)
 * Given the relative path in the Markdown links
+
+### Example
+* You need to give relative path
+ * Example: faqs.md is in docs/ and pd.md is in docs/faq/
+
+   We would like to provide a link of pd.md page in faq.md
+
+   The path of the link to give: faq/pd
+ * The syntax for creating a link is available [here](https://guides.github.com/features/mastering-markdown/).
 
 # Run Site Locally with Docker
 
