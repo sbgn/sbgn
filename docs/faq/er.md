@@ -2,7 +2,8 @@
 layout: default
 permalinks: docs/faq/er
 ---
-Entity Relationship FAQs
+
+# Entity Relationship FAQs
 
 * How should-I represent dephosphorylation?
 * How can I represent that an interaction activates an interactor?
