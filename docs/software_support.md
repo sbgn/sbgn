@@ -3,20 +3,15 @@ layout: default
 permalink: /docs/software_support/
 ---
 
-Software Support
-----------------
+## Software Support
 
 *  [Software](#software)
 *  [Databases](#databases)
 *  [File Formats](#file-formats)
 
-Software
---------
---------
+### Software
 
-Databases
----------
----------
+### Databases
 
 The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
 
@@ -40,6 +35,4 @@ PD – Process Description, ER – Entity Relationship, AF – Activity Flow
 SBGN-ML - Download SBGN maps in SBGN-ML format  
 "+" supported, "-" not supported
 
-File Formats
-------------
-------------
+### File Formats
