@@ -3,8 +3,7 @@ layout: default
 permalink: /docs/publications
 ---
 
-Publications
-------------
+## Publications
 
 This page lists the main SBGN publications. If you want to cite SBGN, please use one of the following publications.
 
