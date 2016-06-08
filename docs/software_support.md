@@ -5,6 +5,8 @@ permalink: /docs/software_support/
 
 ## Software Support
 
+This page summarizes what we know about software support for SBGN languages. This knowledge comes from a variety of sources, and is not necessarily complete. If your software and/or database is not listed below, or if you know of another effort, please post a message to sbgn-discuss@googlegroups.com.
+
 *  [Software](#software)
 *  [Databases](#databases)
 *  [File Formats](#file-formats)
