@@ -1,18 +1,16 @@
 ---
 layout: default
-permalinks: /docs/something
+permalinks: /docs/faq
 ---
 
 FAQs
 
 The Frequently Asked Questions section provides answers to some frequently asked questions about SBGN.
 
-1.  [FAQ about PD](/docs/faq/pd)
-2.  [FAQ about ER](faq/ed.md)
-3.  [FAQ about AF](faq/af.md)
+1.  [FAQ about PD](sbgn/docs/faq/pd)
+2.  [FAQ about ER](sbgn/docs/faq/er)
+3.  [FAQ about AF](sbgn/docs/faq/af)
 
-
----
 The following questions are general and not specific to a particular SBGN language.
 
 
