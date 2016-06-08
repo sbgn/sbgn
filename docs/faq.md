@@ -1,6 +1,6 @@
 ---
 layout: default
-permalinks: docs/faq
+permalinks: docs/faq/
 ---
 
 FAQs
