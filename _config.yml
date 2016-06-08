@@ -1,0 +1,13 @@
+title: SBGN
+project_name: sbgn
+description: >
+  A minimal theme
+repository_url: https://github.com/sbgn
+repository_shorthand: sbgn/Something
+
+baseurl: ""
+
+author_name: GochoMugo
+author_url: https://github.com/GochoMugo
+
+markdown: kramdown
