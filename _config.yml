@@ -5,7 +5,7 @@ description: >
 repository_url: https://github.com/sbgn
 repository_shorthand: sbgn/Something
 
-baseurl: ""
+baseurl: "/sbgn"
 
 author_name: GochoMugo
 author_url: https://github.com/GochoMugo
