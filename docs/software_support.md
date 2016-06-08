@@ -3,12 +3,12 @@ layout: default
 permalink: /docs/software_support/
 ---
 
+Software Support
+----------------
+
 *  [Software](#Software)
 *  [Databases](#Databases)
 *  [File Formats](#File_Formats)
-
-Software Support
-----------------
 
 Software
 --------
