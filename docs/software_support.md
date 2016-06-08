@@ -18,7 +18,7 @@ Databases
 ---------
 ---------
 
-The following is a list of database known to provide SBGN maps. The links to the databases were correct at the time of recording.
+The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
 
 | Database                                                                          | PD   | ER   | AF   | SBGN-ML   |
 | --------------------------------------------------------------------------------- | :--: | :--: | :--: | :-------: |
