@@ -32,7 +32,7 @@ The following is a list of databases known to provide SBGN maps. The links to th
 
 *Path2Models is part of the BioModels Database  
 PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
-SBGN-ML - Download SBGN maps in SBGN-ML format  
+SBGN-ML - Download of SBGN maps in SBGN-ML format  
 "+" supported, "-" not supported
 
 ### File Formats
