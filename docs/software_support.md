@@ -34,6 +34,7 @@ The following is a list of database known to provide SBGN maps. The links to the
 | [Reactome](http://www.reactome.org)                                               | +    | –    | –    | +         |
 | [RIMAS](http://rimas.ipk-gatersleben.de)                                          | +    | –    | –    | –         |
 | [SubtiPathways](http://subtiwiki.uni-goettingen.de/apps/pathway.php?pathway=11)   | +    | –    | –    | –         |
+
 *Path2Models is part of the BioModels Database  
 PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
 SBGN-ML - Download SBGN maps in SBGN-ML format  
