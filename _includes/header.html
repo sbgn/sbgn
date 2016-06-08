@@ -1,25 +1,23 @@
 <header>
-  <h1>{{ site.project_name }}</h1>
+  <!-- <h1>{{ site.project_name }}</h1>-->
 
   <img src="images/SBGN-logo-WhiteBackground-1024.png" />
 
   <p>{{ site.description }}</p>
 
-  <p class="view"><a href="{{ site.repository_url }}">View the Project on GitHub <small>{{ site.repository_shorthand }}</small></a></p>
+  <!--<p class="view"><a href="{{ site.repository_url }}">View the Project on GitHub <small>{{ site.repository_shorthand }}</small></a></p>-->
 
+  <div class="pages">
+    {% for item in site.data.menu.items %}
+    <p class="view"><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></p>
+    {% endfor %}
+  </div>
+
+  <!--
   <ul>
     <li><a href="{{ site.repository_url }}/zipball/master">Download <strong>ZIP File</strong></a></li>
     <li><a href="{{ site.repository_url }}/tarball/master">Download <strong>TAR Ball</strong></a></li>
     <li><a href="{{ site.repository_url }}">Fork On <strong>GitHub</strong></a></li>
   </ul>
-
-  <div class="menu">
-    <ul>
-      {% for item in site.data.menu.items %}
-      <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-      {% endfor %}
-    </ul>
-    <hr/>
-  </div>
-
+  -->
 </header>
