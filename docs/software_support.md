@@ -6,9 +6,9 @@ permalink: /docs/software_support/
 Software Support
 ----------------
 
-*  [Software](#Software)
-*  [Databases](#Databases)
-*  [File Formats](#File_Formats)
+*  [Software](#software)
+*  [Databases](#databases)
+*  [File Formats](#file-formats)
 
 Software
 --------
