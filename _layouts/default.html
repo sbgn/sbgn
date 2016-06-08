@@ -10,9 +10,11 @@
 
       <section>
 
+        {% comment %}
         {% unless page.no_menu %}
           {% include menu.html %}
         {% endunless %}
+        {% endcomment %}
 
         {{ content }}
 
@@ -22,7 +24,7 @@
 
     </div>
 
-        {% include scripts.html %}
+    {% include scripts.html %}
 
   </body>
 </html>

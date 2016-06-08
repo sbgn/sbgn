@@ -1,13 +1,13 @@
 title: SBGN
-project_name: sbgn
+project_name: SBGN
 description: >
-  A minimal theme
+  Systems Biology Graphical Notation
 repository_url: https://github.com/sbgn
 repository_shorthand: sbgn/Something
 
 baseurl: "/sbgn"
 
-author_name: GochoMugo
-author_url: https://github.com/GochoMugo
+author_name: sbgn
+author_url: https://github.com/sbgn
 
 markdown: kramdown
