@@ -13,6 +13,44 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 ### Software
 
+The following is a list of software packages known to provide support for SBGN. The links to the software packages were correct at the time of recording.
+
+| Software Package                                                                 | V / E | PD  | ER  | AF  | SBGN-ML |
+| -------------------------------------------------------------------------------- | :---: | :-: | :-: | :-: | :-----: |
+| [Arcadia](http://arcadiapathways.sourceforge.net/)                               | V     | +   | -   | -   | -       |
+| [Athena](http://www.codeplex.com/athena/)                                        | E     | +   | -   | -   | -       |
+| [Beacon Pathway Editor](http://bioinformatics.cs.vt.edu/beacon/)                 | E     | -   | -   | +   | -       |
+| [BIOCHAM](http://contraintes.inria.fr/BIOCHAM/)                                  | E     | +   | -   | -   | -       |
+| [Biographer](http://code.google.com/p/biographer/)                               | E     | +   | +   | +   | +       |
+| [BioUML](http://www.biouml.org/)                                                 | V     | +   | -   | -   | -       |
+| [CellDesigner](http://www.celldesigner.org/)                                     | E     | +   | -   | -   | +       |
+| [ChiBE](https://code.google.com/archive/p/chibe/)                                | E     | +   | -   | -   | -       |
+| [COPASI](http://copasi.org/)                                                     | V     | +   | -   | -   | -       |
+| [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | V     | +   | +   | +   | +       |
+| [Dunnart](http://www.dunnart.org/)                                               | E     | +   | -   | -   | -       |
+| [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | E     | +   | +   | +   | -       |
+| [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | V     | +   | -   | -   | +       |
+| [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | E     | +   | -   | -   | -       |
+| [iPathways](http://www.ipathways.org/)                                           | V     | +   | -   | -   | -       |
+| [JWS Online](http://jjj.biochem.sun.ac.za/)                                      | V     | +   | -   | -   | -       |
+| [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | V     | +   | -   | -   | +       |
+| [MGV](http://www-ps.informatik.uni-tuebingen.de/mayday/wp/)                      | V     | +   | -   | -   | -       |
+| [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
+| [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
+| [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       | 
+| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       | 
+| [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
+| [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
+| [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | V     | +   | -   | -   | +       |
+| [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | V     | +   | +   | +   | +       |
+| [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | V     | +   | -   | -   | -       |
+| [VISIBIOweb](http://bcbi.bilkent.edu.tr/pvs.html)                                | V     | +   | -   | -   | +       |
+
+V / E - Viewer or Editor  
+PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
+SBGN-ML - Load SBGN maps from SBGN-ML format and/or save SBGN maps to SBGN-ML format (see also [File Formats](#file-formats))  
+"+" supported, "-" not supported
+
 ### Databases
 
 The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
@@ -34,7 +72,7 @@ The following is a list of databases known to provide SBGN maps. The links to th
 
 *Path2Models is part of the BioModels Database  
 PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
-SBGN-ML - Download of SBGN maps in SBGN-ML format  
+SBGN-ML - Download of SBGN maps in SBGN-ML format (see also [File Formats](#file-formats))  
 "+" supported, "-" not supported
 
 ### File Formats
