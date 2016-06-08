@@ -8,7 +8,7 @@ FAQs
 The Frequently Asked Questions section provides answers to some frequently asked questions about SBGN.
 
 1.  [FAQ about PD](faq/pd)
-2.  [FAQ about ER](faq/ed)
+2.  [FAQ about ER](faq/er)
 3.  [FAQ about AF](faq/af)
 
 
