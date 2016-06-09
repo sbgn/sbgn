@@ -27,7 +27,7 @@ permalink: /docs/a_human_readable_title
 ![alt text](/images/foo.png)
 
 ## Tables
-* There must be an empty line before the table
+* There must be an empty line below the table
 
 ## Linking
 * File names should be at least 3 characters (WRONG: faq, RIGHT: faqs)
