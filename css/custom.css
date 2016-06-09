@@ -20,3 +20,9 @@
 #logo {
     width: 200px;
 }
+
+/* NOTE: https://thornelabs.net/2014/11/30/centering-images-with-jekyll-and-markdown.html */
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
