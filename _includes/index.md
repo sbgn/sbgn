@@ -7,14 +7,14 @@ Quick start
 |:-:|:-:|
 | [Learn how to use SBGN](???) | [Get involved](???) |
 
-Symbol of the month
+Random Symbol
 ===================
 
 | | |
 |:-:|:-:|
 | [Complex (PD)](/docs/symbols/complex) | ![complex](/images/SymbolMonth-complex.png) |
 
-Pathway of the month
+Random Pathway
 ====================
 
 This month's pathway is an SBGN-PD diagram based on the following paper published in the October 2014 issue of the Cell magazine (PubMed ID: [25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)).
@@ -25,7 +25,7 @@ This month's pathway is an SBGN-PD diagram based on the following paper publishe
 |:-:|
 | ![POM_Nov2014_PD](/Image:POM_Nov2014_PD.png) |
 
-Click [here](/pathway_of_the_month) for more details of the diagram.
+Click [here](/docs/POMX) for more details of the diagram.
 
 This diagram is also available in [SBGN-ML format](/Media:_POM_Nov2014_PD.sbgn).
 
