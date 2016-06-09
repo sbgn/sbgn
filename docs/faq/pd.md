@@ -6,7 +6,7 @@ permalinks: docs/faq/pd
 
 ## Process Description FAQs
 
-*  Should I always use straight lines for connecting arcs?
+*  [Should I always use straight lines for connecting arcs?](#should-i-always-use-straight-lines-for-connecting-arcs?)
 *  Can we represent reversible interactions with a single association or dissociation glyphs?
 *  Should I always represent reversible reactions as two separate processes?
 *  Why must the inputs and output always connect to opposite faces of a process?
@@ -73,6 +73,7 @@ The consumption edges should always meet in a single point outside the symbol re
 ![Consumption and association meet](https://sbgn.github.io/sbgn/images/faq/pd/Consum-assoc-meet.png)
 
 ---
+
 ### How can I represent multi-compartment reactions without multiplying the (ugly) compartment boundaries?
 
 All Entity Pool Nodes must belong to a compartment. It is possible to draw an EPN overlapping a compartment boundary, and software may provide magnet tools to implement that. However, the EPN always belong to the compartment containing the center of its bounding box. This is suboptimal, and for many biological processes, we want to use a true compartment to represent a membrane. The problem then is the multiplication of the boundaries. Indeed the membrane would have two boundaries, and each of the adjacent compartments another one. The resulting drawing is ugly, and actually misleading for the non-SBGN expert, who may be induced to think there are many more membranes than in reality.
