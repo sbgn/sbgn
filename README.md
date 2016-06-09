@@ -56,7 +56,7 @@ docker pull cannin/jekyll:gh
 docker pull cannin/jekyll:gh
 
 ## Run Docker with Jekyll
-docker run --rm --name=jekyll -p 4000:4000 -v=$(pwd):/src -it cannin/jekyll:gh bash
+docker stop jekyll; docker rm jekyll; docker run --rm --name=jekyll -p 4000:4000 -v=$(pwd):/src -it cannin/jekyll:gh bash
 
 ### Build in code root directory
 bundle exec jekyll build --destination sbgn
