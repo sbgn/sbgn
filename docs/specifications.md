@@ -6,13 +6,15 @@ permalink: /docs/specifications
 
 There are three orthogonal and complementary visual languages defined in SBGN: Process Description (PD), Entity Relationship (ER), and Activity Flow (AF). They can be seen as three alternative projections of the underlying, more complex biological information.
 
-## Process Description language
-
-### Current Specification: 
-
-The SBGN Process Description (PD) language Level 1 Version 1.3 --Available at Journal of Integrative Bioinformatics [2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263)](http://journal.imbio.de/article.php?aid=263).
+### Process Description language
 
 The SBGN *Process Description* (PD) language shows the temporal courses of biochemical interactions in a network. It can be used to show all the molecular interactions taking place in a network of biochemical entities, with the same entity appearing multiple times in the same diagram.
+
+#### Current Specification: 
+
+The **SBGN PD language Level 1 Version 1.3** --Available at ***Journal of Integrative Bioinformatics*** [2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263)](http://journal.imbio.de/article.php?aid=263).
+
+
 
 
 ## Entity Relationship language
