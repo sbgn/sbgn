@@ -37,3 +37,11 @@ This page provides access to meeting pages, agendas, and other information about
 ### COMBINE Events
 
 The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.
+
+| - | - |
+| ![COMBINE 2015](../images/events/COMBINE2015-100x100.jpg) | **COMBINE 2015**<br>12 - 16 October 2015<br>*Salt Lake City, USA*<br><br>SBGN was part of the sixth [COMBINE forum](http://co.mbine.org/events/COMBINE_2015). |
+| ![HARMONY 2015](../images/events/HARMONY2015-100x100.jpg) | **HARMONY 2015**<br>20 - 24 April 2015<br>*Wittenberg, Germany*<br><br>SBGN was part of the fifth [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2015). |
+| ![COMBINE 2014](../images/events/COMBINE2014-100x100.jpg) | **COMBINE 2014**<br>18 - 22 August 2014<br>*Los Angeles, USA*<br><br>SBGN was part of the fifth [COMBINE forum](http://co.mbine.org/events/COMBINE_2014). |
+| ![HARMONY 2014](../images/events/HARMONY2014-100x100.jpg) | **HARMONY 2014**<br>22 - 25 April 2014<br>*Manchester, UK*<br><br>SBGN was part of the fourth [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2014). |
+| ![COMBINE 2013](../images/events/COMBINE2013-100x100.jpg) | **COMBINE 2013**<br>16 - 20 September 2013<br>*Paris, France*<br><br>SBGN was part of the fourth [COMBINE forum](http://co.mbine.org/events/COMBINE_2013). |
+| ![HARMONY 2013](../images/events/HARMONY2013-100x100.jpg) | **HARMONY 2013**<br>20 - 23 May 2013<br>*Farmington, USA*<br><br>SBGN was part of the third [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2013). |
