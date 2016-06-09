@@ -1,4 +1,5 @@
 ---
+title: Software Support
 layout: default
 permalink: /docs/software_support/
 ---
