@@ -12,7 +12,7 @@ permalinks: docs/faq/pd
 *  [Why must the inputs and outputs always connect to opposite faces of a process?](#why-must-the-inputs-and-outputs-always-connect-to-opposite-faces-of-a-process)
 *  [Where should consumption edges of an association process meet?](#where-should-consumption-edges-of-an-association-process-meet)
 *  [How can I represent multi-compartment reactions without multiplying the ugly compartment boundaries?](#how-can-i-represent-multi-compartment-reactions-without-multiplying-the-ugly-compartment-boundaries)
-*  [Why can't entity nodes overlap?](#why-can't-entity-nodes-overlap)
+*  [Why can't entity nodes overlap?](#why-cant-entity-nodes-overlap)
 *  [Can I decorate my nodes?](#can-i-decorate-my-nodes)
 *  [Should I always use state variables to represent covalent modifications?](#should-i-always-use-state-variables-to-represent-covalent-modifications)
 
