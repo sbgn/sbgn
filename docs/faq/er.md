@@ -1,4 +1,5 @@
 ---
+title: FAQ ER
 layout: default
 permalinks: docs/faq/er
 ---
