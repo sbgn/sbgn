@@ -1,4 +1,5 @@
 ---
+title: FAQ
 layout: default
 permalink: /docs/faqs
 ---
