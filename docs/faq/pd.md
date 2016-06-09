@@ -6,7 +6,7 @@ permalinks: docs/faq/pd
 
 ## Process Description FAQs
 
-*  [Should I always use straight lines for connecting arcs?](#should-i-always-use-straight-lines-for-connecting-arcs?)
+*  [Should I always use straight lines for connecting arcs?](#should-i-always-use-straight-lines-for-connecting-arcs)
 *  Can we represent reversible interactions with a single association or dissociation glyphs?
 *  Should I always represent reversible reactions as two separate processes?
 *  Why must the inputs and output always connect to opposite faces of a process?
