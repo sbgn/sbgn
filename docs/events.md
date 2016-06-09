@@ -6,6 +6,7 @@ permalinks: docs/events
 ## Events
 
 TOC
+
 *  [SBGN Events](#sbgn-events)
 *  [COMBINE/HARMONY Events](#combine/harmony-events)
 
