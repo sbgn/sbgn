@@ -24,6 +24,15 @@ This page provides access to meeting pages, agendas, and other information about
 | ![SBGN 6.5](../images/events/SBGN6.5-100x100.jpg) | **SBGN 6.5**<br>18 - 22 April 2011<br>*New York, USA*<br><br>SBGN 6.5 was part of the first [HARMONY hackathon](http://co.mbine.org/events/HARMONY_2011). |
 | ![SBGN 6](../images/events/SBGN6-100x100.jpg) | **SBGN 6**<br>05 - 10 October 2010<br>*Edinburgh, UK*<br><br>SBGN 6 was part of the first [COMBINE forum](http://co.mbine.org/events/COMBINE_2010). |
 | ![SBGN 5.5](../images/events/SBGN5.5-100x100.jpg) | **SBGN 5.5**<br>21 - 23 April 2010<br>*Wittenberg, DE* |
+| ![SBGN 5](../images/events/SBGN5-100x100.jpg) | **SBGN 5**<br>02 - 03 September 2009<br>*Stanford, USA*<br><br>SBGN 5 took place just before the SBML forum. |
+| ![SBGN 4.5](../images/events/SBGN4.5-100x100.jpg) | **SBGN 4.5**<br>05 - 09 April 2009<br>*Waiheke, New Zealand*<br><br>SBGN 4.5 was a joint meeting organised by the CellML group. |
+| ![SBGN 4](../images/events/SBGN4-100x100.jpg) | **SBGN 4**<br>16 - 17 October 2008<br>*Rostock, Germany*<br><br>SBGN 4 was a satellite of the 6th Conference on Computational Methods in Systems Biology (CMSB). |
+| ![SBGN 3.5](../images/events/SBGN3.5-100x100.jpg) | **SBGN 3.5**<br>28 Januar - 2 February 2008<br>*Okinawa, Japan*<br><br>SBGN 3.5 was part of the super-hackathon on "Standards and Ontologies for Systems Biology". |
+| ![SBGN 3](../images/events/SBGN3-100x100.jpg) | **SBGN 3**<br>30 September 2007<br>*Long Beach, USA*<br><br>SBGN 3 was held prior ICSB 2007. |
+| ![SBGN 2.5](../images/events/SBGN2.5-100x100.jpg) | **SBGN 2.5**<br>15 - 17 March 2007<br>*Heidelberg, Germany*<br><br>This SBGN workshop was a "spec-a-thon" where a smaller group of people worked on hammering out details of rough draft specification for SBGN Level 1. |
+| ![SBGN 2](../images/events/SBGN2-100x100.jpg) | **SBGN 2**<br>7 October 2006<br>*Yokohama, Japan*<br><br>The second SBGN workshop held prior ICSB 2006. |
+| ![SBGN 1](../images/events/SBGN1-100x100.jpg) | **SBGN 1**<br>11 - 12 February 2006<br>*Tokyo, Japan* |
+
 
 ### COMBINE Events
 
