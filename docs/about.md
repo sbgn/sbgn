@@ -25,13 +25,13 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 
 
 
-|Current editors       |Name               | Election period      |
-| -------------------- |:-----------------:|:--------------------:|
-|                      | Huaiyu Mi         | 2013 - 2016          |
-|                      | Augustin Luna     | 2014 - 2017          |
-|                      | Robin Haw         | 2014 - 2017          |
-|                      | Alexander Mazein  | 2015 - 2018          |
-|                      | Nicolas Le Novère | 2015 - 2018          |
+|Current editors                     |Name               | Election period      |
+| ---------------------------------- |:-----------------:|:--------------------:|
+| ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.png)                   | Huaiyu Mi         | 2013 - 2016          |
+| ![Luna](https://sbgn.github.io/sbgn/images/about/photo-luna.png)               | Augustin Luna     | 2014 - 2017          |
+| ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                 | Robin Haw         | 2014 - 2017          |
+| ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.png)           | Alexander Mazein  | 2015 - 2018          |
+| ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.png)      | Nicolas Le Novère | 2015 - 2018          |
 
 
 ## SBGN Scientific Committee
