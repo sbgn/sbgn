@@ -20,7 +20,7 @@ permalinks: docs/faq/pd
 
 No. SBGN Process Diagrams does not tell anything about the shape of the arcs. You can use straight lines, curved ones, or a mix of both. The two diagrams below are absolutely identical as far as SBGN PD is concerned.
 
-![Curved lines](/images/Curved-lines.png)
+![Curved lines](https://sbgn.github.io/sbgn/images/Curved-lines.png)
 
 ---
 #### Should-I always represent reversible reactions as two separate processes?
