@@ -9,7 +9,7 @@ permalinks: docs/faq/pd
 *  [Should I always use straight lines for connecting arcs?](#should-i-always-use-straight-lines-for-connecting-arcs)
 *  [Can we represent reversible interactions with a single association or dissociation glyphs?](#can-we-represent-reversible-interactions-with-a-single-association-or-dissociation-glyphs)
 *  [Should I always represent reversible reactions as two separate processes?](#should-i-always-represent-reversible-reactions-as-two-separate-processes)
-*  [Why must the inputs and output always connect to opposite faces of a process?](#why-must-the-inputs-and-output-always-connect-to-opposite-faces-of-a-process)
+*  [Why must the inputs and outputs always connect to opposite faces of a process?](#why-must-the-inputs-and-outputs-always-connect-to-opposite-faces-of-a-process)
 *  [Where should consumption edges of an association process meet?](#where-should-consumption-edges-of-an-association-process-meet)
 *  [How can I represent multi-compartment reactions without multiplying the (ugly) compartment boundaries?](#how-can-i-represent-multi-compartment-reactions-without-multiplying-the-(ugly)-compartment-boundaries)
 *  [Why can't entity nodes overlap?](#why-can't-entity-nodes-overlap)
@@ -66,7 +66,7 @@ It is necessary to graphical separate the connection of the links leading to ent
 
 ---
 
-### Were should consumption edges of an association process meet?
+### Where should consumption edges of an association process meet?
 
 The consumption edges should always meet in a single point outside the symbol representing a process. This rule applies for association as well. The point can be on the perimeter of the association symbol (center) or away from it (right).
 
