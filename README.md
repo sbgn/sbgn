@@ -13,6 +13,19 @@ http://sbgn.github.io/sbgn
 
 # Jekyll Troubleshooting
 
+## Example Page Front Matter
+
+NOTE: There is only one layout (i.e. default)
+
+---
+title: A Human Readable Title
+layout: default
+permalink: /docs/a_human_readable_title
+---
+
+## Images
+![alt text](/images/foo.png)
+
 ## Tables
 * There must be an empty line before the table
 
