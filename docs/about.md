@@ -68,6 +68,8 @@ Principal investigators of grants supporting SBGN development and maintenance ar
 | ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | member invited in 2011.(Ph.D.) Associate Professor of Preventive Medicine (Chief, Division of Bioinformatics) and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, and is a PI of the Gene Ontology project. |
 
 
+Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a PI and invited member between 2009 and 2015.
+
 ### Funding
 
 We are deeply indebted to the many funding agencies and organizations that have supported SBGN over the years.
