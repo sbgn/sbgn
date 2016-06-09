@@ -28,6 +28,10 @@ This page provides access to meeting pages, agendas, and other information about
 | ![SBGN 4.5](../images/SBGN4.5-100x100.jpg) | **SBGN 4.5**<br>05 - 09 April 2009<br>*Waiheke, New Zealand*<br><br>SBGN 4.5 was a joint meeting organised by the CellML group. |
 | ![SBGN 4](../images/SBGN4-100x100.jpg) | **SBGN 4**<br>16 - 17 October 2008<br>*Rostock, Germany*<br><br>SBGN 4 was a satellite of the 6th Conference on Computational Methods in Systems Biology (CMSB). |
 | ![SBGN 3.5](../images/SBGN3.5-100x100.jpg) | **SBGN 3.5**<br>28 Januar - 2 February 2008<br>*Okinawa, Japan*<br><br>SBGN 3.5 was part of the super-hackathon on "Standards and Ontologies for Systems Biology". |
+| ![SBGN 3](../images/SBGN3-100x100.jpg) | **SBGN 3**<br>30 September 2007<br>*Long Beach, USA*<br><br>SBGN 3 was held prior ICSB 2007. |
+| ![SBGN 2.5](../images/SBGN2.5-100x100.jpg) | **SBGN 2.5**<br>15 - 17 March 2007<br>*Heidelberg, Germany*<br><br>This SBGN workshop was a "spec-a-thon" where a smaller group of people worked on hammering out details of rough draft specification for SBGN Level 1. |
+| ![SBGN 2](../images/SBGN2-100x100.jpg) | **SBGN 2**<br>7 October 2006<br>*Yokohama, Japan*<br><br>The second SBGN workshop held prior ICSB 2006. |
+| ![SBGN 1](../images/SBGN1-100x100.jpg) | **SBGN 1**<br>11 - 12 February 2006<br>*Tokyo, Japan* |
 
 ### COMBINE Events
 
