@@ -11,7 +11,7 @@ permalinks: docs/faq/pd
 *  [Should I always represent reversible reactions as two separate processes?](#should-i-always-represent-reversible-reactions-as-two-separate-processes)
 *  [Why must the inputs and outputs always connect to opposite faces of a process?](#why-must-the-inputs-and-outputs-always-connect-to-opposite-faces-of-a-process)
 *  [Where should consumption edges of an association process meet?](#where-should-consumption-edges-of-an-association-process-meet)
-*  [How can I represent multi-compartment reactions without multiplying the (ugly) compartment boundaries?](#how-can-i-represent-multi-compartment-reactions-without-multiplying-the-(ugly)-compartment-boundaries)
+*  [How can I represent multi-compartment reactions without multiplying the ugly compartment boundaries?](#how-can-i-represent-multi-compartment-reactions-without-multiplying-the-ugly-compartment-boundaries)
 *  [Why can't entity nodes overlap?](#why-can't-entity-nodes-overlap)
 *  [Can I decorate my nodes?](#can-i-decorate-my-nodes)
 *  [Should I always use state variables to represent covalent modifications?](#should-i-always-use-state-variables-to-represent-covalent-modifications)
@@ -74,7 +74,7 @@ The consumption edges should always meet in a single point outside the symbol re
 
 ---
 
-### How can I represent multi-compartment reactions without multiplying the (ugly) compartment boundaries?
+### How can I represent multi-compartment reactions without multiplying the ugly compartment boundaries?
 
 All Entity Pool Nodes must belong to a compartment. It is possible to draw an EPN overlapping a compartment boundary, and software may provide magnet tools to implement that. However, the EPN always belong to the compartment containing the center of its bounding box. This is suboptimal, and for many biological processes, we want to use a true compartment to represent a membrane. The problem then is the multiplication of the boundaries. Indeed the membrane would have two boundaries, and each of the adjacent compartments another one. The resulting drawing is ugly, and actually misleading for the non-SBGN expert, who may be induced to think there are many more membranes than in reality.
 
