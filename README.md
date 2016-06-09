@@ -6,7 +6,13 @@ Website link on GitHub
 
 http://sbgn.github.io/sbgn
 
-# Notes on GitHub
+# Using Markdown 
+
+* Jekyll Kramdown Notes: http://mindspill.net/computing/web-development-notes/kramdown-notes/#tables
+* GitHub Jekyll Notes: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+* Markdown syntax in GitHub: https://guides.github.com/features/mastering-markdown/
+
+# Notes on GitHub (Troubleshooting Jekyll)
 
 ## Conflicts
 
@@ -15,12 +21,9 @@ If you edit a page in your browser it might happen that you see the message
 This means someone else was editing the page at the same time and did a commit prior to your commit.
 To avoid data loss, copy your changes to an editor, updated the page you were about to edit, insert your changes, and do a commit.
 
-# Notes on Jekyll
-* Jekyll Kramdown Notes: http://mindspill.net/computing/web-development-notes/kramdown-notes/#tables
-* GitHub Jekyll Notes: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
-* Markdown syntax in GitHub: https://guides.github.com/features/mastering-markdown/
+## Editing index.(md,html)
 
-# Jekyll Troubleshooting
+The index.md exists in the _includes folder. 
 
 ## Example Page Front Matter
 
