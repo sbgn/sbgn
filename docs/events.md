@@ -17,7 +17,7 @@ This page provides access to meeting pages, agendas, and other information about
 
 | | | |  
 | :--: | :-- | :-- |
-| ![SBGN 10](../images/SBGN10-100x100.jpg) | SBGN 10 | 16 - 22 August 2014 |
+| ![SBGN 10](../images/SBGN10-100x100.jpg) | SBGN 10<br>*Los Angeles, USA* | 16 - 22 August 2014 |
 | | *Los Angeles, USA* | |
 | | | |
 | | SBGN 10 was part of the fifth [COMBINE forum](). | |
