@@ -5,8 +5,6 @@ permalinks: docs/events
 
 ## Events
 
-TOC
-
 *  [SBGN Events](#sbgn-events)
 *  [COMBINE Events](#combine-events)
 
