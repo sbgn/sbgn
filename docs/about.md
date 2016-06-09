@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 permalinks: docs/about
 ---
 ## About
@@ -32,6 +33,20 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                 | Robin Haw         | 2014 - 2017          |
 | ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.jpg)           | Alexander Mazein  | 2015 - 2018          |
 | ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)      | Nicolas Le Novère | 2015 - 2018          |
+
+
+
+
+|Former editors                     |Name               | Election period      |
+| --------------------------------- |:-----------------:|:--------------------:|
+| ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Jan 2012 - Dec 2015 |
+| ![Demir](https://sbgn.github.io/sbgn/images/about/photo-demir.jpg)                    | Emek Demir           | Jan 2010 - Dec 2012 |
+| ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Sep 2008 - Dec 2012 |
+| ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.jpg)                          | Huaiyu Mi            | Jan 2009 - Dec 2011 |
+| ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2008 - Dec 2011 <br> Sep 2012 - Dec 2015|
+| ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Sep 2008 - Dec 2010 <br> Jan 2012 - Dec 2014 |
+| ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
+| ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Sep 2008 - Dec 2009 <br> Jan 2012 - Dec 2014|
 
 
 ### SBGN Scientific Committee
