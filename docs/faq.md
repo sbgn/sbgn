@@ -4,7 +4,7 @@ layout: default
 permalink: /docs/faqs
 ---
 
-FAQs
+## FAQs
 ------------
 The Frequently Asked Questions section provides answers to some frequently asked questions about SBGN.
 
@@ -15,7 +15,6 @@ The Frequently Asked Questions section provides answers to some frequently asked
 
 The following questions are general and not specific to a particular SBGN language.
 
-
-#### Which software supports SBGN?
+### Which software supports SBGN?
 It is difficult to keep track of SBGN support in the various relevant software tools. However we try to gather the information we have on a [single page](software_support).
 
