@@ -24,7 +24,7 @@ The SBGN Editors work towards distilling discussions and requests into coherent 
 The editors do not decide what to put in the specifications—they are the voice and the hand of the community.
 The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. An serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
 
-
+<br>
 
 |Current editors                     |Name               | Election period      |
 | ---------------------------------- |:-----------------:|:--------------------:|
@@ -34,7 +34,8 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.jpg)           | Alexander Mazein  | 2015 - 2018          |
 | ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)      | Nicolas Le Novère | 2015 - 2018          |
 
-
+<br>
+<br>
 
 
 |Former editors                     |Name               | Election period      |
@@ -43,10 +44,10 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Demir](https://sbgn.github.io/sbgn/images/about/photo-demir.jpg)                    | Emek Demir           | Jan 2010 - Dec 2012 |
 | ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Sep 2008 - Dec 2012 |
 | ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.jpg)                          | Huaiyu Mi            | Jan 2009 - Dec 2011 |
-| ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2008 - Dec 2011 <br> Sep 2012 - Dec 2015|
+| ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2008 - Dec 2011 <br> Sep 2012 - Dec 2015 |
 | ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Sep 2008 - Dec 2010 <br> Jan 2012 - Dec 2014 |
 | ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
-| ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Sep 2008 - Dec 2009 <br> Jan 2012 - Dec 2014|
+| ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Sep 2008 - Dec 2009 <br> Jan 2012 - Dec 2014 |
 
 
 ### SBGN Scientific Committee
@@ -54,6 +55,17 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 The duties of the SBGN Scientific committee are to help securing the financial support for SBGN development, to advocate the use of the language in their community, and to check that the development of SBGN is harmonious and democratic. The scientific committee does not have any decision-making power on the content of SBGN, although its advices presumably weight much in the decisions taken by the community.
 
 Principal investigators of grants supporting SBGN development and maintenance are entitled to become members. Other memberships are proposed by the running Scientific Committee and the Editorial Board. Invited members may be pioneers or major players in the field of graphical representation of knowledge, or leading figures in fields that may endorse SBGN. New memberships require unanimity of expressed opinions from current members. The terms of invited members are yearly, renewable without restriction. Renewal must be proposed and seconded by existing members of scientific committee.
+
+<br>
+
+|Current members                 |Name               | More information     |
+| ------------------------------ |:-----------------:|:--------------------:|
+| ![Goryyanin](https://sbgn.github.io/sbgn/images/about/photo-goryanin.jpg) | Igor Goryanin | SBGN PI joined in 2009. |
+| ![Kitano](https://sbgn.github.io/sbgn/images/about/photo-kitano.jpg) | Hiroaki Kitano | SBGN PI joined in 2009. |
+| ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg) | Falk Schreiber | SBGN PI joined in 2013. |
+| ![Hucka](https://sbgn.github.io/sbgn/images/about/photo-hucka.jpg) | Michael Hucka | member invited in 2009. (Ph.D. in Computer Science and Engineering) Senior Research Fellow at Caltech. He has chaired the SBML effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with BioModels.net activities. |
+| ![Bader](https://sbgn.github.io/sbgn/images/about/photo-bader.png) | Gary Bader | member invited in 2010. (Ph.D. Biochemistry) Works on biological network analysis and pathway information resources as an Assistant Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the BioPAX biological pathways exchange language |
+| ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | member invited in 2011.(Ph.D.) Associate Professor of Preventive Medicine (Chief, Division of Bioinformatics) and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, and is a PI of the Gene Ontology project. |
 
 
 ### Funding
