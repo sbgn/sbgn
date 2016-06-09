@@ -7,14 +7,14 @@ permalinks: docs/faq/pd
 ## Process Description FAQs
 
 *  [Should I always use straight lines for connecting arcs?](#should-i-always-use-straight-lines-for-connecting-arcs)
-*  Can we represent reversible interactions with a single association or dissociation glyphs?
-*  Should I always represent reversible reactions as two separate processes?
-*  Why must the inputs and output always connect to opposite faces of a process?
-*  Where should consumption edges of an association process meet?
-*  How can I represent multi-compartment reactions without multiplying the (ugly) compartment boundaries?
-*  Why can't entity nodes overlap?
-*  Can I decorate my nodes?
-*  Should I always use state variables to represent covalent modifications? 
+*  [Can we represent reversible interactions with a single association or dissociation glyphs?]()
+*  [Should I always represent reversible reactions as two separate processes?]()
+*  [Why must the inputs and output always connect to opposite faces of a process?]()
+*  [Where should consumption edges of an association process meet?]()
+*  [How can I represent multi-compartment reactions without multiplying the (ugly) compartment boundaries?]()
+*  [Why can't entity nodes overlap?]()
+*  [Can I decorate my nodes?](#can-i-decorate-my-nodes)
+*  [Should I always use state variables to represent covalent modifications?](#should-i-always-use-state-variables-to-represent-covalent-modifications)
 
 ---
 
