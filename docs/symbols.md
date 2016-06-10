@@ -4,7 +4,7 @@ layout: default
 permalink: /docs/symbols
 ---
 
-## Stimulation
+## Stimulation Nov 2012
 
 By Nicolas Le Novère
 
@@ -29,7 +29,7 @@ Download the stimulation arc image as (from the more semantic to the more generi
 
 
 
-## Inhibition
+## Inhibition Dec 2012
 
 By Nicolas Le Novère
 
@@ -48,7 +48,7 @@ The following actual example describes the protein Gαi inhibiting the conversio
  Download the inhibition arc image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png) ]
 
-## Process
+## Process Jan 2013
 
 By Nicolas Le Novère
 
@@ -77,7 +77,7 @@ Download the process node image as (from the more semantic to the more generic):
 
 
 
-## Consumption Production Reversible
+## Consumption Production Reversible Feb 2013
 
 By Nicolas Le Novère
 
@@ -105,7 +105,7 @@ Download the consumption and production arcs images as (from the more semantic t
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png) ]
 
 
-## Macromolecule
+## Macromolecule Mar 2013
 
 By Nicolas Le Novère
 
@@ -129,7 +129,7 @@ Download the macromolecule node image as (from the more semantic to the more gen
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png) ]
 
 
-## Simple Chemical
+## Simple Chemical Apr 2013
 
 By Nicolas Le Novère
 
@@ -152,7 +152,7 @@ Download the macromolecule node image as (from the more semantic to the more gen
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png) ]
 
 
-## Catalysis
+## Catalysis Jun 2013
 
 By Nicolas Le Novère
 
@@ -174,7 +174,7 @@ Download the process node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.png) ]
 
 
-## Nucleic Acid Feature
+## Nucleic Acid Feature Oct 2013
 
 By Nicolas Le Novère
 
@@ -190,7 +190,7 @@ Download the nucleic acid feature node image as (from the more semantic to the m
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png) ]
 
 
-## Complex
+## Complex Jan 2014
 
 By Nicolas Le Novère
 
@@ -210,7 +210,7 @@ Download the complex node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/complex/Symbol-complex.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) ]
 
 
-## AF and PD Compartment
+## AF and PD Compartment Jan 2016
 
 by Vasundra Touré
 
@@ -236,7 +236,7 @@ Download the compartment node image as (from the more semantic to the more gener
 
 
 
-##  PD Clone Marker
+##  PD Clone Marker Feb 2016
 
 by Vasundra Touré
 
@@ -263,7 +263,7 @@ Download the clone marker node image as (from the more semantic to the more gene
 
 
 
-##  Biological Activity
+##  Biological Activity Mar 2016
 
 by Vasundra Touré
 
@@ -299,7 +299,7 @@ Download the biological activity node image as (from the more semantic to the mo
 [1] D. Pan, M. Fujimoto, A. Lopes, and Y.-X. Wang, “Twist-1 Is a PPARδ-Inducible, Negative-Feedback Regulator of PGC-1α in Brown Fat Metabolism,” Cell, vol. 137, no. 1, pp. 73–86, Apr. 2009. 
 
 
-##  Unit Of Information for BA
+##  Unit Of Information for BA Apr 2016
 
 by Vasundra Touré
 
@@ -331,7 +331,7 @@ Download the unit of information for a biological activity image as (from the mo
 
 
 
-##  Perturbing Agent
+##  Perturbing Agent May 2016
 
 by Vasundra Touré
 
@@ -357,7 +357,7 @@ Download the perturbing agent image as (from the more semantic to the more gener
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png) ] 
 
 
-##  Unspecified Entity
+##  Unspecified Entity Jun 2016
 
 by Vasundra Touré
 
