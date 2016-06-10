@@ -15,8 +15,8 @@ For a quick introduction about SBGN, please go to our [Publications](publication
 This page provides examples of all three SBGN languages
 
 #### Using SBGN
-*[Software](software.md) You can find a list of software from our software page
-*[Templates](templates.md) This link provides SBGN glyphs templates (reference cards) in various format so that you can incorporate them into your diagram.
+* [Software](software.md) You can find a list of software from our software page
+* [Templates](templates.md) This link provides SBGN glyphs templates (reference cards) in various format so that you can incorporate them into your diagram.
 
 ### Educational Resources
 
