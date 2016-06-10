@@ -4,7 +4,13 @@ layout: default
 permalink: /docs/learn_about_sbgn
 ---
 
-This page contains links to courses partially or exclusively devoted to teaching SBGN to students. It is aimed to help an educator to build a course and select tools to be used during the course.
+## Learn About SBGN
+
+
+
+### Educational Resources
+
+Below are links to courses partially or exclusively devoted to teaching SBGN to students. It is aimed to help an educator to build a course and select tools to be used during the course.
 
 # SBGN courses/lectures for graduate and undergrad students and tools used
 
@@ -23,6 +29,10 @@ This is not a comprehensive list of SBGN-supporting tools! Only tools friendly e
 -   [CellDesigner](http://www.celldesigner.org/) - used by many biologists (both modelers and non-modelers) to draw SBGN-PD diagrams that can be either converted to a computable model or used for presentations. Was used in UCHC ISB course.
 -   [SBGN-ED (Vanted)](http://www.sbgn-ed.org/) - a tool that can be used to draw SBGN-PD, ER and AF. Was used in UCHC ISB course.
 
-# How to Contribute
+#### How to Contribute
 
 If you gave a course that included SBGN, or developed an SBGN software that was used in educational activities, please send your slides or links to tools and course pages to Michael Blinov at blinov @ uchc . edu. You can also request a login and password to edit this page from Mike Hucka at ...
+
+## Develop Software Using SBGN
+
+TBA
