@@ -1,5 +1,6 @@
 ---
 title: Learn About SBGN
+layout: default
 permalink: /docs/learn_about_sbgn
 ---
 
