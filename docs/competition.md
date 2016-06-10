@@ -55,19 +55,12 @@ Software must be evaluated according to multiple criteria such as completeness, 
 | :------|:------:|
 | Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
 
-	
-iPAVS
-iPAVS
-
 ##### SBGN-ED - WINNER
 
 |SBGN-ED|WINNER|
 | :------|:------:|
-|Website: http://www.sbgn-ed.org/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> File containing the submission||
+|Website: http://www.sbgn-ed.org/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> File containing the submission|![SBGN-ED](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-1.png){: width="300px"}|
 
-	
-SBGN-ED
-SBGN-ED
 
 #### Best SBGN map: Breadth, accuracy, aesthetics
 
@@ -75,15 +68,14 @@ SBGN-ED
 
 |ER Stress response| - |
 | :------|:------:|
-|Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission <br> full size map|| 
+|Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission <br> full size map|![ER Stress response](https://raw.githubusercontent.com/sbgn/competition/master/ER-Stress-UPR-Kumar.png){: width="300px"}| 
 
-	
 
 ##### KEGG pathways in SBGN - WINNER
 
 |KEGG pathways in SBGN|WINNER|
 | :------|:------:|
-|Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission <br> full size map ||
+|Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission <br> full size map |![KEGG](https://raw.githubusercontent.com/sbgn/competition/master/KEGG-SBGN-map-small.png){: width="300px"}|
 
 	
 
@@ -91,7 +83,7 @@ SBGN-ED
 
 |TGF beta signaling pathway| - |
 | :------|:------:|
-|Contact: Katja Wegner <k.wegner@herts.ac.uk> <br> ‎Document describing the submission <br> full size map || 
+|Contact: Katja Wegner <k.wegner@herts.ac.uk> <br> ‎Document describing the submission <br> full size map |![TGF beta signaling](https://raw.githubusercontent.com/sbgn/competition/master/Tgfb.png){: width="300px"}| 
 
 	
 
@@ -99,7 +91,7 @@ SBGN-ED
 
 |Calcium regulation of synaptic plasticity| - |
 | :------|:------:|
-| Contact: Michele Mattioni <mattioni@ebi.ac.uk> <br> ‎Document describing the submission <br> full size map ||
+| Contact: Michele Mattioni <mattioni@ebi.ac.uk> <br> ‎Document describing the submission <br> full size map |![Calcium regulation](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-spine.png){: width="300px"}|
 
 	
 
@@ -109,19 +101,15 @@ SBGN-ED
 
 |Database: iPAVS|WINNER|
 | :------|:------:|
-| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> Document describing the submission ||
+| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> Document describing the submission |[iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
 
-	
-iPAVS
-iPAVS
 
 ##### Database: MetaCrop SBGN Maps
 
 |Database: MetaCrop SBGN maps|-|
 | :------|:------:|
-| Website: http://metacrop.ipk-gatersleben.de <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission ||
-MetaCrop
-MetaCrop
+| Website: http://metacrop.ipk-gatersleben.de <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission |[MetaCrop SBGN map](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop.png){: width="300px"}|
+
 
 ### Competition 2010
 
