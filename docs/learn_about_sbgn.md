@@ -6,7 +6,7 @@ permalink: /docs/learn_about_sbgn
 
 ## Learn About SBGN
 
-* [#### SBGN Publications](publications.md)
+[#### * SBGN Publications](publications.md)
 For a quick introduction about SBGN, please go to our [Publications](publications.md) page where you can find the initial paper describing the effor, as well as the current specifications.
 
 * Tutorials and presentations
