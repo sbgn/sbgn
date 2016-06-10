@@ -46,7 +46,7 @@ The following actual example describes the protein Gαi inhibiting the conversio
 ![Inhibition example real](SymbolMonth-inhibition-example-real.png)
 
  Download the inhibition arc image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png) ]
 
 ## Process
 
@@ -73,7 +73,7 @@ The following example describes the reversible conversion of the glutamate ionot
 ![Process example real 3](SymbolMonth-process-example-real-3.png)
 
 Download the process node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/process/Symbol-process.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png) ]
 
 
 
@@ -102,7 +102,7 @@ The following example describes the reversible conversion of the glutamate ionot
 ![Reversible example real](SymbolMonth-reversible-example-real.png)
 
 Download the consumption and production arcs images as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png) ]
 
 
 ## Macromolecule
@@ -126,7 +126,7 @@ Macromolecules can be decorated by state variables or unit of information, as we
 ![Macromolecule example real 3](Symbol-macromolecule-example-real-3.png)
 
 Download the macromolecule node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png) ]
 
 
 ## Simple Chemical
@@ -149,7 +149,7 @@ The following example describes the protein Gαi inhibiting the conversion of AT
 ![Simple chemical example real 3](Symbol-simpleChemical-example-real-3.png)
 
 Download the macromolecule node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png) ]
 
 
 ## Catalysis
@@ -171,7 +171,7 @@ The following actual example describes the conversion of glucose into glucose 6 
 ![Catalysis example real](Symbol-catalysis-example-real.png)
 
 Download the process node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ GraphML ] [ [SVG](https://github.com/sbgn/glyph-files/blob/master/catalysis/Symbol-catalysis.svg) ] [ Open Document Format ] [ PowerPoint ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.png) ]
 
 
 ## Nucleic Acid Feature
@@ -187,7 +187,7 @@ The following example describes the synthesis of a protein from amino-acids, tri
 {{#icon:Symbol-nucleicAcidFeature-example-1.png |||| corner iradius11}} 
 
 Download the nucleic acid feature node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png) ]
 
 
 ## Complex
@@ -207,7 +207,7 @@ The following example describes the binding the subunit alpha with subunits beta
 ![Complex example 2](Symbol-complex-example-2.png) 
 
 Download the complex node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/complex/Symbol-complex.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) ]
 
 
 ## AF and PD Compartment
@@ -225,7 +225,7 @@ Finally, compartments can hold units of information that will for instance give 
 
 Download the compartment node image as (from the more semantic to the more generic):
 
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/compartment/Symbol-compartment.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.png) ] 
 
 
 
@@ -248,7 +248,7 @@ ATP and ADP are found two times in this pathway, thus both are identified by a c
 
 Download the clone marker node image as (from the more semantic to the more generic):
 
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.png) ] 
 
 
 
@@ -276,7 +276,7 @@ The following example is based on the Figure 7E of Pan et al [1]. It depicts the
 
 Download the biological activity node image as (from the more semantic to the more generic):
 
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.png) ]
 
 
 [1] D. Pan, M. Fujimoto, A. Lopes, and Y.-X. Wang, “Twist-1 Is a PPARδ-Inducible, Negative-Feedback Regulator of PGC-1α in Brown Fat Metabolism,” Cell, vol. 137, no. 1, pp. 73–86, Apr. 2009. 
@@ -308,7 +308,7 @@ The following example shows the transcription regulation of the gene GAS by STAT
 
 Download the unit of information for a biological activity image as (from the more semantic to the more generic): [...]
 
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.svg) ] [ [Open Document Format]()https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.odp ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.png) ] 
 
 
 
@@ -330,7 +330,7 @@ The following example shows the transport of sodium chemical Na+ into the cytopl
 
 Download the perturbing agent image as (from the more semantic to the more generic):
 
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png) ] 
 
 
 ##  unspecified entity
@@ -347,7 +347,7 @@ The following example shows a part of the iNOS pathway (http://sbgnbricks.source
 
 Download the unspecified entity glyph image as (from the more semantic to the more generic):
 
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png) ] 
 
 
 
