@@ -53,7 +53,7 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |iPAVS| - |
 | :------|:------:|
-| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){ width:300px;}|
+| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
 
 	
 iPAVS
