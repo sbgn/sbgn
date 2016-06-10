@@ -13,7 +13,6 @@ Welcome to the global portal for documentation, news, and other information abou
 | [Complex (PD)](/docs/symbols/complex) | ![complex](/images/SymbolMonth-complex.png) |
 
 ## Example Pathway
-====================
 
 This pathway is an SBGN-PD diagram based on the following paper published in the October 2014 issue of the Cell magazine (PubMed ID: [25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)).
 
@@ -29,4 +28,4 @@ This diagram is also available in [SBGN-ML format](/Media:_POM_Nov2014_PD.sbgn).
 
 -----
 
-SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/Contacts#Funding ) over the years, for which we are very thankful.
+SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/docs/ ) over the years, for which we are very thankful.
