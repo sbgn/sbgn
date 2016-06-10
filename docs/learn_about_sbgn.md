@@ -6,6 +6,7 @@ permalink: /docs/learn_about_sbgn
 
 ## Learn About SBGN
 
+### [SBGN Publications](publications.md)
 
 
 ### Educational Resources
