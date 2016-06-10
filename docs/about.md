@@ -38,6 +38,8 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.jpg)           | Alexander Mazein  | 2015 - 2018          |
 | ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)      | Nicolas Le Novère | 2015 - 2018          |
 
+<br>
+
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
 | ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Jan 2012 - Dec 2015 |
