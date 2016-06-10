@@ -10,7 +10,7 @@ By Nicolas Le Novère
 
 A stimulation affects positively the flux of a process (its speed). This stimulation can be, for instance, a catalysis or a positive allosteric regulation. In SBGN Process Description language, the stimulation of a process is represented by the stimulation arc (Note that catalysis exists as an independent symbol in SBGN PD). The target extremity of a stimulation carries an empty arrowhead (note that the stimulation arcs of all three SBGN languages have the same appearance). A stimulation arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the stimulation arc is coloured in red:
 
-![Stimulation](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png) 
+![Stimulation](https://github.com/sbgn/glyph-files/blob/master/stimulation/SymbolMonth-stimulation.png) 
 
 The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B. 
 
@@ -309,18 +309,14 @@ An unit of information for a biological activity in AF illustrates the nature of
 
 
 There are six types of unit of information that can characterize a biological activity, as described below:
-||Name|Description|
-|:-:|:-:|:-:|
+
+|   | Name | Description |
+|:-:|:----:|:-----------:|
 |![Macromolecule](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-macromolecule.png) | Macromolecule | Represents a very large biochemical substance, usually a protein, a nucleic acid or a complex sugar. It’s unit of information is represented by a rectangle with rounded corners.| 	
-
 |![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-simplechemical.png)| Simple Chemical | Represents a small biochemical substance, usually an atom, a mono-atomic ion, a salt, a solid metal, etc. It’s unit of information is represented by a circular container. |	
-
 |![Nucleic acid feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-nucleicacidfeature.png)| Nucleic acid feature | In SBGN represents a fragment of a macromolecule carrying genetic information. It’s unit of information is represented by a rectangle whose bottom half has rounded corners. |	
-
 |![Unspecified entity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-unspecifiedentity.png) | Unspecified entity | Represents the entity type that is unknown or simply not relevant for the purposes of the maps. It’s unit of information is represented by an elliptic container. |	
-
 |![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-complex.png)| Complex | Represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals or other complexes. It’s unit of information is represented by an octagon container. |	
-
 |![Perturbation](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-perturbation.png)| Perturbation | Represents a physical phenomena that influence a biochemical network, such as a light pulse or a change in the temperature. It can also be more complex and not well defined, for instance, glucose deprivation or stress. It’s unit of information is represented by a modified hexagon container having two opposite concave faces. |	
 
 
@@ -344,11 +340,12 @@ A perturbing agent is an Entity Pool Node found in PD. This glyph represents ext
 ![Perturbing agent](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png)
 
 Units of information use a controlled vocabulary to describe the physical characteristics of a perturbing agent:
-|Name| 	Label| 	SBOterm|
-|:-:|:-:|:-:|
-|Temperature| 	pc:T| 	SBO:0000147|
-|Voltage| 	pc:V|	SBO:0000259|
-|pH| 	pc:pH| 	SBO:0000304|
+
+|Name | Label |	SBOterm |
+|-----|:-----:|:-------:|
+|Temperature| pc:T| SBO:0000147|
+|Voltage| pc:V|	SBO:0000259|
+|pH| pc:pH| SBO:0000304|
 
 
 The following example shows the transport of sodium chemical Na+ into the cytoplasm of a cell via the sodium channel. The sodium channel is sensitive to the membrane potential: when the membrane is polarized, the sodium channel is closed and when the membrane is depolarized, the sodium channel is opened. In our example, the membrane is depolarized (perturbing agent). This induce the opening of sodium channel and thus the import of sodium Na+ into the cytoplasm.
