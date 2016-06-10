@@ -1,10 +1,10 @@
 ---
-title: Learn About SBGN
+title: Learn To Use SBGN
 layout: default
-permalink: /docs/learn_about_sbgn
+permalink: /docs/learn_to_use_sbgn
 ---
 
-## Learn About SBGN
+## Learn To Use SBGN
 
 #### SBGN Publications
 For a quick introduction about SBGN, please go to our [Publications](publications.md) page where you can find [the initial SBGN paper](http://www.nature.com/nbt/journal/v27/n8/full/nbt.1558.html) describing the effort, as well as the current specifications.
