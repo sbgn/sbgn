@@ -2,7 +2,7 @@
 ---
 title: Symbols
 layout: default
-permalink: /docs/all_symbols
+permalink: /docs/symbols
 ---
 
 ## Stimulation
