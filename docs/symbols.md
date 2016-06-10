@@ -263,7 +263,7 @@ Download the clone marker node image as (from the more semantic to the more gene
 
 
 
-##  biological activity
+##  Biological Activity
 
 by Vasundra Touré
 
@@ -299,7 +299,7 @@ Download the biological activity node image as (from the more semantic to the mo
 [1] D. Pan, M. Fujimoto, A. Lopes, and Y.-X. Wang, “Twist-1 Is a PPARδ-Inducible, Negative-Feedback Regulator of PGC-1α in Brown Fat Metabolism,” Cell, vol. 137, no. 1, pp. 73–86, Apr. 2009. 
 
 
-##  unit of information for BA
+##  Unit Of Information for BA
 
 by Vasundra Touré
 
@@ -331,7 +331,7 @@ Download the unit of information for a biological activity image as (from the mo
 
 
 
-##  perturbing agent
+##  Perturbing Agent
 
 by Vasundra Touré
 
@@ -357,7 +357,7 @@ Download the perturbing agent image as (from the more semantic to the more gener
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png) ] 
 
 
-##  unspecified entity
+##  Unspecified Entity
 
 by Vasundra Touré
 
