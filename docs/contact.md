@@ -12,7 +12,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 | List | Archive | Info/sign-up |
 |--|---|--|
-| sbgn-discuss<br>An open mailing list for discussing the Systems Biology Graphical Notation.  | [sbgn-discuss archive](https://groups.google.com/forum/#!forum/sbgn-discuss) [(old sbgn-discuss archive)](https://lists.caltech.edu/pipermail/sbgn-discuss/) | [subscription page](https://groups.google.com/forum/#!forum/sbgn-discuss)       |
+| sbgn-discuss <br> An open mailing list for discussing the Systems Biology Graphical Notation.  | [sbgn-discuss archive](https://groups.google.com/forum/#!forum/sbgn-discuss) [(old sbgn-discuss archive)](https://lists.caltech.edu/pipermail/sbgn-discuss/) | [subscription page](https://groups.google.com/forum/#!forum/sbgn-discuss)       |
 | sbgn-announce  An announcement-only mailing list for the community at large.                | [sbgn-announce archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-announce) | [subscription page](https://lists.sourceforge.net/lists/listinfo/sbgn-announce) |
 
 ### For Developers
