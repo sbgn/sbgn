@@ -54,7 +54,7 @@ By Nicolas Le Novère
 
 A process is something that happens, involving one or more physical entities, and modifies the structure, location or free energy of at least one of the participants. Examples would be biochemical reactions or transports. In SBGN Process Description language, a process is represented by the process node, an unlabelled square. A process node is connected to the entity participating (entity pool node, labelled "EPN" in the figure below), via arcs representing consumption, production or modulation. In the drawing below, the process node is coloured in red:
 
-![Process](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/SymbolMonth-process.png){: .center-image }
+![Process](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png){: .center-image }
  
 The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B. 
 
