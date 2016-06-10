@@ -4,8 +4,8 @@ layout: default
 permalink: /docs/faqs
 ---
 
-## FAQs
-------------
+# FAQs
+
 The Frequently Asked Questions section provides answers to some frequently asked questions about SBGN.
 
 1.  [FAQ about PD](faq/pd)

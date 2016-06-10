@@ -4,7 +4,7 @@ layout: default
 permalink: /docs/examples
 ---
 
-## Examples
+# Examples
 
 * [PD Level 1 Examples](#pd-level-1-examples)
 * [ER Level 1 Examples](#er-level-1-examples)

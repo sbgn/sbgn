@@ -4,6 +4,8 @@ layout: default
 permalink: /docs/contact
 ---
 
+# Contact
+
 The SBGN mailing lists are where questions are asked and the latest developments discussed. There are different lists for different purposes and aspects of the SBGN effort.
 
 ### For End-Users

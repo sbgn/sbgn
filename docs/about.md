@@ -4,7 +4,7 @@ title: About
 permalinks: docs/about
 ---
 
-## About
+# About
 
 *  [Get involved](#get-involved)
 *  [SBGN Editors](#sbgn-editors)

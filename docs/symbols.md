@@ -4,9 +4,11 @@ layout: default
 permalink: /docs/symbols
 ---
 
-## Stimulation Nov 2012
+# Symbols
 
-By Nicolas Le Novère
+## Stimulation
+
+By Nicolas Le Novère (Nov 2012)
 
 A stimulation affects positively the flux of a process (its speed). This stimulation can be, for instance, a catalysis or a positive allosteric regulation. In SBGN Process Description language, the stimulation of a process is represented by the stimulation arc (Note that catalysis exists as an independent symbol in SBGN PD). The target extremity of a stimulation carries an empty arrowhead (note that the stimulation arcs of all three SBGN languages have the same appearance). A stimulation arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the stimulation arc is coloured in red:
 
@@ -27,11 +29,9 @@ The following actual example describes the stimulation of calcium excretion from
 Download the stimulation arc image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png) ]
 
+## Inhibition
 
-
-## Inhibition Dec 2012
-
-By Nicolas Le Novère
+By Nicolas Le Novère (Dec 2012)
 
 An inhibition affects negatively the flux of a process (its speed). This inhibition can be, for instance, the effect of a channel blocker or a negative allosteric regulation. In SBGN Process Description language, the inhibition of a process is represented by the inhibition arc (note that the inhibition arcs of all three SBGN languages have the same appearance). The target extremity of an inhibition carries a bar perpendicular to the end of the arc. An inhibition arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the inhibition arc is coloured in red:
 
@@ -48,9 +48,9 @@ The following actual example describes the protein Gαi inhibiting the conversio
  Download the inhibition arc image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png) ]
 
-## Process Jan 2013
+## Process
 
-By Nicolas Le Novère
+By Nicolas Le Novère (Jan 2013)
 
 A process is something that happens, involving one or more physical entities, and modifies the structure, location or free energy of at least one of the participants. Examples would be biochemical reactions or transports. In SBGN Process Description language, a process is represented by the process node, an unlabelled square. A process node is connected to the entity participating (entity pool node, labelled "EPN" in the figure below), via arcs representing consumption, production or modulation. In the drawing below, the process node is coloured in red:
 
@@ -76,10 +76,9 @@ Download the process node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/process/Symbol-process.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png) ]
 
 
+## Consumption Production Reversible
 
-## Consumption Production Reversible Feb 2013
-
-By Nicolas Le Novère
+By Nicolas Le Novère (Feb 2013)
 
 A process transforms one or several physical entities into one or several others. Examples would be biochemical reactions converting chemicals into others or transport reactions moving chemicals from one compartment to another. In SBGN Process Description language, the use of reactants is represented by the consumption arc, a simple arc without specific ends. The generation of products is represented by the production arc, an arc ending by a filled arrowhead. In the drawing below, the consumption and production arcs are coloured in red:
 
@@ -105,9 +104,9 @@ Download the consumption and production arcs images as (from the more semantic t
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png) ]
 
 
-## Macromolecule Mar 2013
+## Macromolecule 
 
-By Nicolas Le Novère
+By Nicolas Le Novère (Mar 2013)
 
 Many biological processes involve macromolecules: biochemical substances that are built up from the covalent linking of pseudo-identical units. Examples of macromolecules include proteins, nucleic acids (RNA, DNA), and polysaccharides (glycogen, cellulose, starch, etc.). Attempting to define a separate glyph for all of these different molecules would lead to an explosion of symbols in SBGN, so instead, SBGN Process Description Level 1 defines only one glyph for all macromolecules. The same glyph is to be used for a protein, a nucleic acid, a complex sugar, and so on. The exact nature of a particular macromolecule in a map is then clarified using its label and decorations. A macromolecule is represented by a rectangular container with rounded corners.
 
@@ -131,7 +130,7 @@ Download the macromolecule node image as (from the more semantic to the more gen
 
 ## Simple Chemical Apr 2013
 
-By Nicolas Le Novère
+By Nicolas Le Novère (Apr 2013)
 
 In SBGN Process Descriptions, a simple chemical is defined as the opposite of a macromolecule: it is a chemical compound that is not formed by the covalent linking of pseudo-identical residues. Examples of simple chemicals are an atom, a monoatomic ion, a salt, a radical, a solid metal, a crystal, etc. A simple chemical is represented by a circular container.
 ![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png){: .center-image }
@@ -152,9 +151,9 @@ Download the macromolecule node image as (from the more semantic to the more gen
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png) ]
 
 
-## Catalysis Jun 2013
+## Catalysis 
 
-By Nicolas Le Novère
+By Nicolas Le Novère (Jun 2013)
 
 A catalysis is a particular case of stimulation, where the effector affects positively the flux of a process represented by the target process. The positive effect on the process is due to the lowering of the activation energy of a reaction. The target extremity of a catalysis carries an empty circle.
 
@@ -174,9 +173,9 @@ Download the process node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.png) ]
 
 
-## Nucleic Acid Feature Oct 2013
+## Nucleic Acid Feature 
 
-By Nicolas Le Novère
+By Nicolas Le Novère (Oct 2013)
 
 The Nucleic Acid Feature construct in SBGN is meant to represent a fragment of a macromolecule carrying genetic information. A common use for this construct is to represent a gene or a transcript. The macromolecule would be the entire nucleic acid molecule, such as an entire chromatide. The Nucleic acid feature has two round corners, to remind it is carried by a macromolecule, and two right angle corners, to remind it is essentially a unit of information rather than a bona fide molecule.
 
@@ -190,9 +189,9 @@ Download the nucleic acid feature node image as (from the more semantic to the m
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png) ]
 
 
-## Complex Jan 2014
+## Complex 
 
-By Nicolas Le Novère
+By Nicolas Le Novère (Jan 2014)
 
 A complex node represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals, multimers, or other complexes, linked by non-covalent bounds. The complex construct in SBGN possesses its own symbol, which is a rectangle with cut-corners (an octagonal box with sides of two different lengths). This symbol can be decorated with the symbols of its components. In this case, the label of the complex is optional.
 
@@ -210,9 +209,9 @@ Download the complex node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/complex/Symbol-complex.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) ]
 
 
-## AF and PD Compartment Jan 2016
+## AF and PD Compartment 
 
-by Vasundra Touré
+by Vasundra Touré (Jan 2016)
 
 A compartment is a container node found in SBGN PD and SBGN AF. It is a logical or physical structure that contains entity pool nodes (EPNs). One EPN belongs to one compartment. Thus, two "same" entities located in two different compartments are actually two different pools. The compartment has its own symbol: it is an enclosed structure with thick borders that can have any geometry. It should carry a label to characterise the compartment's name.
 
@@ -236,9 +235,9 @@ Download the compartment node image as (from the more semantic to the more gener
 
 
 
-##  PD Clone Marker Feb 2016
+##  PD Clone Marker 
 
-by Vasundra Touré
+by Vasundra Touré (Feb 2016)
 
 A clone marker is an auxiliary unit found in SBGN PD that can be hold by Entity Pool Nodes (EPNs). It informs that the entity has been duplicated: a visual indication shows that at least one other occurrence of the EPN can be found in the map. A glyph is marked by a clone marker when it is filled in it's lower part. There are two types of clone markers: the simple clone marker (unlabeled) and the labeled clone marker.
 
@@ -263,9 +262,9 @@ Download the clone marker node image as (from the more semantic to the more gene
 
 
 
-##  Biological Activity Mar 2016
+##  Biological Activity
 
-by Vasundra Touré
+by Vasundra Touré (Mar 2016)
 
 A biological activity is an Activity Node found in SBGN AF. It is used for representing molecular activities of all types of biological entities. The glyph has a rectangle shape and carries a label representing the activity.
 
@@ -299,9 +298,9 @@ Download the biological activity node image as (from the more semantic to the mo
 [1] D. Pan, M. Fujimoto, A. Lopes, and Y.-X. Wang, “Twist-1 Is a PPARδ-Inducible, Negative-Feedback Regulator of PGC-1α in Brown Fat Metabolism,” Cell, vol. 137, no. 1, pp. 73–86, Apr. 2009. 
 
 
-##  Unit Of Information for BA Apr 2016
+##  Unit Of Information for BA 
 
-by Vasundra Touré
+by Vasundra Touré (Apr 2016)
 
 An unit of information for a biological activity in AF illustrates the nature of the entity from which the activity comes from. It is always represented with a biological activity glyph. The unit of information can provide two types of information: the nature of the entity represented by the shape of the unit of information and the name of the entity represented by a label in the unit of information.
 
@@ -331,9 +330,9 @@ Download the unit of information for a biological activity image as (from the mo
 
 
 
-##  Perturbing Agent May 2016
+##  Perturbing Agent
 
-by Vasundra Touré
+by Vasundra Touré (May 2016)
 
 A perturbing agent is an Entity Pool Node found in PD. This glyph represents external influences carried on a biochemical network. Those influences can be the effect of well-defined physical perturbing agents, such as light pulse or a temperature change. They can also be more complex and not well-defined phenomena, for instance the outcome of a biological process or a mutation. The perturbing agent glyph is represented by a modified hexagon having two opposite concave faces. It is identified by a label and may carry a clone marker. One or more units of information can also be defined.
 
@@ -357,9 +356,9 @@ Download the perturbing agent image as (from the more semantic to the more gener
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png) ] 
 
 
-##  Unspecified Entity Jun 2016
+##  Unspecified Entity 
 
-by Vasundra Touré
+by Vasundra Touré (Jun 2016)
 
 In SBGN PD, the unspecified entity is the simplest and the most generic Entity Pool Node (EPN). It defines unknown or uncertain biological elements, or simply non-relevant information for the map. An unspecified entity is represented by an elliptic shape and is identified by a label.
 

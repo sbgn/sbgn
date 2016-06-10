@@ -4,7 +4,7 @@ title: Events
 permalinks: docs/events
 ---
 
-## Events
+# Events
 
 *  [SBGN Events](#sbgn-events)
 *  [COMBINE Events](#combine-events)

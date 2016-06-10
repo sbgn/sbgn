@@ -4,7 +4,7 @@ layout: default
 permalink: /docs/software_support/
 ---
 
-## Software Support
+# Software Support
 
 *  [Software](#software)
 *  [Databases](#databases)
