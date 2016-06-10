@@ -4,7 +4,11 @@ layout: default
 permalink: /docs/examples
 ---
 
-# AF_L1_Examples
+*[AF Level 1 Examples](#AF_L1_Examples)
+*[ER_L1_Examples](#ER_L1_Examples)
+*[PD_L1_Examples](#PD_L1_Examples)
+
+# AF Level 1 Examples
 
 Repressilator
 --------------
@@ -133,6 +137,6 @@ The following map won the annual SBGN competition 2010, section best map.
 
 ![MetaCrop-plant-central-metabolism](../images/examples/MetaCrop-plant-central-metabolism-small.png){: .center-image }
 
-[Full size image](https://github.com/sbgn/sbgn/blob/gh-pages/images/examples/MetaCrop-plant-central-metabolism.png)
+[Full size image](https://raw.githubusercontent.com/sbgn/sbgn/gh-pages/images/examples/MetaCrop-plant-central-metabolism.png)
 
 
