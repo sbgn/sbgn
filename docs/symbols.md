@@ -10,19 +10,19 @@ By Nicolas Le Novère
 
 A stimulation affects positively the flux of a process (its speed). This stimulation can be, for instance, a catalysis or a positive allosteric regulation. In SBGN Process Description language, the stimulation of a process is represented by the stimulation arc (Note that catalysis exists as an independent symbol in SBGN PD). The target extremity of a stimulation carries an empty arrowhead (note that the stimulation arcs of all three SBGN languages have the same appearance). A stimulation arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the stimulation arc is coloured in red:
 
-![Stimulation](https://github.com/sbgn/glyph-files/blob/master/stimulation/SymbolMonth-stimulation.png) 
+![Stimulation](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png){: .center-image } 
 
 The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B. 
 
-![Stimulation example](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example.png) 
+![Stimulation example](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example.png){: .center-image } 
 
 The following actual example describes calcium stimulating the conversion of inactive calmodulin into active one. 
 
-![Stimulation example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real.png) 
+![Stimulation example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real.png){: .center-image } 
 
 The following actual example describes the stimulation of calcium excretion from the endoplasmic reticulum by the inositol 3 phosphate receptor. 
 
-![Stimulation example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real-2.png) 
+![Stimulation example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real-2.png){: .center-image } 
 
 Download the stimulation arc image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png) ]
@@ -305,19 +305,19 @@ by Vasundra Touré
 
 An unit of information for a biological activity in AF illustrates the nature of the entity from which the activity comes from. It is always represented with a biological activity glyph. The unit of information can provide two types of information: the nature of the entity represented by the shape of the unit of information and the name of the entity represented by a label in the unit of information.
 
-![Unit of information for Biological Activity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA.png)
+![Unit of information for Biological Activity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.png)
 
 
 There are six types of unit of information that can characterize a biological activity, as described below:
 
 |   | Name | Description |
 |:-:|:----:|:-----------:|
-|![Macromolecule](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-macromolecule.png) | Macromolecule | Represents a very large biochemical substance, usually a protein, a nucleic acid or a complex sugar. It’s unit of information is represented by a rectangle with rounded corners.| 	
-|![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-simplechemical.png)| Simple Chemical | Represents a small biochemical substance, usually an atom, a mono-atomic ion, a salt, a solid metal, etc. It’s unit of information is represented by a circular container. |	
-|![Nucleic acid feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-nucleicacidfeature.png)| Nucleic acid feature | In SBGN represents a fragment of a macromolecule carrying genetic information. It’s unit of information is represented by a rectangle whose bottom half has rounded corners. |	
-|![Unspecified entity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-unspecifiedentity.png) | Unspecified entity | Represents the entity type that is unknown or simply not relevant for the purposes of the maps. It’s unit of information is represented by an elliptic container. |	
-|![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-complex.png)| Complex | Represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals or other complexes. It’s unit of information is represented by an octagon container. |	
-|![Perturbation](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-perturbation.png)| Perturbation | Represents a physical phenomena that influence a biochemical network, such as a light pulse or a change in the temperature. It can also be more complex and not well defined, for instance, glucose deprivation or stress. It’s unit of information is represented by a modified hexagon container having two opposite concave faces. |	
+|![Macromolecule](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-macromolecule.png) | Macromolecule | Represents a very large biochemical substance, usually a protein, a nucleic acid or a complex sugar. It’s unit of information is represented by a rectangle with rounded corners.| 	
+|![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-simplechemical.png)| Simple Chemical | Represents a small biochemical substance, usually an atom, a mono-atomic ion, a salt, a solid metal, etc. It’s unit of information is represented by a circular container. |	
+|![Nucleic acid feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-nucleicacidfeature.png)| Nucleic acid feature | In SBGN represents a fragment of a macromolecule carrying genetic information. It’s unit of information is represented by a rectangle whose bottom half has rounded corners. |	
+|![Unspecified entity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-unspecifiedentity.png) | Unspecified entity | Represents the entity type that is unknown or simply not relevant for the purposes of the maps. It’s unit of information is represented by an elliptic container. |	
+|![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-complex.png)| Complex | Represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals or other complexes. It’s unit of information is represented by an octagon container. |	
+|![Perturbation](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-perturbation.png)| Perturbation | Represents a physical phenomena that influence a biochemical network, such as a light pulse or a change in the temperature. It can also be more complex and not well defined, for instance, glucose deprivation or stress. It’s unit of information is represented by a modified hexagon container having two opposite concave faces. |	
 
 
 The following example shows the transcription regulation of the gene GAS by STAT1. We can see that the protein STAT1 (a macromolecule) and the gene GAS (a nucleic acid feature) needs to form a complex in order to activate the transcription of GAS mRNA.
