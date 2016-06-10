@@ -31,7 +31,7 @@ This page provides access to meeting pages, agendas, and other information about
 | ![SBGN 3](../images/events/SBGN3-100x100.jpg) | **SBGN 3**<br>30 September 2007<br>*Long Beach, USA*<br><br>SBGN 3 was held prior ICSB 2007. |
 | ![SBGN 2.5](../images/events/SBGN2.5-100x100.jpg) | **SBGN 2.5**<br>15 - 17 March 2007<br>*Heidelberg, Germany*<br><br>This SBGN workshop was a "spec-a-thon" where a smaller group of people worked on hammering out details of rough draft specification for SBGN Level 1. |
 | ![SBGN 2](../images/events/SBGN2-100x100.jpg) | **SBGN 2**<br>7 October 2006<br>*Yokohama, Japan*<br><br>The second SBGN workshop held prior ICSB 2006. |
-| ![SBGN 1](../images/events/SBGN1-100x100.jpg) | **SBGN 1**<br>11 - 12 February 2006<br>*Tokyo, Japan* |
+| ![SBGN 1](../images/events/SBGN1-100x100.jpg) | **[SBGN 1](https://github.com/sbgn/sbgn/wiki/SBGN-1)**<br>11 - 12 February 2006<br>*Tokyo, Japan* |
 
 
 ### COMBINE Events
