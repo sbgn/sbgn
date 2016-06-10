@@ -4,11 +4,13 @@ layout: default
 permalink: /docs/examples
 ---
 
+## Examples
+
 * [AF Level 1 Examples](#AF_L1_Examples)
 * [ER_L1_Examples](#ER_L1_Examples)
 * [PD_L1_Examples](#PD_L1_Examples)
 
-# AF Level 1 Examples
+### AF Level 1 Examples
 
 Repressilator
 --------------
@@ -25,7 +27,7 @@ This is a representation in AF of the signaling pathways triggered by EGF bindin
 
 ![EGFfromSTKEinAF2](../images/examples/EGFfromSTKEinAF2.png){: .center-image }
 
-# ER_L1_Examples
+### ER_L1_Examples
 
 Autophagy
 ---------
@@ -81,7 +83,7 @@ Interaction between -10 hexanucleotide and sigma-subunit is required for melting
 
 ![Transcription_initiation_er](../images/examples/Transcription_initiation_er.gif){: .center-image }
 
-# PD_L1_Examples
+### PD_L1_Examples
 
 MAPK
 ----
