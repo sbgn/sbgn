@@ -10,8 +10,8 @@ permalink: /docs/learn_about_sbgn
 For a quick introduction about SBGN, please go to our [Publications](publications.md) page where you can find the initial paper describing the effort, as well as the current specifications.
 
 #### Tutorials and presentations
-Cilck [here](https://github.com/sbgn/educational-resources/raw/master/SBGN_update_101215.pdf) for the latest comprehensive update about the SBGN at [COMBINE 2015](http://co.mbine.org/events/COMBINE_2015)
-
+* Cilck [here](https://github.com/sbgn/educational-resources/raw/master/SBGN_update_101215.pdf) for the latest comprehensive update about the SBGN at [COMBINE 2015](http://co.mbine.org/events/COMBINE_2015)
+* Additional tutorial materials can be found at our [Education Resource repository](../educational-resources).
 
 #### Example SBGN Diagrams
 The [Examples](examples.md) page provides a number of SBGN diagrams of all three SBGN languages.
