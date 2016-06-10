@@ -3,12 +3,18 @@ layout: default
 title: About
 permalinks: docs/about
 ---
+
 ## About
+
+*  [Get involved](#get-involved)
+*  [SBGN Editors](#sbgn-editors)
+*  [SBGN Scientific Committee](#sbgn-scientific-committee)
+*  [Funding](#funding)
+*  [Ownership](#ownership)
 
 The mission of SBGN project is to develop high quality, standard graphical languages for representing biological processes and interactions. 
 Each SBGN language is based on the consensus of the broad international SBGN community of biologists, curators and software developers.
 Over the course of its development many individuals, organizations and companies made invaluable contributions to the SBGN through participating in discussions and meetings, providing feedback on the documentation and worked examples, adopting the standard and spreading the word. 
-
 
 ### Get involved
 
@@ -37,7 +43,6 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 <br>
 <br>
 
-
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
 | ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Jan 2012 - Dec 2015 |
@@ -48,7 +53,6 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Sep 2008 - Dec 2010 <br> Jan 2012 - Dec 2014 |
 | ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
 | ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Sep 2008 - Dec 2009 <br> Jan 2012 - Dec 2014 |
-
 
 ### SBGN Scientific Committee
 
@@ -67,12 +71,12 @@ Principal investigators of grants supporting SBGN development and maintenance ar
 | ![Bader](https://sbgn.github.io/sbgn/images/about/photo-bader.png) | Gary Bader | member invited in 2010. (Ph.D. Biochemistry) Works on biological network analysis and pathway information resources as an Assistant Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the BioPAX biological pathways exchange language |
 | ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | member invited in 2011.(Ph.D.) Associate Professor of Preventive Medicine (Chief, Division of Bioinformatics) and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, and is a PI of the Gene Ontology project. |
 
-
 Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a PI and invited member between 2009 and 2015.
 
 ### Funding
 
 We are deeply indebted to the many funding agencies and organizations that have supported SBGN over the years.
+
 The development of SBGN during 2005–2008 was mainly supported by a grant from the Japanese [New Energy and Industrial Technology Development Organization](http://www.nedo.go.jp/) (NEDO).
 The principal investigators were Hiroaki Kitano, Akira Funahashi, Nicolas Le Novère, and Michael Hucka.
 The [Okinawa Institute of Science and Technology](http://www.oist.jp/) (OIST), the British [Biotechnology and Biological Sciences Research Council](http://www.bbsrc.ac.uk/) (BBSRC) through a Japan Partnering Award, and a US Partnering Award, the [European Media Laboratory](http://www.eml-r.org/) (EML Research GmbH), the Beckman Institute BNMC at the California Institute of Technology, and US [National Science Foundation](www.nsf.gov) (NSF) provided additional support for SBGN workshops.
