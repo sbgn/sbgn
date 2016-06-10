@@ -4,9 +4,9 @@ layout: default
 permalink: /docs/examples
 ---
 
-*[AF Level 1 Examples](#AF_L1_Examples)
-*[ER_L1_Examples](#ER_L1_Examples)
-*[PD_L1_Examples](#PD_L1_Examples)
+* [AF Level 1 Examples](#AF_L1_Examples)
+* [ER_L1_Examples](#ER_L1_Examples)
+* [PD_L1_Examples](#PD_L1_Examples)
 
 # AF Level 1 Examples
 
