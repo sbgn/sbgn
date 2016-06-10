@@ -171,7 +171,7 @@ The following actual example describes the conversion of glucose into glucose 6 
 ![Catalysis example real](Symbol-catalysis-example-real.png)
 
 Download the process node image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ GraphML ] [ [SVG](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.svg) ] [ Open Document Format ] [ PowerPoint ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ PNG ]
+[ SBGN-ML ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ GraphML ] [ [SVG](https://github.com/sbgn/glyph-files/blob/master/catalysis/Symbol-catalysis.svg) ] [ Open Document Format ] [ PowerPoint ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ PNG ]
 
 
 ## Nucleic Acid Feature
