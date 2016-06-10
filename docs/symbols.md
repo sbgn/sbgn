@@ -25,7 +25,7 @@ The following actual example describes the stimulation of calcium excretion from
 ![Stimulation example real 2](SymbolMonth-stimulation-example-real-2.png) 
 
 Download the stimulation arc image as (from the more semantic to the more generic):
-[ SBGN-ML ] [ GML ] [ GraphML ] [ SVG ] [ Open Document Format ] [ PowerPoint ] [ PDF ] [ PNG ]
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png) ]
 
 
 
