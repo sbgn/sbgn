@@ -12,11 +12,9 @@ This page lists the main SBGN publications. If you want to cite SBGN, please use
    [The Systems Biology Graphical Notation](http://www.nature.com/nbt/journal/v27/n8/full/nbt.1558.html)  
    *Nature Biotechnology*, 27(8):735-741, 2009
 
-   [Citations CrossRef](http://www.nature.com/cited/cited.html?doi=10.1038/nbt.1558)
-
-   [Citations Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=2963672330742874231&scipsc=&q=&scisbd=1)
-
-   [Citations PubMed](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed_citedin&from_uid=19668183)
+    - [Citations CrossRef](http://www.nature.com/cited/cited.html?doi=10.1038/nbt.1558)
+    - [Citations Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=2963672330742874231&scipsc=&q=&scisbd=1)
+    - [Citations PubMed](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed_citedin&from_uid=19668183)
 
 *  Stuart Moodie, Nicolas Le Novère, Emek Demir, Huaiyu Mi and Alice Villéger  
    [Systems Biology Graphical Notation: Process Description language Level 1 Version 1.3](http://journal.imbio.de/article.php?aid=263)  
