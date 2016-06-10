@@ -1,10 +1,10 @@
 items:
+  "Learn About SBGN": "/docs/learn_about_sbgn"
+  "Symbols": "/docs/symbols"
+  "Example Diagrams": "/docs/examples"
   "Publications": "/docs/publications"
   "Software Support": "/docs/software_support"
   "Specifications": "/docs/specifications"
   "Events": "/docs/events"
   "FAQ": "/docs/faqs"
   "About": "/docs/about"
-  "Examples": "/docs/examples"
-  "Symbols": "/docs/symbols"
-  "Learn About SBGN": "/docs/learn_about_sbgn"
