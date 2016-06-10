@@ -27,7 +27,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 
 ### For SBGN Editors
-SBGN editors are community elected members responsible for specification development. Click [here] (about.md#sbgn-editors) for more details about the SBGN editorial board and how to become one. 
+SBGN editors are community elected members responsible for specification development. Click [here](about.md#sbgn-editors) for more details about the SBGN editorial board and how to become one. 
 
 | List | Archive  | Info/sign-up 
 |--|--|--|
