@@ -322,7 +322,7 @@ There are six types of unit of information that can characterize a biological ac
 
 The following example shows the transcription regulation of the gene GAS by STAT1. We can see that the protein STAT1 (a macromolecule) and the gene GAS (a nucleic acid feature) needs to form a complex in order to activate the transcription of GAS mRNA.
 
-![Unit of information for Biological Activity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information/Symbol-UnitOfInfo-BA-example-1.png){: .center-image }
+![Unit of information for Biological Activity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-example-1.png){: .center-image }
 
 
 Download the unit of information for a biological activity image as (from the more semantic to the more generic):
