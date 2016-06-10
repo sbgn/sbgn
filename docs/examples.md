@@ -81,7 +81,7 @@ Interaction between -10 hexanucleotide and sigma-subunit is required for melting
 
 This example of an SBGN Process Description uses two kinds of *Entity Pool Nodes* (that is, nodes representing biochemically-indistinguishable entities such as molecules). One kind of Entity Pool Node (whose glyph is a rounded rectangle) represents different *macromolecules*, and the other (whose glyph is a circle) represents pools of *simple chemicals*. Most macromolecule nodes in this map are also adorned with *state variables* representing phosphorylation states. This map uses one type of process node, the *transition node*, and one kind of connecting arc, *catalysis*. Finally, some entity pool nodes have dark bands along their bottoms; these are *clone markers* indicating that the same pool nodes appear multiple times in the diagram.
 
-![MAPK-PD](../images/examples/sample-mapk-pd.png){: .center-image }
+![MAPK-PD](../images/examples/Sample-mapk-pd.png){: .center-image }
 
 #### Glycolysis
 
@@ -110,7 +110,7 @@ And the colorful version of that map as well:
 
 This next example involves a gene regulatory network. It also shows the use of the Entity Pool Node *source/sink* and the *logical operator* glyph for *and*.
 
-![IFN-regulation](../images/examples/sample-ifn-gene.png){: .center-image }
+![IFN-regulation](../images/examples/Sample-ifn-gene.png){: .center-image }
 
 #### Repressilator
 
