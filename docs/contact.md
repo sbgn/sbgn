@@ -33,3 +33,14 @@ The SBGN mailing lists are where questions are asked and the latest developments
 | **sbgn-editors** <br> A private mailing list for the SBGN Editors to discuss SBGN development, planning, event organization, and other matters.              | [sbgn-editors archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-editors)         |              |
 | **sbgn-editors-all** <br> A private mailing list for all the SBGN Editors, past an present, in order to discuss specific issues that require editor experience.  | [sbgn-editors-all archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-editors-all) |              |
 | **sbgn-scicom** <br> A private mailing list for the SBGN Scientific Committee to discuss SBGN development, endorsement and support.                         | [sbgn-scicom archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-scicom)           |              |
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
