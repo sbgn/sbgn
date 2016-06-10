@@ -6,17 +6,17 @@ permalink: /docs/learn_about_sbgn
 
 ## Learn About SBGN
 
-#### [* SBGN Publications](publications.md)
-For a quick introduction about SBGN, please go to our [Publications](publications.md) page where you can find the initial paper describing the effor, as well as the current specifications.
+#### [SBGN Publications](publications.md)
+For a quick introduction about SBGN, please go to our [Publications](publications.md) page where you can find the initial paper describing the effort, as well as the current specifications.
 
-* Tutorials and presentations
+#### Tutorials and presentations
 
-* [Examples](examples.md)
+#### [Examples](examples.md)
 This page provides examples of all three SBGN languages
 
-* Using SBGN
-** [Software](software.md) You can find a list of software from our software page
-** [Templates](templates.md) This link provides SBGN glyphs templates (reference cards) in various format so that you can incorporate them into your diagram.
+#### Using SBGN
+*[Software](software.md) You can find a list of software from our software page
+*[Templates](templates.md) This link provides SBGN glyphs templates (reference cards) in various format so that you can incorporate them into your diagram.
 
 ### Educational Resources
 
