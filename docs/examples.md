@@ -133,8 +133,6 @@ The following map won the annual SBGN competition 2010, section best map.
 
 ![MetaCrop-plant-central-metabolism](../images/examples/MetaCrop-plant-central-metabolism-small.png){: .center-image }
 
-Full size image
-
-![MetaCrop-plant-central-metabolism-Full-size](../images/examples/MetaCrop-plant-central-metabolism.png){: .center-image }
+[Full size image](https://github.com/sbgn/sbgn/blob/gh-pages/images/examples/MetaCrop-plant-central-metabolism.png)
 
 
