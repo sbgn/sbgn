@@ -10,7 +10,9 @@ permalink: /docs/competition
 An annual competition is organized to stimulate implementation of SBGN support and the use of the notation. The categories in which to compete are better suited either for developers or for end users. Everyone is allow to compete, and the entries are judged by the community.
 
 *  [Categories](#categories)
-  * [Best SBGN software support (1) - Completeness, exactitude, validation](#best-sbgn-software-support-1-completeness-exactitude-validation)
+  * [Best SBGN software support (1) - Completeness, exactitude, validation](#best-sbgn-software-support-1-completeness-,-exactitude-,-validation)
+
+
     Categories
         
         Best SBGN software support (2) - Layout and rendering
@@ -21,7 +23,7 @@ An annual competition is organized to stimulate implementation of SBGN support a
 
 ## Categories
 
-### Best SBGN software support (1) - Completeness, exactitude, validation
+### Best SBGN software support 1 Completeness, exactitude, validation
 
 Submit details of your software, including links to the instructions for installation and use. Provide visual proofs that a) your software supports all or most of SBGN languages, b) your software uses the languages accurately, following not only the glyphs but also the syntax and semantics, c) is able to catch or correct mistakes made by users.
 
