@@ -101,14 +101,14 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |Database: iPAVS|WINNER|
 | :------|:------:|
-| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> Document describing the submission |[iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
+| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> Document describing the submission |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
 
 
 ##### Database: MetaCrop SBGN Maps
 
 |Database: MetaCrop SBGN maps|-|
 | :------|:------:|
-| Website: http://metacrop.ipk-gatersleben.de <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission |[MetaCrop SBGN map](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop.png){: width="300px"}|
+| Website: http://metacrop.ipk-gatersleben.de <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission |![MetaCrop SBGN map](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop.png){: width="300px"}|
 
 
 ### Competition 2010
@@ -144,112 +144,90 @@ Below are all the submissions to the SBGN annual competition 2010, grouped by se
 
 ##### BIOCHAM
 
-    Website: http://contraintes.inria.fr/BIOCHAM/
-    Contact: Dragana Jovanovska
-    ‎Document describing the submission 
-
-	
-BIOCHAM
-BIOCHAM
+|BIOCHAM|-|
+|:------|:------:|
+| Website: http://contraintes.inria.fr/BIOCHAM/ <br> Contact: Dragana Jovanovska <prijatelkatadadicka@yahoo.com> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/BIOCHAM-SBGN_competition_software-1.pdf) | ![BIOCHAM](https://raw.githubusercontent.com/sbgn/competition/master/Biocham.png){: width="300px"}|
 
 ##### CellDesigner
 
-    Website: http://www.celldesigner.org/
-    Contact: Yukiko Matsuoka
-    ‎Document describing the submission 
+|CellDesigner|-|
+|:------|:------:|
+|Website: http://www.celldesigner.org/ <br> Contact: Yukiko Matsuoka <myukiko@sbi.jp> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGNcompetition2010CellDesigner.pdf) |  ![CellDesigner](https://raw.githubusercontent.com/sbgn/competition/master/Celldesigner.png){: width="300px"}|
 
-	
-CellDesigner
-CellDesigner
 
 ##### SBGN-ED - WINNER
 
-    Website: http://vanted.ipk-gatersleben.de/addons/sbgn-ed/
-    Contact: Falk Schreiber
-    ‎Document describing the submission
-    complete submission 
+|SBGN-ED|WINNER|
+|:------|:------:|
+| Website: http://vanted.ipk-gatersleben.de/addons/sbgn-ed/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-Description-software-1) <br> [complete submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN_software_(1)-SBGN-ED.zip) | ![SBGN-ED](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-2.png){: width="300px"}|
 
-	
-SBGN-ED
-SBGN-ED
 
 #### Best SBGN software support (2) - Layout and rendering
 
 ##### Arcadia - WINNER
 
-|Arcadia|-|
+|Arcadia|WINNER|
 |:------|:------:|
-|Website: http://arcadiapathways.sourceforge.net/ <br> Contact: Alice Villeger <br> ‎Complete submission | ![Arcadia](https://raw.githubusercontent.com/sbgn/competition/master/Arcadia.png)
+|Website: http://arcadiapathways.sourceforge.net/ <br> Contact: Alice Villeger <alice.villeger@manchester.ac.uk> <br> [‎Complete submission](https://raw.githubusercontent.com/sbgn/competition/master/Arcadia_rendering.zip) | ![Arcadia](https://raw.githubusercontent.com/sbgn/competition/master/Arcadia.png){: width="300px"}|
 
-	
-Arcadia
-Arcadia
+
 
 ##### VISIBIOweb - WINNER
 
-    Website: http://www.bilkent.edu.tr/~bcbi/pvs.html
-    Contact: Ugur Dogrusoz
-    ‎Complete submission 1 
+|VISIBIOweb| WINNER|
+|:------|:------:|
+|Website: http://www.bilkent.edu.tr/~bcbi/pvs.html <br> Contact: Ugur Dogrusoz <ugur@cs.bilkent.edu.tr> <br> ‎[Complete submission 1](https://raw.githubusercontent.com/sbgn/competition/master/VISIBIOweb.zip) |   ![VISIBIOweb](https://raw.githubusercontent.com/sbgn/competition/master/VISIBIOweb.png){: width="300px"} |
 
-	
-VISIBIOweb
-VISIBIOweb
+
 
 #### Best SBGN map: Breadth, accuracy, aesthetics
 
 ##### Plant central metabolism - WINNER
 
-    Contact: Falk Schreiber
-    ‎Document describing the submission
-    full size map 
+|Plant central metabolism|WINNER|
+|:------|:------:|
+| Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> [‎Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED_map.pdf) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop-plant-central-metabolism.png) |  ![Plant central metabolism](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop-plant-central-metabolism-small.png){: width="300px"} |
 
 	
 
 ##### Development of Diabetic Retinopathy
 
-    Contact: Bernard de Bono
-    ‎Document describing the submission
-    full size map 
+|Development of Diabetic Retinopathy|-|
+|:------|:------:|
+| Contact: Bernard de Bono <bdb@ebi.ac.uk> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/Retinopathy.txt) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/SBGN_ER_retinopathy.png) |  ![Diabetic Retinopathy](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ER-DM-retinopathy-small.png){: width="300px"}|
 
-	
-Retinopathy
-Retinopathy
 
 ##### Effect of Uranium
 
-    Contact: Anatoly Sorokin
-    ‎Document describing the submission
-    full size map 
+|Effect of Uranium|-|
+|:------|:------:|
+| Contact: Anatoly Sorokin <asorokin@inf.ed.ac.uk> <br> ‎Document describing the submission <br> full size map |   ![Uranium effect](https://raw.githubusercontent.com/sbgn/competition/master/Uranium.png){: width="300px"}|
 
-	
-Uranium
-Uranium
 
 
 #### Best SBGN outreach: lecture, training, publication, book, website
 
 ##### Tutorial by Yukiko Matsuoka
 
-    Contact: Yukiko Matsuoka
-    Outreach material (tutorial)
-    Outreach material (supplementary) 
+* Contact: Yukiko Matsuoka <myukiko@sbi.jp>
+* [Outreach material](https://raw.githubusercontent.com/sbgn/competition/master/outreach/SBGN_Tutorial-Matsuoka.pdf) (tutorial)
+* [Outreach material](https://raw.githubusercontent.com/sbgn/competition/master/outreach/Supplementary_EGFR.zip) (supplementary) 
 
 ##### Article by Falk Schreiber
 
-    Contact: Falk Schreiber
-    ‎Document describing the submission
-    Outreach material (article) 
+* Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de>
+* [Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/outreach/SBGN_outreach.pdf)
+* [Outreach material](https://raw.githubusercontent.com/sbgn/competition/master/outreach/JunkerHSB10.pdf) (article) 
 
 ##### Tutorial by Anatoly Sorokin - WINNER
 
-    Contact: Anatoly Sorokin
-    Outreach material (tutorial) 
+* Contact: Anatoly Sorokin <asorokin@inf.ed.ac.uk>
+* [Outreach material](https://raw.githubusercontent.com/sbgn/competition/master/outreach/SBGN_Tutorial-Sorokin.pdf) (tutorial) 
 
 ##### Tutorial by Richard Adams
 
-    Contact: Richard Adams
-    Outreach material (tutorial)
-    Covering Letter for the submission 
-
+* Contact: Richard Adams <richard.adams@ed.ac.uk>
+* [Outreach material](https://raw.githubusercontent.com/sbgn/competition/master/outreach/SBGN.zip) (tutorial)
+* [Covering Letter](https://raw.githubusercontent.com/sbgn/competition/master/outreach/CoveringLetter.pdf) for the submission 
 
 
