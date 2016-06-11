@@ -1,4 +1,4 @@
-Welcome to the global portal for documentation, news, and other information about the **Systems Biology Graphical Notation** (SBGN) project, an effort to standardize the graphical notation used in maps of biological processes. 
+Welcome to the global portal for documentation, news, and other information about the **Systems Biology Graphical Notation** (SBGN) project, an effort to standardize the graphical notation used in maps of biological processes.
 
 ## Quick start
 
@@ -10,7 +10,7 @@ Welcome to the global portal for documentation, news, and other information abou
 
 | | |
 |:-:|:-:|
-| [Complex (PD)](/docs/symbols/complex) | ![complex](/images/SymbolMonth-complex.png) |
+| [Complex (PD)](/docs/symbols/complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) |
 
 ## Example Pathway
 
