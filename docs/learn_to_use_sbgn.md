@@ -5,7 +5,7 @@ permalink: /docs/learn_to_use_sbgn
 ---
 
 ## Learn To Use SBGN
-rtre
+
 #### SBGN Publications
 For a quick introduction about SBGN, please go to our [Publications](publications) page where you can find [the initial SBGN paper](http://www.nature.com/nbt/journal/v27/n8/full/nbt.1558.html) describing the effort, as well as the current specifications.
 
@@ -17,5 +17,5 @@ For a quick introduction about SBGN, please go to our [Publications](publication
 The [Examples](examples) page provides a number of SBGN diagrams of all three SBGN languages.
 
 #### Using SBGN
-* [**Software**](software) You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software).
+* [**Software**](software_support) You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software_support).
 * [**Templates**](templates) You can download all SBGN glyph templates (reference cards) in various format so that you can incorporate them into your diagram.
