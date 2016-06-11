@@ -12,14 +12,14 @@ permalinks: docs/about
 *  [Funding](#funding)
 *  [Ownership](#ownership)
 
-The mission of SBGN project is to develop high quality, standard graphical languages for representing biological processes and interactions. 
+The mission of SBGN project is to develop high quality, standard graphical languages for representing biological processes and interactions.
 Each SBGN language is based on the consensus of the broad international SBGN community of biologists, curators and software developers.
-Over the course of its development many individuals, organizations and companies made invaluable contributions to the SBGN through participating in discussions and meetings, providing feedback on the documentation and worked examples, adopting the standard and spreading the word. 
+Over the course of its development many individuals, organizations and companies made invaluable contributions to the SBGN through participating in discussions and meetings, providing feedback on the documentation and worked examples, adopting the standard and spreading the word.
 
 ### Get involved
 
 Regardless of your experience or involvement level, we value your ideas and feedback.
-For reporting issues, suggesting enhancements or requesting features please use the dedicated [trackers on SourceForge.net](https://sourceforge.net/tracker/?group_id=178553).
+For reporting issues, suggesting enhancements or requesting features please use the dedicated [trackers on our code repositories](https://github.com/sbgn/sbgn).
 For general discussions about SBGN: please join the [sbgn-discuss mailing list](https://groups.google.com/forum/#!forum/sbgn-discuss) and bring up the topic there.
 For specific questions about this website, workshops, or other SBGN resource management topics: please send a message to the [sbgn-editors mailing list](sbgn-editors@lists.sourceforge.net).
 SBGN meetings and workshops provide the best environment for learning about the process and getting involved. Please check the [Events](events) page for the upcoming events.
