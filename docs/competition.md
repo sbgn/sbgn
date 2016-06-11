@@ -53,13 +53,13 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |iPAVS| - |
 | :------|:------:|
-| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
+| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/IPAVs.txt) |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
 
 ##### SBGN-ED - WINNER
 
 |SBGN-ED|WINNER|
 | :------|:------:|
-|Website: http://www.sbgn-ed.org/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> File containing the submission|![SBGN-ED](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-1.png){: width="300px"}|
+|Website: http://www.sbgn-ed.org/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> [File containing the submission](https://raw.githubusercontent.com/sbgn/competition/master/Submission_software.zip)|![SBGN-ED](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-1.png){: width="300px"}|
 
 
 #### Best SBGN map: Breadth, accuracy, aesthetics
@@ -68,14 +68,14 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |ER Stress response| - |
 | :------|:------:|
-|Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎Document describing the submission <br> full size map|![ER Stress response](https://raw.githubusercontent.com/sbgn/competition/master/ER-Stress-UPR-Kumar.png){: width="300px"}| 
+|Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/PKumar-description.pdf) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/ER-Stress-UPR-Kumar.png)|![ER Stress response](https://raw.githubusercontent.com/sbgn/competition/master/ER-Stress-UPR-Kumar.png){: width="300px"}| 
 
 
 ##### KEGG pathways in SBGN - WINNER
 
 |KEGG pathways in SBGN|WINNER|
 | :------|:------:|
-|Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission <br> full size map |![KEGG](https://raw.githubusercontent.com/sbgn/competition/master/KEGG-SBGN-map-small.png){: width="300px"}|
+|Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/KEGG-SBGN_map-explanation.pdf) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/KEGG-SBGN-map.png) |![KEGG](https://raw.githubusercontent.com/sbgn/competition/master/KEGG-SBGN-map-small.png){: width="300px"}|
 
 	
 
@@ -83,7 +83,7 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |TGF beta signaling pathway| - |
 | :------|:------:|
-|Contact: Katja Wegner <k.wegner@herts.ac.uk> <br> ‎Document describing the submission <br> full size map |![TGF beta signaling](https://raw.githubusercontent.com/sbgn/competition/master/Tgfb.png){: width="300px"}| 
+|Contact: Katja Wegner <k.wegner@herts.ac.uk> <br> [‎Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/SbgnCompetWegner.pdf) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/Tgfb.png) |![TGF beta signaling](https://raw.githubusercontent.com/sbgn/competition/master/Tgfb.png){: width="300px"}| 
 
 	
 
@@ -91,7 +91,7 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |Calcium regulation of synaptic plasticity| - |
 | :------|:------:|
-| Contact: Michele Mattioni <mattioni@ebi.ac.uk> <br> ‎Document describing the submission <br> full size map |![Calcium regulation](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-spine.png){: width="300px"}|
+| Contact: Michele Mattioni <mattioni@ebi.ac.uk> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/MMattioni-description.txt) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-spine.png) |![Calcium regulation](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-spine.png){: width="300px"}|
 
 	
 
@@ -101,14 +101,14 @@ Software must be evaluated according to multiple criteria such as completeness, 
 
 |Database: iPAVS|WINNER|
 | :------|:------:|
-| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> Document describing the submission |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
+| Website: http://ipavs.cidms.org <br> Contact: Pradeep Kumar <pradeeps@gist.ac.kr> <br> [Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/IPAVs.txt) |![iPAVS](https://raw.githubusercontent.com/sbgn/competition/master/IPAVS.png){: width="300px"}|
 
 
 ##### Database: MetaCrop SBGN Maps
 
 |Database: MetaCrop SBGN maps|-|
 | :------|:------:|
-| Website: http://metacrop.ipk-gatersleben.de <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎Document describing the submission |![MetaCrop SBGN map](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop.png){: width="300px"}|
+| Website: http://metacrop.ipk-gatersleben.de <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> [‎Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop_SBGN_maps.pdf) |![MetaCrop SBGN map](https://raw.githubusercontent.com/sbgn/competition/master/MetaCrop.png){: width="300px"}|
 
 
 ### Competition 2010
@@ -159,7 +159,7 @@ Below are all the submissions to the SBGN annual competition 2010, grouped by se
 
 |SBGN-ED|WINNER|
 |:------|:------:|
-| Website: http://vanted.ipk-gatersleben.de/addons/sbgn-ed/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-Description-software-1) <br> [complete submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN_software_(1)-SBGN-ED.zip) | ![SBGN-ED](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-2.png){: width="300px"}|
+| Website: http://vanted.ipk-gatersleben.de/addons/sbgn-ed/ <br> Contact: Falk Schreiber <falk.schreiber@uni-konstanz.de> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-Description-software-1.pdf) <br> [complete submission](https://raw.githubusercontent.com/sbgn/competition/master/SBGN_software_(1)-SBGN-ED.zip) | ![SBGN-ED](https://raw.githubusercontent.com/sbgn/competition/master/SBGN-ED-2.png){: width="300px"}|
 
 
 #### Best SBGN software support (2) - Layout and rendering
@@ -201,7 +201,7 @@ Below are all the submissions to the SBGN annual competition 2010, grouped by se
 
 |Effect of Uranium|-|
 |:------|:------:|
-| Contact: Anatoly Sorokin <asorokin@inf.ed.ac.uk> <br> ‎Document describing the submission <br> full size map |   ![Uranium effect](https://raw.githubusercontent.com/sbgn/competition/master/Uranium.png){: width="300px"}|
+| Contact: Anatoly Sorokin <asorokin@inf.ed.ac.uk> <br> ‎[Document describing the submission](https://raw.githubusercontent.com/sbgn/competition/master/Uranium.txt) <br> [full size map](https://raw.githubusercontent.com/sbgn/competition/master/Uranium.png) |   ![Uranium effect](https://raw.githubusercontent.com/sbgn/competition/master/Uranium.png){: width="300px"}|
 
 
 
