@@ -5,7 +5,7 @@ permalink: /docs/learn_to_use_sbgn
 ---
 
 ## Learn To Use SBGN
-
+rtre
 #### SBGN Publications
 For a quick introduction about SBGN, please go to our [Publications](publications) page where you can find [the initial SBGN paper](http://www.nature.com/nbt/journal/v27/n8/full/nbt.1558.html) describing the effort, as well as the current specifications.
 
