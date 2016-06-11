@@ -4,13 +4,13 @@ Welcome to the global portal for documentation, news, and other information abou
 
 | | |
 |:-:|:-:|
-| [Learn how to use SBGN](/docs/learn_to_use_sbgn) | [Get involved](https://github.com/sbgn/sbgn/wiki) |
+| [Learn how to use SBGN](/sbgn/docs/learn_to_use_sbgn) | [Get involved](https://github.com/sbgn/sbgn/wiki) |
 
 ## Example Symbol
 
 | | |
 |:-:|:-:|
-| [Complex (PD)](/docs/symbols/complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) |
+| [Complex (PD)](/sbgn/docs/symbols/complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) |
 
 ## Example Pathway
 
@@ -26,4 +26,4 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
 
 -----
 
-SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/docs/ ) over the years, for which we are very thankful.
+SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/sbgn/docs/about#funding) over the years, for which we are very thankful.
