@@ -10,20 +10,12 @@ permalink: /docs/competition
 An annual competition is organized to stimulate implementation of SBGN support and the use of the notation. The categories in which to compete are better suited either for developers or for end users. Everyone is allow to compete, and the entries are judged by the community.
 
 *  [Categories](#categories)
-  * [Best SBGN software support (1) - Completeness, exactitude, validation](#best-sbgn-software-support-1-completeness-,-exactitude-,-validation)
-
-
-    Categories
-        
-        Best SBGN software support (2) - Layout and rendering
-        Best SBGN map: Breadth, accuracy, aesthetics
-        Best SBGN outreach: lecture, training, publication, book, website
-    Competition 2011
-    Competition 2010
+*  [Competition 2011](#competition-2011)
+*  [Competition 2010](#competition-2010)
 
 ## Categories
 
-### Best SBGN software support 1 Completeness, exactitude, validation
+### Best SBGN software support (1) - Completeness, exactitude, validation
 
 Submit details of your software, including links to the instructions for installation and use. Provide visual proofs that a) your software supports all or most of SBGN languages, b) your software uses the languages accurately, following not only the glyphs but also the syntax and semantics, c) is able to catch or correct mistakes made by users.
 
@@ -126,22 +118,6 @@ Below are all the submissions to the SBGN annual competition 2010, grouped by se
     Best Map: Plant central metabolism
     Outreach: Anatoly Sorokin
 
-    Best SBGN software support (1) - Completeness, exactitude, validation
-        BIOCHAM
-        CellDesigner
-        SBGN-ED - WINNER
-    Best SBGN software support (2) - Layout and rendering
-        Arcadia - WINNER
-        VISIBIOweb - WINNER
-    Best SBGN map: Breadth, accuracy, aesthetics
-        Plant central metabolism - WINNER
-        Development of Diabetic Retinopathy
-        Effect of Uranium
-    Best SBGN outreach: lecture, training, publication, book, website
-        Tutorial by Yukiko Matsuoka
-        Article by Falk Schreiber
-        Tutorial by Anatoly Sorokin - WINNER
-        Tutorial by Richard Adams
 
 ### Best SBGN software support (1) - Completeness, exactitude, validation
 
