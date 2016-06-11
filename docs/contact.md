@@ -16,7 +16,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
  **sbgn-announce** <br>  An announcement-only mailing list for the community at large.                | [sbgn-announce archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-announce) | [subscription page](https://lists.sourceforge.net/lists/listinfo/sbgn-announce) 
 
 
----
+___
 
 ### For Developers
 
@@ -25,7 +25,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 | **sbgn-libsbgn** <br> An open mailing list for discussing the development of an API library for SBGN.                     | [sbgn-libsbgn archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-libsbgn)       | [subscription page](https://lists.sourceforge.net/lists/listinfo/sbgn-libsbgn)    |
 | **sbgn-svn-commit** <br> Automatic broadcast-only list receiving mail whenever a change is committed to the SVN repository.  | [sbgn-svn-commit archive](http://sourceforge.net/mailarchive/forum.php?forum_name=sbgn-svn-commit) | [subscription page](https://lists.sourceforge.net/lists/listinfo/sbgn-svn-commit) |
 
----
+___
 
 ### For SBGN Editors
 SBGN editors are community elected members responsible for specification development. Click [here](about#sbgn-editors) for more details about the SBGN editorial board. 
