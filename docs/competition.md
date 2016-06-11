@@ -9,8 +9,10 @@ permalink: /docs/competition
 
 An annual competition is organized to stimulate implementation of SBGN support and the use of the notation. The categories in which to compete are better suited either for developers or for end users. Everyone is allow to compete, and the entries are judged by the community.
 
+*  [Categories](#categories)
+  * [Best SBGN software support (1) - Completeness, exactitude, validation](#best-sbgn-software-support-1-completeness-exactitude-validation)
     Categories
-        Best SBGN software support (1) - Completeness, exactitude, validation
+        
         Best SBGN software support (2) - Layout and rendering
         Best SBGN map: Breadth, accuracy, aesthetics
         Best SBGN outreach: lecture, training, publication, book, website
