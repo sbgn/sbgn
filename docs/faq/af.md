@@ -6,4 +6,4 @@ permalinks: docs/faq/af
 
 ## Activity Flow FAQs
 
-Coming soon...
+No FAQs. If you have questions about SBGN Activity Flow, please contact us.
