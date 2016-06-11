@@ -6,6 +6,23 @@ permalink: /docs/symbols
 
 # Symbols
 
+*  [Stimulation](#stimulation)
+*  [Inhibition](#inhibition)
+*  [Process](#process)
+*  [Consumption Production Reversible](#consumption-production-reversible)
+*  [Macromolecule](#macromolecule)
+*  [Simple Chemical](#simple-chemical)
+*  [Catalysis](#catalysis)
+*  [Nucleic Acid Feature](#nucleic-acid-feature)
+*  [Complex](#complex)
+*  [AF and PD Compartment](#af-and-pd-compartment)
+*  [PD Clone Marker](#pd-clone-marker)
+*  [Biological Activity](#biological-activity)
+*  [Unit Of Information for BA](#unit-of-information-for-ba)
+*  [Perturbing Agent](#perturbing-agent)
+*  [Unspecified Entity](#unspecified-entity)
+
+
 ## Stimulation
 
 By Nicolas Le Novère (Nov 2012)
@@ -128,7 +145,7 @@ Download the macromolecule node image as (from the more semantic to the more gen
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png) ]
 
 
-## Simple Chemical Apr 2013
+## Simple Chemical
 
 By Nicolas Le Novère (Apr 2013)
 
