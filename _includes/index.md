@@ -10,7 +10,7 @@ Welcome to the global portal for documentation, news, and other information abou
 
 | | |
 |:-:|:-:|
-| [Complex (PD)](/sbgn/docs/symbols#complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) |
+| [Complex (PD)](/sbgn/docs/symbols#complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png){: width="150px"} |
 
 ## Example Pathway
 
