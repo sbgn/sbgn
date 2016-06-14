@@ -20,7 +20,7 @@ This pathway is an SBGN-PD diagram based on the following paper published in the
 
 | |
 |:-:|
-| ![POM_Nov2014_PD](https://raw.githubusercontent.com/sbgn/pathway-archive/master/camkii-creb-phosphorylation/POM_Nov2014_PD.png) |
+| ![POM_Nov2014_PD](https://raw.githubusercontent.com/sbgn/pathway-archive/master/camkii-creb-phosphorylation/POM_Nov2014_PD.png){: width="400px"} |
 
 Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-phosphorylation) for more details of the diagram.
 
