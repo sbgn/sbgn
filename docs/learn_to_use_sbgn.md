@@ -18,4 +18,4 @@ The [Examples](examples) page provides a number of SBGN diagrams of all three SB
 
 #### Using SBGN
 * [**Software**](software_support) You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software_support).
-* [**Templates**](templates) You can download all SBGN glyph templates (reference cards) in various format so that you can incorporate them into your diagram.
+* [**Templates**](templates) You can download all SBGN glyph [templates](templates) (reference cards) in various format so that you can incorporate them into your diagram.
