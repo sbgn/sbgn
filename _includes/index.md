@@ -29,7 +29,7 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
 <script>$(document).ready(function() {
   $("#testLoad").load("pathway-archive/polyq", function() {
     alert( "Load was performed.");
-  }
+  });
 </script>
 <div id="testLoad"></div>
 
