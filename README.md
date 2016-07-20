@@ -6,7 +6,7 @@ Website link on GitHub
 
 http://sbgn.github.io/sbgn
 
-# Using Markdown 
+# Using Markdown
 
 * Jekyll Kramdown Notes: http://mindspill.net/computing/web-development-notes/kramdown-notes/#tables
 * GitHub Jekyll Notes: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
@@ -23,7 +23,7 @@ To avoid data loss, copy your changes to an editor, updated the page you were ab
 
 ## Editing index.(md,html)
 
-The index.md exists in the _includes folder. 
+The index.md exists in the _includes folder.
 
 ## Example Page Front Matter
 
@@ -78,3 +78,6 @@ docker stop tmp; docker rm tmp; docker run --rm --name tmp -p 8080:8080 -v=$(pwd
 
 ## Access site
 http://localhost:8080/sbgn/
+
+## Template Documentation
+[https://github.com/orderedlist/minimal](https://github.com/orderedlist/minimal)

@@ -9,9 +9,9 @@
 
   <div class="pages">
     {% for item in site.data.menu.items %}
-    <p class="view"><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></p>
+    <p class="view sidebar"><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></p>
     {% endfor %}
-    <p class="view"><a href="https://github.com/sbgn/sbgn/wiki">SBGN Development</a></p>
+    <p class="view sidebar"><a href="https://github.com/sbgn/sbgn/wiki">SBGN Development</a></p>
   </div>
 
   <!--
@@ -22,5 +22,3 @@
   </ul>
   -->
 </header>
-
-
