@@ -31,6 +31,6 @@
   margin-bottom: 5px;
 }
 
-.highlight > td {
-  border-bottom: 0px !important; 
+.random-highlight > tr > td {
+  border-bottom: 0px !important;
 }
