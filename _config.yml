@@ -10,7 +10,14 @@ baseurl: "/sbgn"
 author_name: sbgn
 author_url: https://github.com/sbgn
 
+# Analytics
+google_analytics_tracking_id: "UA-79011423-1"
+
+# SEO Related
+google_site_verification : "FPVCUgSmGNTmNrGC8Vyp_GOArT09awXrBttsq6gUsQk"
+
 markdown: kramdown
 
+# Plugins
 gems:
   - jekyll-sitemap
