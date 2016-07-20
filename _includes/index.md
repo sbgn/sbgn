@@ -8,13 +8,13 @@ Welcome to the global portal for documentation, news, and other information abou
 
 ## Example Symbol
 
-| | |
-|:-:|:-:|
-| [Complex (PD)](/sbgn/symbols#complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png){: width="150px"} |
-
-## Example Symbol
-
 <table>
+  <thead>
+    <tr>
+      <th style="text-align: center">&nbsp;</th>
+      <th style="text-align: center">&nbsp;</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td id="random_symbol_href" style="text-align: center"></td>
