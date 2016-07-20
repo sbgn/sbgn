@@ -1,0 +1,9 @@
+[
+    {% for item in site.data.examples.pathways %}
+    {
+      "title"    : "{{ item[0] }}",
+      "href"     : "{{ item[1] | prepend: site.baseurl }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]
