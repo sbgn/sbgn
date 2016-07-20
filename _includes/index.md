@@ -27,7 +27,9 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
 ## Example Pathway
 
 <script>$(document).ready(function() {
-  $("#testLoad").load("http://sbgn.github.io/sbgn/pathway-archive/polyq");
+  $("#testLoad").load("pathway-archive/polyq", function() {
+    alert( "Load was performed.");
+  }
 </script>
 <div id="testLoad"></div>
 
