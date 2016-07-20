@@ -22,11 +22,14 @@ Welcome to the global portal for documentation, news, and other information abou
       var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
       var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
 
-      $("#random_symbol").load(symbol, function() {
+      symbol_href = "/sbgn/symbols#" + symbol.href;
+      pathway_href = "/sbgn/pathway-archive/" + pathway.href;
+
+      $("#random_symbol").load(symbol_href, function() {
         console.log("Symbol loaded.");
       });
 
-      $("#random_pathway").load(pathway, function() {
+      $("#random_pathway").load(pathway_href, function() {
         console.log("Pathway loaded.");
       });
     });

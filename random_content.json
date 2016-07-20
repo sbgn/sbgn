@@ -1,7 +1,84 @@
 {
   "pathways": [
-    "/sbgn/pathway-archive/camkii-creb-phosphorylation",
-    "/sbgn/pathway-archive/polyq"
+    {
+      "title": "CaMKII-CREB-Phosphorylation",
+      "href": "camkii-creb-phosphorylation"
+    },
+    {
+      "title": "PolyQ",
+      "href": "polyq"
+    }
   ],
-  "symbols": []
+  "symbols": [
+    {
+      "title": "Stimulation",
+      "href": "stimulation",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png"
+    },
+    {
+      "title": "Inhibition",
+      "href": "inhibition",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png"
+    },
+    {
+      "title": "Process",
+      "href": "process",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png"
+    },
+    {
+      "title": "Consumption Production Reversible",
+      "href": "consumption-production-reversible",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png"
+    },
+    {
+      "title": "Macromolecule",
+      "href": "macromolecule",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png"
+    },
+    {
+      "title": "Simple Chemical",
+      "href": "simple-chemical",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png"
+    },
+    {
+      "title": "Nucleic Acid Feature",
+      "href": "nucleic-acid-feature",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png"
+    },
+    {
+      "title": "Complex",
+      "href": "complex",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png"
+    },
+    {
+      "title": "AF and PD Compartment",
+      "href": "af-and-pd-compartment",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.png"
+    },
+    {
+      "title": "PD Clone Marker",
+      "href": "pd-clone-marker",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.png"
+    },
+    {
+      "title": "Biological Activity",
+      "href": "biological-activity",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.png"
+    },
+    {
+      "title": "Unit Of Information for BA",
+      "href": "unit-of-information-for-ba",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-unspecifiedentity.png"
+    },
+    {
+      "title": "Perturbing Agent",
+      "href": "perturbing-agent",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png"
+    },
+    {
+      "title": "Unspecified Entity",
+      "href": "unspecified-entity",
+      "image": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png"
+    }
+  ]
 }
