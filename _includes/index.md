@@ -6,7 +6,7 @@ Welcome to the global portal for documentation, news, and other information abou
 |:-:|:-:|
 | [Learn how to use SBGN](/sbgn/learn_to_use_sbgn) | [Get involved](https://github.com/sbgn/sbgn/wiki) |
 
-## Example Symbol
+## Symbol Highlight
 
 <table>
   <thead>
@@ -23,7 +23,7 @@ Welcome to the global portal for documentation, news, and other information abou
   </tbody>
 </table>
 
-## Example Pathway
+## Pathway Highlight
 
 <script>
   $(document).ready(function() {
