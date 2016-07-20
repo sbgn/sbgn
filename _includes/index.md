@@ -31,7 +31,7 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
     $.getJSON("/sbgn/random_content.json", function(data) {
       console.log("JSON loaded.");
 
-      var symbol = data.pathways[Math.floor(Math.random() * data.pathways.length)];
+      var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
       var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
 
       $("#random_symbol").load(symbol, function() {
