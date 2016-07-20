@@ -1,7 +1,7 @@
 ---
 title: FAQ ER
 layout: default
-permalinks: /faq/er
+permalink: /faq/er
 ---
 
 ## Entity Relationship FAQs
