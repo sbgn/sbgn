@@ -1,4 +1,7 @@
-[
-  "/sbgn/pathway-archive/camkii-creb-phosphorylation",
-  "/sbgn/pathway-archive/polyq"
-]
+{
+  "pathways": [
+    "/sbgn/pathway-archive/camkii-creb-phosphorylation",
+    "/sbgn/pathway-archive/polyq"
+  ],
+  "symbols": []
+}

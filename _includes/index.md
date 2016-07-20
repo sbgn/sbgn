@@ -31,15 +31,20 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
     $.getJSON("/sbgn/random_content.json", function(data) {
       console.log("JSON loaded.");
 
-      var val = data[Math.floor(Math.random() * data.length)];
+      var symbol = data.pathways[Math.floor(Math.random() * data.pathways.length)];
+      var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
 
-      $("#random_content").load(val, function() {
-        console.log("Load finished.");
+      $("#random_symbol").load(symbol, function() {
+        console.log("Symbol loaded.");
+      });
+
+      $("#random_pathway").load(pathway, function() {
+        console.log("Pathway loaded.");
       });
     });
   });
 </script>
-<div id="random_content"></div>
+<div id="random_pathway"></div>
 
 -----
 
