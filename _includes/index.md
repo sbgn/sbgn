@@ -9,10 +9,12 @@ Welcome to the global portal for documentation, news, and other information abou
 ## Symbol Highlight
 
 <table class="random-highlight">
-  <tr>
-    <td id="random_symbol_href" style="text-align: center"></td>
-    <td id="random_symbol_img" style="text-align: center"></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td id="random_symbol_href" style="text-align: center"></td>
+      <td id="random_symbol_img" style="text-align: center"></td>
+    </tr>
+  </tbody>
 </table>
 
 ## Pathway Highlight
