@@ -28,12 +28,18 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
 
 <script>
   $(document).ready(function() {
-    $("#testLoad").load("pathway-archive/polyq", function() {
-      console.log("Load finished.");
-    })
+    $.getJSON("/random_content.json", function(data) {
+      console.log("JSON loaded.");
+
+      var val = data[Math.floor(Math.random() * data.length)];
+
+      $("#random_content").load(val, function() {
+        console.log("Load finished.");
+      });
+    });
   });
 </script>
-<div id="testLoad"></div>
+<div id="random_content"></div>
 
 -----
 
