@@ -12,6 +12,17 @@ Welcome to the global portal for documentation, news, and other information abou
 |:-:|:-:|
 | [Complex (PD)](/sbgn/symbols#complex) | ![complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png){: width="150px"} |
 
+## Example Symbol
+
+<table>
+  <tbody>
+    <tr>
+      <td id="random_symbol_href" style="text-align: center"></td>
+      <td id="random_symbol_img" style="text-align: center"></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Example Pathway
 
 <script>
@@ -24,6 +35,15 @@ Welcome to the global portal for documentation, news, and other information abou
 
       symbol_href = "/sbgn/symbols#" + symbol.href;
       pathway_href = "/sbgn/pathway-archive/" + pathway.href;
+
+      // From: http://stackoverflow.com/questions/10300765/jquery-html-callback-function
+      $("#random_symbol_href").html('<a href="' + symbol_href + '/sbgn/symbols#complex">' + symbol.title + '</a>').promise().done(function(){
+        console.log("Symbol href loaded.");
+      });
+
+      $("#random_symbol_img").html('<img src="' + symbol.img + ' alt="' + symbol.href + '" width="150px">').promise().done(function(){
+        console.log("Symbol img loaded.");
+      });
 
       $("#random_symbol").load(symbol_href, function() {
         console.log("Symbol loaded.");
