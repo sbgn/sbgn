@@ -11,3 +11,6 @@ author_name: sbgn
 author_url: https://github.com/sbgn
 
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
