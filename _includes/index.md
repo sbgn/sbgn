@@ -28,7 +28,7 @@ Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-pho
 
 <script>
   $(document).ready(function() {
-    $.getJSON("/random_content.json", function(data) {
+    $.getJSON("/sbgn/random_content.json", function(data) {
       console.log("JSON loaded.");
 
       var val = data[Math.floor(Math.random() * data.length)];
