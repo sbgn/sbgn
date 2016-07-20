@@ -2,12 +2,13 @@ Welcome to the global portal for documentation, news, and other information abou
 
 ## Quick start
 
+{:.highlight}
 |:-:|:-:|
 | [Learn how to use SBGN](/sbgn/learn_to_use_sbgn) | [Get involved](https://github.com/sbgn/sbgn/wiki) |
 
 ## Symbol Highlight
 
-<table>
+<table class="highlight">
   <tbody>
     <tr>
       <td id="random_symbol_href" style="text-align: center"></td>
