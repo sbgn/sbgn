@@ -24,6 +24,11 @@ This pathway is an SBGN-PD diagram based on the following paper published in the
 
 Click [here](https://github.com/sbgn/pathway-archive/tree/master/camkii-creb-phosphorylation) for more details of the diagram.
 
+## Example Pathway
+
+<script>$("#testLoad").load("http://sbgn.github.io/sbgn/pathway-archive/polyq");</script>
+<div id="testLoad"></div>
+
 -----
 
 SBGN is the work of many people. It would not have been possible without the generous [support of multiple organizations](/sbgn/about#funding) over the years, for which we are very thankful.
