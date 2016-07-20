@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events
-permalinks: docs/events
+permalinks: /events
 ---
 
 # Events

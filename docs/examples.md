@@ -1,7 +1,7 @@
 ---
 title: Examples
 layout: default
-permalink: /docs/examples
+permalink: /examples
 ---
 
 # Examples
@@ -125,6 +125,3 @@ This is a representation in AF of the signaling pathways triggered by EGF bindin
 
 
 ![EGFfromSTKEinAF2](../images/examples/EGFfromSTKEinAF2.png){: .center-image }
-
-
-

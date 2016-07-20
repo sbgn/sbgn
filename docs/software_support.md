@@ -1,7 +1,7 @@
 ---
 title: Software Support
 layout: default
-permalink: /docs/software_support/
+permalink: /software_support/
 ---
 
 # Software Support
@@ -38,8 +38,8 @@ The following is a list of software packages known to provide support for SBGN. 
 | [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | V     | +   | -   | -   | -       |
 | [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
 | [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
-| [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       | 
-| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       | 
+| [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
+| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
 | [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
 | [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
 | [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | V     | +   | -   | -   | +       |

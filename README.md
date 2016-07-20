@@ -32,7 +32,7 @@ NOTE: There is only one layout (i.e. default)
 ---
 title: A Human Readable Title
 layout: default
-permalink: /docs/a_human_readable_title
+permalink: /a_human_readable_title
 ---
 
 ## Images

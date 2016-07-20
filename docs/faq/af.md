@@ -1,7 +1,7 @@
 ---
 title: FAQ AF
 layout: default
-permalinks: docs/faq/af
+permalinks: /faq/af
 ---
 
 ## Activity Flow FAQs

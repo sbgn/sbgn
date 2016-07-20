@@ -1,7 +1,7 @@
 ---
 title: Competition
 layout: default
-permalink: /docs/competition
+permalink: /competition
 ---
 
 # Competition

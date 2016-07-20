@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-permalink: /docs/publications
+permalink: /publications
 ---
 
 # Publications

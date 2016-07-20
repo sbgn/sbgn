@@ -1,7 +1,7 @@
 ---
 title: FAQ
 layout: default
-permalink: /docs/faqs
+permalink: /faqs
 ---
 
 # FAQs
@@ -17,4 +17,3 @@ The following questions are general and not specific to a particular SBGN langua
 
 ### Which software supports SBGN?
 It is difficult to keep track of SBGN support in the various relevant software tools. However we try to gather the information we have on a [single page](software_support).
-

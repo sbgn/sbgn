@@ -1,7 +1,7 @@
 ---
 title: FAQ ER
 layout: default
-permalinks: docs/faq/er
+permalinks: /faq/er
 ---
 
 ## Entity Relationship FAQs
@@ -41,4 +41,4 @@ A variable can only have one value at a time, therefore only one assignment arc 
 
 Yes. In some cases, it may be necessary to represent explicitly a modified entity rather than implicitly through a state variable representing the modification. The example below represents on the left the effect of a kinase on the existence of a phosphorylated and non-phosphorylated protein. On the right, the more classical view of a phosphorylation as a variable assignment. Both representation are correct, and unambiguous. However, the left representation does not relate the two entities prot-P and prot-nP and is therefore less precise.
 
-![Two ways of representing phosphorylated and non-phosphorylated states of a protein](https://sbgn.github.io/sbgn/images/faq/er/Faq-kinase.png) 
+![Two ways of representing phosphorylated and non-phosphorylated states of a protein](https://sbgn.github.io/sbgn/images/faq/er/Faq-kinase.png)

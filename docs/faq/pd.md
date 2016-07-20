@@ -1,7 +1,7 @@
 ---
 title: FAQ PD
 layout: default
-permalinks: docs/faq/pd
+permalinks: /faq/pd
 ---
 
 ## Process Description FAQs

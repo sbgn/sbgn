@@ -1,7 +1,7 @@
 ---
 title: Documents Templates
 layout: default
-permalink: /docs/templates
+permalink: /templates
 ---
 
 ## Templates
@@ -39,4 +39,3 @@ Other templates
 | PD L1 V1.0 | [OmniGraffle](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-OmniGraffle.gstencil) |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------|
 ||
-

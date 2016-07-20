@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalinks: docs/about
+permalinks: /about
 ---
 
 # About

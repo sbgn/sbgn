@@ -1,7 +1,7 @@
 ---
 title: Symbols
 layout: default
-permalink: /docs/symbols
+permalink: /symbols
 ---
 
 # Symbols
@@ -29,19 +29,19 @@ By Nicolas Le Novère (Nov 2012)
 
 A stimulation affects positively the flux of a process (its speed). This stimulation can be, for instance, a catalysis or a positive allosteric regulation. In SBGN Process Description language, the stimulation of a process is represented by the stimulation arc (Note that catalysis exists as an independent symbol in SBGN PD). The target extremity of a stimulation carries an empty arrowhead (note that the stimulation arcs of all three SBGN languages have the same appearance). A stimulation arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the stimulation arc is coloured in red:
 
-![Stimulation](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png){: .center-image } 
+![Stimulation](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png){: .center-image }
 
-The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B. 
+The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B.
 
-![Stimulation example](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example.png){: .center-image } 
+![Stimulation example](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example.png){: .center-image }
 
-The following actual example describes calcium stimulating the conversion of inactive calmodulin into active one. 
+The following actual example describes calcium stimulating the conversion of inactive calmodulin into active one.
 
-![Stimulation example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real.png){: .center-image } 
+![Stimulation example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real.png){: .center-image }
 
-The following actual example describes the stimulation of calcium excretion from the endoplasmic reticulum by the inositol 3 phosphate receptor. 
+The following actual example describes the stimulation of calcium excretion from the endoplasmic reticulum by the inositol 3 phosphate receptor.
 
-![Stimulation example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real-2.png){: .center-image } 
+![Stimulation example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/SymbolMonth-stimulation-example-real-2.png){: .center-image }
 
 Download the stimulation arc image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png) ]
@@ -52,13 +52,13 @@ By Nicolas Le Novère (Dec 2012)
 
 An inhibition affects negatively the flux of a process (its speed). This inhibition can be, for instance, the effect of a channel blocker or a negative allosteric regulation. In SBGN Process Description language, the inhibition of a process is represented by the inhibition arc (note that the inhibition arcs of all three SBGN languages have the same appearance). The target extremity of an inhibition carries a bar perpendicular to the end of the arc. An inhibition arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the inhibition arc is coloured in red:
 
-![Inhibition](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png){: .center-image } 
+![Inhibition](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png){: .center-image }
 
-The following generic example describes an entity C that inhibits the process transforming an entity A into an entity B. 
+The following generic example describes an entity C that inhibits the process transforming an entity A into an entity B.
 
-![Inhibition example](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/SymbolMonth-inhibition-example.png){: .center-image } 
+![Inhibition example](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/SymbolMonth-inhibition-example.png){: .center-image }
 
-The following actual example describes the protein Gαi inhibiting the conversion of ATP into cAMP. 
+The following actual example describes the protein Gαi inhibiting the conversion of ATP into cAMP.
 
 ![Inhibition example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/SymbolMonth-inhibition-example-real.png){: .center-image }
 
@@ -72,20 +72,20 @@ By Nicolas Le Novère (Jan 2013)
 A process is something that happens, involving one or more physical entities, and modifies the structure, location or free energy of at least one of the participants. Examples would be biochemical reactions or transports. In SBGN Process Description language, a process is represented by the process node, an unlabelled square. A process node is connected to the entity participating (entity pool node, labelled "EPN" in the figure below), via arcs representing consumption, production or modulation. In the drawing below, the process node is coloured in red:
 
 ![Process](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png){: .center-image }
- 
-The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B. 
+
+The following generic example describes an entity C that stimulates the process transforming an entity A into an entity B.
 
 ![Process example](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/SymbolMonth-process-example.png){: .center-image }
 
-The following example describes the conversion of glucose into glucose 6 phosphate, stimulated by the enzyme hexokinase. 
+The following example describes the conversion of glucose into glucose 6 phosphate, stimulated by the enzyme hexokinase.
 
 ![Process example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/SymbolMonth-process-example-real.png){: .center-image }
 
-The following example describes the transport of messenger RNA from the nucleus to the cytoplasm. Note that in SBGN, the containing compartment is part of the identity of an EPN. Therefore one does not need to differentiate the two mRNA pools via their labels (e.g. mRNA_nuc and mRNA_cyt). 
+The following example describes the transport of messenger RNA from the nucleus to the cytoplasm. Note that in SBGN, the containing compartment is part of the identity of an EPN. Therefore one does not need to differentiate the two mRNA pools via their labels (e.g. mRNA_nuc and mRNA_cyt).
 
 ![Process example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/SymbolMonth-process-example-real-2.png){: .center-image }
 
-The following example describes the reversible conversion of the glutamate ionotropic receptor between closed and open states. 
+The following example describes the reversible conversion of the glutamate ionotropic receptor between closed and open states.
 
 ![Process example real 3](https://raw.githubusercontent.com/sbgn/glyph-files/master/process/SymbolMonth-process-example-real-3.png){: .center-image }
 
@@ -101,19 +101,19 @@ A process transforms one or several physical entities into one or several others
 
 ![Consumption Production](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png){: .center-image }
 
-The following generic example describes an entity C that stimulates the process consuming an entity A and producing an entity B. 
+The following generic example describes an entity C that stimulates the process consuming an entity A and producing an entity B.
 
-![Consumption Production example](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/SymbolMonth-consumption_production-example.png){: .center-image } 
+![Consumption Production example](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/SymbolMonth-consumption_production-example.png){: .center-image }
 
-A reaction or a transport can be reversible. In that case, both side of the process are linked to production arcs: 
+A reaction or a transport can be reversible. In that case, both side of the process are linked to production arcs:
 
 ![Reversible](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-reversible.png){: .center-image }
 
-The following example describes the consumption of glucose to produce glucose 6 phosphate, stimulated by the enzyme hexokinase. 
+The following example describes the consumption of glucose to produce glucose 6 phosphate, stimulated by the enzyme hexokinase.
 
-![Consumption Production example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/SymbolMonth-consumption_production-example-real.png){: .center-image } 
+![Consumption Production example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/SymbolMonth-consumption_production-example-real.png){: .center-image }
 
-The following example describes the reversible conversion of the glutamate ionotropic receptor between closed and open states. 
+The following example describes the reversible conversion of the glutamate ionotropic receptor between closed and open states.
 
 ![Reversible example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/SymbolMonth-reversible-example-real.png){: .center-image }
 
@@ -121,23 +121,23 @@ Download the consumption and production arcs images as (from the more semantic t
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png) ]
 
 
-## Macromolecule 
+## Macromolecule
 
 By Nicolas Le Novère (Mar 2013)
 
 Many biological processes involve macromolecules: biochemical substances that are built up from the covalent linking of pseudo-identical units. Examples of macromolecules include proteins, nucleic acids (RNA, DNA), and polysaccharides (glycogen, cellulose, starch, etc.). Attempting to define a separate glyph for all of these different molecules would lead to an explosion of symbols in SBGN, so instead, SBGN Process Description Level 1 defines only one glyph for all macromolecules. The same glyph is to be used for a protein, a nucleic acid, a complex sugar, and so on. The exact nature of a particular macromolecule in a map is then clarified using its label and decorations. A macromolecule is represented by a rectangular container with rounded corners.
 
-![Macromolecule](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png){: .center-image } 
+![Macromolecule](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png){: .center-image }
 
-The following example describes the conversion of glucose into glucose 6 phosphate, stimulated by the enzyme hexokinase, represented as a macromolecule. 
+The following example describes the conversion of glucose into glucose 6 phosphate, stimulated by the enzyme hexokinase, represented as a macromolecule.
 
-![Macromolecule exampe real 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule-example-real-1.png){: .center-image } 
+![Macromolecule exampe real 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule-example-real-1.png){: .center-image }
 
-The following example describes the transport of messenger RNA from the nucleus to the cytoplasm. One does not need to differentiate the two mRNA pools via their labels (e.g. mRNA_nuc and mRNA_cyt) since in SBGN, the containing compartment is part of the identity of a pool of entities. 
+The following example describes the transport of messenger RNA from the nucleus to the cytoplasm. One does not need to differentiate the two mRNA pools via their labels (e.g. mRNA_nuc and mRNA_cyt) since in SBGN, the containing compartment is part of the identity of a pool of entities.
 
-![Macromolecule example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule-example-real-2.png){: .center-image } 
+![Macromolecule example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule-example-real-2.png){: .center-image }
 
-Macromolecules can be decorated by state variables or unit of information, as we will present in future symbols of the month. For now, let's just say that the state of a macromolecule (that is the values of all its state variables) is part of its identity. The following example describes the reversible conversion of the glutamate ionotropic receptor between closed and open states. 
+Macromolecules can be decorated by state variables or unit of information, as we will present in future symbols of the month. For now, let's just say that the state of a macromolecule (that is the values of all its state variables) is part of its identity. The following example describes the reversible conversion of the glutamate ionotropic receptor between closed and open states.
 
 ![Macromolecule example real 3](https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule-example-real-3.png){: .center-image }
 
@@ -152,15 +152,15 @@ By Nicolas Le Novère (Apr 2013)
 In SBGN Process Descriptions, a simple chemical is defined as the opposite of a macromolecule: it is a chemical compound that is not formed by the covalent linking of pseudo-identical residues. Examples of simple chemicals are an atom, a monoatomic ion, a salt, a radical, a solid metal, a crystal, etc. A simple chemical is represented by a circular container.
 ![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png){: .center-image }
 
-The following example describes the conversion of glucose into glucose 6 phosphate, stimulated by the enzyme hexokinase, represented as a macromolecule. 
+The following example describes the conversion of glucose into glucose 6 phosphate, stimulated by the enzyme hexokinase, represented as a macromolecule.
 
 ![Simple chemical example real 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical-example-real-1.png){: .center-image }
 
-The following example describes calcium stimulating the conversion of inactive calmodulin into active one. 
+The following example describes calcium stimulating the conversion of inactive calmodulin into active one.
 
 ![Simple chemical example real 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical-example-real-2.png){: .center-image }
 
-The following example describes the protein Gαi inhibiting the conversion of ATP into cAMP. 
+The following example describes the protein Gαi inhibiting the conversion of ATP into cAMP.
 
 ![Simple chemical example real 3](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical-example-real-3.png){: .center-image }
 
@@ -168,7 +168,7 @@ Download the macromolecule node image as (from the more semantic to the more gen
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png) ]
 
 
-## Catalysis 
+## Catalysis
 
 By Nicolas Le Novère (Jun 2013)
 
@@ -176,13 +176,13 @@ A catalysis is a particular case of stimulation, where the effector affects posi
 
 In SBGN Process Description language, the catalysis of a process is represented by the catalysis arc. The target extremity of a catalysis carries an empty circle. A catalysis arc starts from an entity pool node (labelled "EPN" in the figure below, representing for instance a pool of molecules) and ends on a process node (labelled "PN" in the figure below, representing for instance a reaction). In the drawing below, the catalysis arc is coloured in red:
 
-![Catalysis](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.png){: .center-image } 
+![Catalysis](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.png){: .center-image }
 
-The following generic example describes an entity C that catalyses the process transforming an entity A into an entity B. 
+The following generic example describes an entity C that catalyses the process transforming an entity A into an entity B.
 
 ![Catalysis example](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis-example.png){: .center-image }
 
-The following actual example describes the conversion of glucose into glucose 6 phosphate, catalysed by the enzyme hexokinase. 
+The following actual example describes the conversion of glucose into glucose 6 phosphate, catalysed by the enzyme hexokinase.
 
 ![Catalysis example real](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis-example-real.png){: .center-image }
 
@@ -190,43 +190,43 @@ Download the process node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/catalysis/Symbol-catalysis.png) ]
 
 
-## Nucleic Acid Feature 
+## Nucleic Acid Feature
 
 By Nicolas Le Novère (Oct 2013)
 
 The Nucleic Acid Feature construct in SBGN is meant to represent a fragment of a macromolecule carrying genetic information. A common use for this construct is to represent a gene or a transcript. The macromolecule would be the entire nucleic acid molecule, such as an entire chromatide. The Nucleic acid feature has two round corners, to remind it is carried by a macromolecule, and two right angle corners, to remind it is essentially a unit of information rather than a bona fide molecule.
 
-![Nucleic Acid Feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png){: .center-image } 
+![Nucleic Acid Feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png){: .center-image }
 
-The following example describes the synthesis of a protein from amino-acids, triggered ("necessary stimulated") by mRNA. 
+The following example describes the synthesis of a protein from amino-acids, triggered ("necessary stimulated") by mRNA.
 
-![Nucleic Acid Feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature-example-1.png){: .center-image } 
+![Nucleic Acid Feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature-example-1.png){: .center-image }
 
 Download the nucleic acid feature node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png) ]
 
 
-## Complex 
+## Complex
 
 By Nicolas Le Novère (Jan 2014)
 
 A complex node represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals, multimers, or other complexes, linked by non-covalent bounds. The complex construct in SBGN possesses its own symbol, which is a rectangle with cut-corners (an octagonal box with sides of two different lengths). This symbol can be decorated with the symbols of its components. In this case, the label of the complex is optional.
 
-![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png){: .center-image } 
+![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png){: .center-image }
 
-The following example describes the reversible binding of calcium (represented as a simple chemical) on calmodulin (represented as a macromolecule). 
+The following example describes the reversible binding of calcium (represented as a simple chemical) on calmodulin (represented as a macromolecule).
 
-![Complex example 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex-example-1.png){: .center-image } 
+![Complex example 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex-example-1.png){: .center-image }
 
-The following example describes the binding the subunit alpha with subunits beta and gamma of the heterotrimeric G-protein. 
+The following example describes the binding the subunit alpha with subunits beta and gamma of the heterotrimeric G-protein.
 
-![Complex example 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex-example-2.png){: .center-image } 
+![Complex example 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex-example-2.png){: .center-image }
 
 Download the complex node image as (from the more semantic to the more generic):
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/complex/Symbol-complex.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png) ]
 
 
-## AF and PD Compartment 
+## AF and PD Compartment
 
 by Vasundra Touré (Jan 2016)
 
@@ -248,11 +248,11 @@ Finally, compartments can hold units of information that will for instance give 
 
 Download the compartment node image as (from the more semantic to the more generic):
 
-[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/compartment/Symbol-compartment.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.png) ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/compartment/Symbol-compartment.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.png) ]
 
 
 
-##  PD Clone Marker 
+##  PD Clone Marker
 
 by Vasundra Touré (Feb 2016)
 
@@ -275,7 +275,7 @@ ATP and ADP are found two times in this pathway, thus both are identified by a c
 
 Download the clone marker node image as (from the more semantic to the more generic):
 
-[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.png) ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.png) ]
 
 
 
@@ -312,10 +312,10 @@ Download the biological activity node image as (from the more semantic to the mo
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.png) ]
 
 
-[1] D. Pan, M. Fujimoto, A. Lopes, and Y.-X. Wang, “Twist-1 Is a PPARδ-Inducible, Negative-Feedback Regulator of PGC-1α in Brown Fat Metabolism,” Cell, vol. 137, no. 1, pp. 73–86, Apr. 2009. 
+[1] D. Pan, M. Fujimoto, A. Lopes, and Y.-X. Wang, “Twist-1 Is a PPARδ-Inducible, Negative-Feedback Regulator of PGC-1α in Brown Fat Metabolism,” Cell, vol. 137, no. 1, pp. 73–86, Apr. 2009.
 
 
-##  Unit Of Information for BA 
+##  Unit Of Information for BA
 
 by Vasundra Touré (Apr 2016)
 
@@ -329,11 +329,11 @@ There are six types of unit of information that can characterize a biological ac
 |   | Name | Description |
 |:-:|:----:|:-----------:|
 |![Macromolecule](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-macromolecule.png) | Macromolecule | Represents a very large biochemical substance, usually a protein, a nucleic acid or a complex sugar. It’s unit of information is represented by a rectangle with rounded corners.| 	
-|![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-simplechemical.png)| Simple Chemical | Represents a small biochemical substance, usually an atom, a mono-atomic ion, a salt, a solid metal, etc. It’s unit of information is represented by a circular container. |	
-|![Nucleic acid feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-nucleicacidfeature.png)| Nucleic acid feature | In SBGN represents a fragment of a macromolecule carrying genetic information. It’s unit of information is represented by a rectangle whose bottom half has rounded corners. |	
-|![Unspecified entity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-unspecifiedentity.png) | Unspecified entity | Represents the entity type that is unknown or simply not relevant for the purposes of the maps. It’s unit of information is represented by an elliptic container. |	
-|![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-complex.png)| Complex | Represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals or other complexes. It’s unit of information is represented by an octagon container. |	
-|![Perturbation](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-perturbation.png)| Perturbation | Represents a physical phenomena that influence a biochemical network, such as a light pulse or a change in the temperature. It can also be more complex and not well defined, for instance, glucose deprivation or stress. It’s unit of information is represented by a modified hexagon container having two opposite concave faces. |	
+|![Simple chemical](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-simplechemical.png)| Simple Chemical | Represents a small biochemical substance, usually an atom, a mono-atomic ion, a salt, a solid metal, etc. It’s unit of information is represented by a circular container. |
+|![Nucleic acid feature](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-nucleicacidfeature.png)| Nucleic acid feature | In SBGN represents a fragment of a macromolecule carrying genetic information. It’s unit of information is represented by a rectangle whose bottom half has rounded corners. |
+|![Unspecified entity](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-unspecifiedentity.png) | Unspecified entity | Represents the entity type that is unknown or simply not relevant for the purposes of the maps. It’s unit of information is represented by an elliptic container. |
+|![Complex](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-complex.png)| Complex | Represents a biochemical entity composed of other biochemical entities, whether macromolecules, simple chemicals or other complexes. It’s unit of information is represented by an octagon container. |
+|![Perturbation](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-perturbation.png)| Perturbation | Represents a physical phenomena that influence a biochemical network, such as a light pulse or a change in the temperature. It can also be more complex and not well defined, for instance, glucose deprivation or stress. It’s unit of information is represented by a modified hexagon container having two opposite concave faces. |
 
 
 The following example shows the transcription regulation of the gene GAS by STAT1. We can see that the protein STAT1 (a macromolecule) and the gene GAS (a nucleic acid feature) needs to form a complex in order to activate the transcription of GAS mRNA.
@@ -343,7 +343,7 @@ The following example shows the transcription regulation of the gene GAS by STAT
 
 Download the unit of information for a biological activity image as (from the more semantic to the more generic):
 
-[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.png) ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA.png) ]
 
 
 
@@ -370,10 +370,10 @@ The following example shows the transport of sodium chemical Na+ into the cytopl
 
 Download the perturbing agent image as (from the more semantic to the more generic):
 
-[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png) ] 
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png) ]
 
 
-##  Unspecified Entity 
+##  Unspecified Entity
 
 by Vasundra Touré (Jun 2016)
 
@@ -391,14 +391,4 @@ The following example shows a part of the [iNOS pathway](http://sbgnbricks.sourc
 
 Download the unspecified entity glyph image as (from the more semantic to the more generic):
 
-[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png) ] 
-
-
-
-
-
-
-
-
-
-
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png) ]
