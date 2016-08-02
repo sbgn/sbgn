@@ -21,6 +21,7 @@ permalink: /symbols
 *  [Unit Of Information for BA](#unit-of-information-for-ba)
 *  [Perturbing Agent](#perturbing-agent)
 *  [Unspecified Entity](#unspecified-entity)
+*  [Source and Sink](#source-and-sink)
 
 
 ## Stimulation
@@ -392,3 +393,29 @@ The following example shows a part of the [iNOS pathway](http://sbgnbricks.sourc
 Download the unspecified entity glyph image as (from the more semantic to the more generic):
 
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png) ]
+
+
+
+## Source and Sink
+
+by Vasundra Touré (Aug 2016)
+
+The source and sink glyphs are Entity Pool Nodes found in SBGN PD. The same symbol is used for both glyphs but the semantic differs depending on the position of the glyph upon a reaction. This symbol, inspired from the mathematical symbol “empty set”, offers to represent the creation (respectively, the disappearance) of an entity from an unspecified source (resp. sink) that we do not need or wish to explicit. A source or sink does not carry any labels neither auxiliary units.
+
+![Source and sink](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.png){: .center-image }
+
+The following figure shows on top a source glyph that is consumed and on the bottom a sink glyph that is produced. The symbol should always be linked to one edge only in a map.
+
+![Source and sink example 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example1.png){: .center-image }
+
+The following example is an extract of the LEC1/AFL-B3 factors and interactions with phytohormone metabolism (available in the RIMAS portal). It shows the AtGA2ox6 mRNA that is necessary to stimulate the production of the AtGA2ox6 protein, which stimulates in turn the catabolism of GA. Here the details about energy and metabolites involved in the protein’s creation is not represented. Instead, a source glyph is used stating that “a source creates” the AtGA2ox6 protein with the stimulation of the AtGA2ox6 mRNA.
+
+![Source and sink example 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example2.png){: .center-image }
+
+The following example shows "a minimal cascade model for the mitotic oscillator involving cyclin and cdc2 kinase" ([Goldbeter et al, 1991](http://rspb.royalsocietypublishing.org/content/261/1362/319.long)) taken from the [Biomodels database](http://www.ebi.ac.uk/biomodels-main/BIOMD0000000003). The symbols highlighted in blue are sink glyphs and the symbol in red is a source glyph.
+
+![Source and sink example 3](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example3.png){: .center-image }
+
+Download the source and sink glyph image as (from the more semantic to the more generic):
+
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.png) ]

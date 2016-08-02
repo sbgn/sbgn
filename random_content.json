@@ -79,6 +79,11 @@
       "title": "Unspecified Entity",
       "href": "unspecified-entity",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png"
+    },
+    {
+      "title": "Source and Sink",
+      "href": "source-and-sink",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.png"
     }
   ]
 }
