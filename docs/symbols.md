@@ -408,7 +408,7 @@ The following figure shows on top a source glyph that is consumed and on the bot
 
 ![Source and sink example 1](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example1.png){: .center-image }
 
-The following example is an extract of the LEC1/AFL-B3 factors and interactions with phytohormone metabolism (available in the RIMAS portal). It shows the AtGA2ox6 mRNA that is necessary to stimulate the production of the AtGA2ox6 protein, which stimulates in turn the catabolism of GA. Here the details about energy and metabolites involved in the protein’s creation is not represented. Instead, a source glyph is used stating that “a source creates” the AtGA2ox6 protein with the stimulation of the AtGA2ox6 mRNA.
+The following example is an extract of the [LEC1/AFL-B3 factors and interactions with phytohormone metabolism](http://rimas.ipk-gatersleben.de/AFLB3hormones.htm) (available in the [RIMAS portal](http://rimas.ipk-gatersleben.de/index.htm)). It shows the AtGA2ox6 mRNA that is necessary to stimulate the production of the AtGA2ox6 protein, which stimulates in turn the catabolism of GA. Here the details about energy and metabolites involved in the protein’s creation is not represented. Instead, a source glyph is used stating that “a source creates” the AtGA2ox6 protein with the stimulation of the AtGA2ox6 mRNA.
 
 ![Source and sink example 2](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink-example2.png){: .center-image }
 
