@@ -16,7 +16,7 @@ The SBGN *Process Description* (PD) language shows the temporal courses of bioch
 
 The **SBGN PD language Level 1 Version 1.3** --Available at ***Journal of Integrative Bioinformatics***, [2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263)](http://journal.imbio.de/article.php?aid=263).
 
-
+For end-users more than software developers [a user manual is also available](https://github.com/sbgn/process-descriptions/blob/master/UserManual/sbgn_PD-level1-user-public.pdf). 
 
 
 ### Entity Relationship language
