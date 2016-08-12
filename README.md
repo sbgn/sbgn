@@ -1,10 +1,43 @@
 # SBGN Homepage
 
-This repository contains the code for the main SBGN homepage
-
-Website link on GitHub
+This repository contains the code for the main SBGN homepage, the website can be found at this link:
 
 http://sbgn.github.io/sbgn
+
+This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/github-pages/). GitHub Pages are public web pages for users, organizations, and repositories, that are freely hosted by GitHub. When commits are made to this repository files are automatically built into a static website by Jekyll and changes appear on the live website quickly. The main syntax of the website is Markdown (a Wikipedia MediaWiki-like syntax) that is described better in links below. Contributions and changes can be made in several ways. 
+
+1. Downloading files using Git and pushed back to this repository directly or via pull requests 
+ * Please get in contact with one of the SBGN editors if you need commit permissions
+2. Through the online GitHub Editor by clicking the Edit menu on any .md file
+3. Submitting an issue on our [issue tracker](https://github.com/sbgn/sbgn/issues) 
+
+# Website Structure
+
+## Menu Items 
+
+Most menu items are stored here: 
+
+https://github.com/sbgn/sbgn/blob/gh-pages/_data/menu.yml
+
+and rendered by this template;
+
+https://github.com/sbgn/sbgn/blob/gh-pages/_includes/header.html
+
+## Pages
+
+All the pages are stored here: 
+
+https://github.com/sbgn/sbgn/tree/gh-pages/docs
+
+and rendered by this template:
+
+https://github.com/sbgn/sbgn/blob/gh-pages/_layouts/default.html
+
+## Homepage 
+
+The main landing homepage (index.html) is rendered by this Markdown file: 
+
+https://raw.githubusercontent.com/sbgn/sbgn/gh-pages/_includes/index.md
 
 # Using Markdown
 
@@ -27,23 +60,32 @@ The index.md exists in the _includes folder.
 
 ## Example Page Front Matter
 
+Example [Jekyll Front Matter](https://jekyllrb.com/docs/frontmatter/) necessary to render a page correctly: 
+
+    ---
+    title: A Human Readable Title
+    layout: default
+    permalink: /a_human_readable_title
+    ---
+
 NOTE: There is only one layout (i.e. default)
 
----
-title: A Human Readable Title
-layout: default
-permalink: /a_human_readable_title
----
-
 ## Images
-![alt text](/images/foo.png)
+Example image code: 
 
+    ![alt text](/images/foo.png)
+
+NOTE: If you need to directly link to an image found in a GitHub repository use the following URL syntax: 
+
+https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png
+    
 ## Tables
 * There must be an empty line below the table
 
 ## Linking
 * File names should be at least 3 characters (WRONG: faq, RIGHT: faqs)
 * Given the relative path in the Markdown links
+* 
 
 ### Example
 * You need to give relative path
