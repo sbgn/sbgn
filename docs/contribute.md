@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contribute
 layout: default
-permalink: /contact
+permalink: /contribute
 ---
 
 # Contribute 
