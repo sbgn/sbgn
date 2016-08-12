@@ -12,10 +12,10 @@ This page contains a list of core SBGN-related projects.
 
 [https://github.com/sbgn](https://github.com/sbgn)
 
-Please report any issues on the specific project 
+Please report any issues on the specific project, for example the Process Description Specification:
 
 [https://github.com/sbgn/process-descriptions/issues](https://github.com/sbgn/process-descriptions/issues)
 
-If you are a member of the SBGN community and need to change something on this site, please read the information and follow the instructions found on this page:
+If something needs to be changed on this website, please read the information and follow the instructions found on this page:
 
 [https://github.com/sbgn/sbgn](https://github.com/sbgn/sbgn)
