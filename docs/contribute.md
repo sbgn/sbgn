@@ -1,3 +1,11 @@
+---
+title: Contact
+layout: default
+permalink: /contact
+---
+
+# Contribute 
+
 See a problem with the specifications or website? Want to contribute? There are multiple ways to do this. 
 
 This page contains a list of core SBGN-related projects. 
