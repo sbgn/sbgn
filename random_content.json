@@ -12,42 +12,42 @@
   "symbols": [
     {
       "title": "Stimulation",
-      "href": "stimulation",
+      "href": "pd-stimulation",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png"
     },
     {
       "title": "Inhibition",
-      "href": "inhibition",
+      "href": "pd-inhibition",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png"
     },
     {
       "title": "Process",
-      "href": "process",
+      "href": "pd-process",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png"
     },
     {
       "title": "Consumption Production Reversible",
-      "href": "consumption-production-reversible",
+      "href": "pd-consumption-production-reversible",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png"
     },
     {
       "title": "Macromolecule",
-      "href": "macromolecule",
+      "href": "pd-macromolecule",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png"
     },
     {
       "title": "Simple Chemical",
-      "href": "simple-chemical",
+      "href": "pd-simple-chemical",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png"
     },
     {
       "title": "Nucleic Acid Feature",
-      "href": "nucleic-acid-feature",
+      "href": "pd-nucleic-acid-feature",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png"
     },
     {
       "title": "Complex",
-      "href": "complex",
+      "href": "pd-complex",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png"
     },
     {
@@ -62,28 +62,33 @@
     },
     {
       "title": "Biological Activity",
-      "href": "biological-activity",
+      "href": "af-biological-activity",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.png"
     },
     {
       "title": "Unit Of Information for BA",
-      "href": "unit-of-information-for-ba",
+      "href": "af-unit-of-information-for-ba",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-unspecifiedentity.png"
     },
     {
       "title": "Perturbing Agent",
-      "href": "perturbing-agent",
+      "href": "pd-perturbing-agent",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png"
     },
     {
       "title": "Unspecified Entity",
-      "href": "unspecified-entity",
+      "href": "pd-unspecified-entity",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png"
     },
     {
       "title": "Source and Sink",
-      "href": "source-and-sink",
+      "href": "pd-source-and-sink",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.png"
+    }
+        {
+      "title": "And",
+      "href": "pd-er-and-af-and",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.png"
     }
   ]
 }

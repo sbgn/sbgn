@@ -19,9 +19,10 @@ permalink: /symbols
 *  [PD Clone Marker](#pd-clone-marker)
 *  [AF Biological Activity](#af-biological-activity)
 *  [AF Unit Of Information for BA](#af-unit-of-information-for-ba)
-*  [PD Perturbing Agent](#perturbing-agent)
+*  [PD Perturbing Agent](#pd-perturbing-agent)
 *  [PD Unspecified Entity](#pd-unspecified-entity)
 *  [PD Source and Sink](#pd-source-and-sink)
+*  [PD ER and AF And](#pd-er-and-af-and)
 
 
 ## PD Stimulation
@@ -419,3 +420,25 @@ The following example shows "a minimal cascade model for the mitotic oscillator 
 Download the source and sink glyph image as (from the more semantic to the more generic):
 
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.png) ]
+
+
+
+## PD ER and AF And
+
+by Vasundra Touré (Sep 2016)
+
+The glyph and is a Logical Operator that can be found in all three languages PD, ER and AF. It is used to indicate that all nodes linked as input are necessary to produce the output. The input is usually another logical operator or can be Entity Pool Nodes in PD, interactors in ER and Activity Nodes in AF. The glyph and is identified with the label “AND” and does not carry any auxiliary units.
+
+![And](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.png){: .center-image }
+
+The following example shows the production of IRF1 mRNA in PD and AF languages. Both IRF1 gene and the complex formed by STAT1 protein and IRF1-GAS gene regulatory region are necessary. Thus the glyph AND links both to stimulate the process that leads to the production of IRF1 mRNA.
+
+In Process Description language:
+![And example pd](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and-example-pd.png){: .center-image }
+
+In Activity Flow language:
+![And example af](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and-example-af.png){: .center-image }
+
+Download the and glyph image as (from the more semantic to the more generic):
+
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/and/Symbol-and.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.png) ]
