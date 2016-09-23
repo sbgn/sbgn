@@ -4,7 +4,7 @@ An annual competition is organized to stimulate implementation of SBGN support a
 
 Please submit your contributions to Robin Haw, robin.haw@oicr.on.ca
 
-The submission for entries will open on October 28 2016 and closed on April 28 2016. Once the entries have been uploaded to the sbgn.org you will be able to consult the list of entries. 
+The submission for entries will open on October 28 2016 and closed on April 28 2017. Once the entries have been uploaded to the sbgn.org you will be able to consult the list of entries. 
 
 Entries will be evaluated by the community between May 8 2017 and the June 5 2017, each category being subjected to a vote. Results were disclosed at HARMONY 2017.
 
