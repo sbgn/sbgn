@@ -85,7 +85,13 @@ https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol
 ## Linking
 * File names should be at least 3 characters (WRONG: faq, RIGHT: faqs)
 * Given the relative path in the Markdown links
-* 
+
+## Redirects 
+In some cases, links will need to be redirected from a former location. This can be done with the following lines. The example redirects http://sbgn.github.io/sbgn/LibSBGN to https://github.com/sbgn/sbgn/wiki/LibSBGN
+
+    ---
+    redirect_to: https://github.com/sbgn/sbgn/wiki/LibSBGN
+    ---
 
 ### Example
 * You need to give relative path
