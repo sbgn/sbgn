@@ -86,13 +86,6 @@ https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol
 * File names should be at least 3 characters (WRONG: faq, RIGHT: faqs)
 * Given the relative path in the Markdown links
 
-## Redirects 
-In some cases, links will need to be redirected from a former location. This can be done with the following lines. The example redirects http://sbgn.github.io/sbgn/LibSBGN to https://github.com/sbgn/sbgn/wiki/LibSBGN
-
-    ---
-    redirect_to: https://github.com/sbgn/sbgn/wiki/LibSBGN
-    ---
-
 ### Example
 * You need to give relative path
  * Example: faqs.md is in docs/ and pd.md is in docs/faq/
@@ -101,6 +94,13 @@ In some cases, links will need to be redirected from a former location. This can
 
    The path of the link to give: faq/pd
  * The syntax for creating a link is available [here](https://guides.github.com/features/mastering-markdown/).
+
+## Redirects 
+In some cases, links will need to be redirected from a former location. This can be done with the following lines. The example redirects http://sbgn.github.io/sbgn/LibSBGN to https://github.com/sbgn/sbgn/wiki/LibSBGN
+
+    ---
+    redirect_to: https://github.com/sbgn/sbgn/wiki/LibSBGN
+    ---
 
 # Run Site Locally with Docker
 
