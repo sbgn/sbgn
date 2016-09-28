@@ -1,10 +1,16 @@
-# SBGN Homepage
+# SBGN Homepage & Development Wiki
 
-This repository contains the code for the main SBGN homepage, the website can be found at this link:
+This repository contains the code for the SBGN homepage available at  
+http://sbgn.github.io/sbgn or http://www.sbgn.org
 
-http://sbgn.github.io/sbgn
+and provides access to the developer Wiki at  
+https://github.com/sbgn/sbgn/wiki
 
-This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/github-pages/). GitHub Pages are public web pages for users, organizations, and repositories, that are freely hosted by GitHub. When commits are made to this repository files are automatically built into a static website by Jekyll and changes appear on the live website quickly. The main syntax of the website is Markdown (a Wikipedia MediaWiki-like syntax) that is described better in links below. Contributions and changes can be made in several ways. 
+# Website Development
+
+This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/github-pages/). GitHub Pages are public web pages for users, organizations, and repositories, that are freely hosted by GitHub. When commits are made to this repository files are automatically built into a static website by Jekyll and changes appear on the live website quickly. The main syntax of the website is Markdown (a Wikipedia MediaWiki-like syntax) that is described better in links below. 
+
+Contributions and changes can be made in several ways:
 
 1. Downloading files using Git and pushed back to this repository directly or via pull requests 
  * Please get in contact with one of the SBGN editors if you need commit permissions
@@ -12,31 +18,25 @@ This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/
 3. Submitting an issue on our [issue tracker](https://github.com/sbgn/sbgn/issues) 
 
 # Website Structure
-
 ## Menu Items 
 
-Most menu items are stored here: 
-
+Most menu items are stored in  
 https://github.com/sbgn/sbgn/blob/gh-pages/_data/menu.yml
 
-and rendered by this template;
-
+and rendered by the template  
 https://github.com/sbgn/sbgn/blob/gh-pages/_includes/header.html
 
 ## Pages
 
-All the pages are stored here: 
-
+All pages are stored in  
 https://github.com/sbgn/sbgn/tree/gh-pages/docs
 
-and rendered by this template:
-
+and rendered by the template  
 https://github.com/sbgn/sbgn/blob/gh-pages/_layouts/default.html
 
 ## Homepage 
 
-The main landing homepage (index.html) is rendered by this Markdown file: 
-
+The main landing homepage (index.html) is rendered by this Markdown file:  
 https://raw.githubusercontent.com/sbgn/sbgn/gh-pages/_includes/index.md
 
 # Using Markdown
