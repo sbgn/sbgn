@@ -451,11 +451,11 @@ by Vasundra Touré (Oct 2016)
 
 The glyph or is a Logical Operator that can be found in all the three languages PD, ER and AF. It is used to indicate that any node linked as input is sufficient to produce the output. The input is usually another logical operator or can be Entity Pool Nodes in PD, interactors in ER and Activity Nodes in AF. The glyph and is identified with the label “OR” and does not carry any auxiliary units.
 
-![Or](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.png){: .center-image }
+![Or](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.png){: .center-image }
 
 The following example shows the transcription of SDH2-3 mRNA extracted from the LEC1/AFL-B3 factors and maturation gene control (RIMAS). The transcription needs to be stimulated by at least one of the complexes showed on the map and any of these complexes is sufficient for this stimulation. 
 
-![Or example](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or-example.png){: .center-image }
+![Or example](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or-example.png){: .center-image }
 
 Download the and glyph image as (from the more semantic to the more generic):
 
