@@ -457,6 +457,6 @@ The following example shows the transcription of SDH2-3 mRNA extracted from the 
 
 ![Or example](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or-example.png){: .center-image }
 
-Download the and glyph image as (from the more semantic to the more generic):
+Download the or glyph image as (from the more semantic to the more generic):
 
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/or/Symbol-or.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.png) ]
