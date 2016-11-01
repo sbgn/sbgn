@@ -89,6 +89,11 @@
       "title": "And",
       "href": "pd-er-and-af-and",
       "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.png"
+    },
+   {
+      "title": "Or",
+      "href": "pd-er-and-af-or",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.png"
     }
   ]
 }

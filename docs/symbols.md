@@ -23,6 +23,7 @@ permalink: /symbols
 *  [PD Unspecified Entity](#pd-unspecified-entity)
 *  [PD Source and Sink](#pd-source-and-sink)
 *  [PD ER and AF And](#pd-er-and-af-and)
+*  [PD ER and AF Or](#pd-er-and-af-or)
 
 
 ## PD Stimulation
@@ -442,3 +443,20 @@ In Activity Flow language:
 Download the and glyph image as (from the more semantic to the more generic):
 
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/and/Symbol-and.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.png) ]
+
+
+## PD ER and AF Or
+
+by Vasundra Touré (Oct 2016)
+
+The glyph or is a Logical Operator that can be found in all the three languages PD, ER and AF. It is used to indicate that any node linked as input is sufficient to produce the output. The input is usually another logical operator or can be Entity Pool Nodes in PD, interactors in ER and Activity Nodes in AF. The glyph and is identified with the label “OR” and does not carry any auxiliary units.
+
+![Or](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.png){: .center-image }
+
+The following example shows the transcription of SDH2-3 mRNA extracted from the LEC1/AFL-B3 factors and maturation gene control (RIMAS). The transcription needs to be stimulated by at least one of the complexes showed on the map and any of these complexes is sufficient for this stimulation. 
+
+![Or example](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or-example.png){: .center-image }
+
+Download the and glyph image as (from the more semantic to the more generic):
+
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/and/Symbol-or.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-or.png) ]
