@@ -24,6 +24,7 @@ permalink: /symbols
 *  [PD Source and Sink](#pd-source-and-sink)
 *  [PD ER and AF And](#pd-er-and-af-and)
 *  [PD ER and AF Or](#pd-er-and-af-or)
+*  [PD ER and AF Not](#pd-er-and-af-not)
 
 
 ## PD Stimulation
@@ -447,7 +448,7 @@ Download the and glyph image as (from the more semantic to the more generic):
 
 ## PD ER and AF Or
 
-by Vasundra Touré (Oct 2016)
+by Vasundra Touré (Nov 2016)
 
 The glyph or is a Logical Operator that can be found in all the three languages PD, ER and AF. It is used to indicate that any node linked as input is sufficient to produce the output. The input is usually another logical operator or can be Entity Pool Nodes in PD, interactors in ER and Activity Nodes in AF. The glyph and is identified with the label “OR” and does not carry any auxiliary units.
 
@@ -460,3 +461,20 @@ The following example shows the transcription of SDH2-3 mRNA extracted from the 
 Download the or glyph image as (from the more semantic to the more generic):
 
 [ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/or/Symbol-or.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.png) ]
+
+
+## PD ER and AF Not
+
+by Vasundra Touré (Dec 2016)
+
+The glyph not is a Logical Operator that can be found in all three languages PD, ER and AF. It is used to indicate that the output only happens in the absence of the input. The input is usually another logical operator or it can be EPNs in PD, interactors in ER and ANs in AF. The glyph not is identified with the label “NOT” and does not carry any auxiliary units.
+
+![Not](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.png){: .center-image }
+
+The following example shows that the production of cyclin-CDK complex is not stimulated by the protein p21. 
+
+![Not example](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not-example-pd.png){: .center-image }
+
+Download the not glyph image as (from the more semantic to the more generic):
+
+[ [SBGN-ML](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.sbgn) ] [ [GML](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.gml) ] [ [GraphML](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.graphml) ] [ [SVG](https://cdn.rawgit.com/sbgn/glyph-files/master/not/Symbol-not.svg) ] [ [Open Document Format](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.odp) ] [ [PowerPoint](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.ppt) ] [ [PDF](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.pdf) ] [ [PNG](https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.png) ]
