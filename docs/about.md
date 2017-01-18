@@ -36,7 +36,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                 | Robin Haw           | 2014 - 2017          |
 | ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.png)           | Alexander Mazein    | 2015 - 2018          |
 | ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)     | Tobias Czauderna    | 2016 - 2019          |
-| ![Dogrusoz](https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.jpg)       | Ugur Dogrusoz       | 2016 - 2019          |
+| ![Dogrusoz](https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png)       | Ugur Dogrusoz       | 2016 - 2019          |
 
 <br>
 
