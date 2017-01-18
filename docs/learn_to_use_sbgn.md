@@ -1,5 +1,5 @@
 ---
-title: Learn To Use SBGN
+title: Learn to Use SBGN
 layout: default
 permalink: /learn_to_use_sbgn
 ---
