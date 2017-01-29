@@ -62,8 +62,7 @@ Principal investigators of grants supporting SBGN development and maintenance ar
 | ![Goryyanin](https://sbgn.github.io/sbgn/images/about/photo-goryanin.jpg) | Igor Goryanin | SBGN PI joined in 2009. |
 | ![Kitano](https://sbgn.github.io/sbgn/images/about/photo-kitano.jpg) | Hiroaki Kitano | SBGN PI joined in 2009. |
 | ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg) | Falk Schreiber | SBGN PI joined in 2013. |
-| ![Hucka](https://sbgn.github.io/sbgn/images/about/photo-hucka.jpg) | Michael Hucka | member invited in 2009. (Ph.D. in Computer Science and 
-Engineering) Senior Research Fellow at Caltech. He has chaired the SBML effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with BioModels.net activities. |
+| ![Hucka](https://sbgn.github.io/sbgn/images/about/photo-hucka.jpg) | Michael Hucka | member invited in 2009. (Ph.D. in Computer Science and <br>Engineering) Senior Research Fellow at Caltech. He has chaired the SBML effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with BioModels.net activities. |
 | ![Bader](https://sbgn.github.io/sbgn/images/about/photo-bader.png) | Gary Bader | member invited in 2010. (Ph.D. Biochemistry) Works on biological network analysis and pathway information resources as an Assistant Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the BioPAX biological pathways exchange language |
 | ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | member invited in 2011.(Ph.D.) Associate Professor of Preventive Medicine (Chief, Division of Bioinformatics) and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, and is a PI of the Gene Ontology project. |
 
