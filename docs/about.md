@@ -45,11 +45,11 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Dec 2015 - Dec 2016 <br> Sep 2008 - Dec 2012 |
 | ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.jpg)                          | Huaiyu Mi            | Dec 2013 - Dec 2016 <br> Jan 2009 - Dec 2011 |
 | ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Jan 2012 - Dec 2015 |
+| ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2012 - Dec 2015 <br> Sep 2008 - Dec 2011 |
+| ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2010 |
+| ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2009 |
 | ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
 | ![Demir](https://sbgn.github.io/sbgn/images/about/photo-demir.jpg)                    | Emek Demir           | Jan 2010 - Dec 2012 |
-| ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2008 - Dec 2011 <br> Sep 2012 - Dec 2015 |
-| ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Sep 2008 - Dec 2010 <br> Jan 2012 - Dec 2014 |
-| ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Sep 2008 - Dec 2009 <br> Jan 2012 - Dec 2014 |
 
 ### SBGN Scientific Committee
 
