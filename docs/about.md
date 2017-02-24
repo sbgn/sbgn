@@ -26,7 +26,7 @@ SBGN meetings and workshops provide the best environment for learning about the 
 
 ### SBGN Editors
 
-The SBGN Editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
+The SBGN editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
 The editors do not decide what to put in the specifications—they are the voice and the hand of the community.
 The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. An serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
 
