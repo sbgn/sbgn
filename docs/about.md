@@ -21,7 +21,7 @@ Over the course of its development many individuals, organizations and companies
 Regardless of your experience or involvement level, we value your ideas and feedback.
 For reporting issues, suggesting enhancements or requesting features please use the dedicated [trackers on our code repositories](https://github.com/sbgn/sbgn).
 For general discussions about SBGN: please join the [sbgn-discuss mailing list](https://groups.google.com/forum/#!forum/sbgn-discuss) and bring up the topic there.
-For specific questions about this website, workshops, or other SBGN resource management topics: please send a message to the [sbgn-editors mailing list](sbgn-editors@googlegroups.com).
+For specific questions about this website, workshops, or other SBGN resource management topics: please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com).
 SBGN meetings and workshops provide the best environment for learning about the process and getting involved. Please check the [Events](events) page for the upcoming events.
 
 ### SBGN Editors
