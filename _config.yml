@@ -22,3 +22,8 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+
+keep_files: [
+   '.well-known/acme-challenge'
+]
+
