@@ -38,8 +38,8 @@ The following is a list of software packages known to provide support for SBGN. 
 | [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | V     | +   | -   | -   | -       |
 | [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
 | [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
-| [Newt](http://newteditor.org/)                                                   | E     | +   | -   | +   | +       |
-| [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
+| [Newt Editor](http://www.newteditor.org)                                         | E     | +   | -   | +   | +       |
+| [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
 | [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
 | [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
 | [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
