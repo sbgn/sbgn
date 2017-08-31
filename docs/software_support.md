@@ -47,7 +47,7 @@ The following is a list of software packages known to provide support for SBGN. 
 | [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | V     | +   | +   | +   | +       |
 | [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | V     | +   | -   | -   | -       |
 | [VISIBIOweb](http://bcbi.bilkent.edu.tr/pvs.html)                                | V     | +   | -   | -   | +       |
-| [yEd Graph Editor](https://www.yworks.com/products/yed)                          | E     | +   | -   | -   | -       |
+| [yEd Graph Editor](https://www.yworks.com/products/yed)                          | E     | +   | -   | +   | -       |
 
 V / E - Viewer or Editor  
 PD – Process Description, ER – Entity Relationship, AF – Activity Flow  
