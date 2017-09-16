@@ -44,7 +44,7 @@ Acting Editors are to be selected among active contributors by the elected SBGN 
 
 |Current editors                     |Name               | Period      |
 | ---------------------------------- |:-----------------:|:--------------------:|
-| ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.png)             | Vasundra Toure      | 2017 - Present       |      
+| ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.jpg)             | Vasundra Toure      | 2017 - Present       |      
 
 
 ### Former SBGN Editors
