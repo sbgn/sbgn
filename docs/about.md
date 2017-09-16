@@ -38,7 +38,14 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)     | Tobias Czauderna    | 2016 - 2019          |
 | ![Dogrusoz](https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png)       | Ugur Dogrusoz       | 2016 - 2019          |
 
-<br>
+### SBGN Acting Editors
+
+Acting Editors are to be selected among active contributors by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
+
+| ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.png)             | Vasundra Toure      | 2017 - Present       |      
+
+
+### Former SBGN Editors
 
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
