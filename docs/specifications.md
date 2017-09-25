@@ -14,7 +14,7 @@ The SBGN *Process Description* (PD) language shows the temporal courses of bioch
 
 #### Current Specification:
 
-The [<span style="color:blue">**SBGN PD language Level 1 Version 1.3**</span>](http://identifiers.org/combine.specifications/sbgn.pd.level-1.version-1.3) --Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263).
+The [SBGN PD language Level 1 Version 1.3](https://identifiers.org/combine.specifications/sbgn.pd.level-1.version-1.3) --Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263).
 
 
 For end-users more than software developers [a user manual is also available](https://github.com/sbgn/process-descriptions/blob/master/UserManual/sbgn_PD-level1-user-public.pdf). 
@@ -26,7 +26,7 @@ The SBGN *Entity Relationship* (ER) language allows you to see all the relations
 
 #### Current Specification:
 
-The [<span style="color:blue">**SBGN ER language Level 1 Version 2.0**</span>](http://identifiers.org/combine.specifications/sbgn.er.level-1.version-2) -- Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):264 (doi:10.2390/biecoll-jib-2015-264)
+The [SBGN ER language Level 1 Version 2.0](https://identifiers.org/combine.specifications/sbgn.er.level-1.version-2) -- Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):264 (doi:10.2390/biecoll-jib-2015-264)
 
 
 ### Activity Flow language
@@ -34,4 +34,4 @@ The [<span style="color:blue">**SBGN ER language Level 1 Version 2.0**</span>](h
 The SBGN *Activity Flow* (AF) language depicts the flow of information between biochemical entities in a network. It omits information about the state transitions of entities and is particularly convenient for representing the effects of perturbations, whether genetic or environmental in nature.
 
 #### Current Specification:
-The [<span style="color:blue">**SBGN AF language Level 1 Version 1.2**</span>](http://identifiers.org/combine.specifications/sbgn.af.level-1.version-1.2) -- Available at ***Journal of Integrative Bioinformatics***,  2015 Sep 4;12(2):265. (doi:10.2390/biecoll-jib-2015-265).
+The [SBGN AF language Level 1 Version 1.2](https://identifiers.org/combine.specifications/sbgn.af.level-1.version-1.2) -- Available at ***Journal of Integrative Bioinformatics***,  2015 Sep 4;12(2):265. (doi:10.2390/biecoll-jib-2015-265).
