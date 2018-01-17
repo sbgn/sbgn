@@ -33,19 +33,19 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 
 |Current editors                     |Name               | Election period      |
 | ---------------------------------- |:-----------------:|:--------------------:|
-| ![Luna](https://sbgn.github.io/sbgn/images/about/photo-luna.png)               | Augustin Luna       | 2014 - 2017          |
-| ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                 | Robin Haw           | 2014 - 2017          |
-| ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.png)           | Alexander Mazein    | 2015 - 2018          |
-| ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)     | Tobias Czauderna    | 2016 - 2019          |
-| ![Dogrusoz](https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png)       | Ugur Dogrusoz       | 2016 - 2019          |
+| ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.png)         | Alexander Mazein    | 2015 - 2018  |
+| ![Dogrusoz](https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png)     | Ugur Dogrusoz       | 2016 - 2019  |
+| ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.jpg)           | Vasundra Toure      | 2018 - 2020  |
+| ![Drager](https://sbgn.github.io/sbgn/images/about/photo-drager.png)         | Andreas Dräger      | 2018 - 2020  |
+| ![Rougny](https://sbgn.github.io/sbgn/images/about/photo-rougny.png)         | Adrien Rougny       | 2018 - 2020  |
 
 ### SBGN Acting Editors
 
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
-|Current editors                     |Name               | Period      |
+|Current editors                     |Name               | Period               |
 | ---------------------------------- |:-----------------:|:--------------------:|
-| ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.jpg)             | Vasundra Toure      | 2017 - Present       |      
+|                                    |                   | 2018 - Present       |      
 
 
 ### Former SBGN Editors
@@ -53,8 +53,10 @@ Acting Editors are selected among active contributors and are appointed by the e
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
 | ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Dec 2015 - Dec 2016 <br> Sep 2008 - Dec 2012 |
+| ![Luna](https://sbgn.github.io/sbgn/images/about/photo-luna.png)                      | Augustin Luna        | Dec 2014 - Dec 2017 |
+| ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                        | Robin Haw            | Dec 2014 - Dec 2017 |
 | ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.jpg)                          | Huaiyu Mi            | Dec 2013 - Dec 2016 <br> Jan 2009 - Dec 2011 |
-| ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Jan 2012 - Dec 2015 |
+| ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Dec 2016 - Dec 2017 <br> Jan 2012 - Dec 2015 |
 | ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2012 - Dec 2015 <br> Sep 2008 - Dec 2011 |
 | ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2010 |
 | ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2009 |
