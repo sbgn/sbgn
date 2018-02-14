@@ -6,6 +6,7 @@ items:
   "Templates": "/templates"
   "Specifications": "/specifications"
   "Publications": "/publications"
+  "_______________": "/"
   "Software Support": "/software_support"
   "Events": "/events"
   "Competition": "/competition"
