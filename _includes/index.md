@@ -2,9 +2,6 @@
 
 <p style="font-size:110%;">Upcoming event: <a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a> will take place in Boston, MA USA, from 8th to 12th October at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.</p>
 
-<a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a>
-
-
 <br />
 
 ## Symbol Highlight
