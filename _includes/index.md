@@ -6,7 +6,7 @@
 
 <br />
 
-## Symbol Highlight
+### Symbol Highlight
 
 <table class="random-highlight">
   <tbody>
@@ -17,7 +17,7 @@
   </tbody>
 </table>
 
-## Pathway Highlight
+### Pathway Highlight
 
 <script>
   $(document).ready(function() {
