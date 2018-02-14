@@ -7,12 +7,12 @@ items:
   "FAQ": "/faqs"
   "CONTACT": "/contact"
   "______": "/learn_to_use_sbgn"
-  "Learn to Use SBGN": "/learn_to_use_sbgn"
-  "Symbol Highlights": "/symbols"
-  "Example Diagrams": "/examples"
-  "Templates": "/templates"
-  "Competition": "/competition"
+  "LEARN TO USE SBGN": "/learn_to_use_sbgn"
+  "SYMBOL HIGHLIGHTS": "/symbols"
+  "EXAMPLE DIAGRMAS": "/examples"
+  "TEMPLATES": "/templates"
+  "COMPETITION": "/competition"
   "_______": "/contribute"
-  "Contribute": "/contribute"
+  "CONTRIBUTE": "/contribute"
   
   
