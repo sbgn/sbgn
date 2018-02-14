@@ -4,7 +4,11 @@
   <a href="http://co.mbine.org/events/HARMONY_2018" target="_blank">HARMONY 2018</a> will take place in Oxford, UK, 18-22 June 2018 at the University of Oxford, Doctoral Training Centre. <br />
   <a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a> will take place in Boston, MA USA, 8-12 October 2018 at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.</p>
 
-<br />
+## Upcoming events
+
+<p><a href="http://co.mbine.org/events/HARMONY_2018" target="_blank">HARMONY 2018</a> will take place in Oxford, UK, 18-22 June 2018 at the University of Oxford, Doctoral Training Centre.</p>
+  
+<p><a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a> will take place in Boston, MA USA, 8-12 October 2018 at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.</p>
 
 ### Symbol Highlight
 
