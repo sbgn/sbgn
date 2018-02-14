@@ -2,6 +2,8 @@
 
 Upcoming events: [COMBINE 2018](http://co.mbine.org/events/COMBINE_2018) will take place in Boston, MA USA, from 8th to 12th October at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.
 
+<br />
+
 ## Symbol Highlight
 
 <table class="random-highlight">
