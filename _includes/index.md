@@ -1,6 +1,8 @@
 <p style="font-size:110%;">Welcome to the global portal for documentation, news, and other information about the <strong>Systems Biology Graphical Notation</strong> (SBGN) project, an effort to standardize the graphical notation used in maps of biological processes.</p>
 
-<p style="font-size:110%;">Upcoming event: <a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a> will take place in Boston, MA USA, from 8th to 12th October 2018 at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.</p>
+<p style="font-size:110%;">Upcoming events: <br />
+  <a href="http://co.mbine.org/events/HARMONY_2018" target="_blank">HARMONY 2018</a> will take place in Oxford, UK, 18-22 June 2018 at the University of Oxford, Doctoral Training Centre. <br />
+  <a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a> will take place in Boston, MA USA, 8-12 October 2018 at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.</p>
 
 <br />
 
