@@ -1,11 +1,5 @@
 Welcome to the global portal for documentation, news, and other information about the **Systems Biology Graphical Notation** (SBGN) project, an effort to standardize the graphical notation used in maps of biological processes.
 
-## Quick start
-
-{:.random-highlight}
-|:-:|:-:|
-| [Learn how to use SBGN](/sbgn/learn_to_use_sbgn) | [Get involved](https://github.com/sbgn/sbgn/wiki) |
-
 ## Symbol Highlight
 
 <table class="random-highlight">
