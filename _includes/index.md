@@ -10,7 +10,7 @@ Upcoming events:
 
 <a href="/sbgn/images/nice/FIG1.png"><img src="/sbgn/images/nice/SFIG1.png"/></a>
 
-![https://github.com/sbgn/sbgn/blob/gh-pages/images/nice/SFIG1.png][https://github.com/sbgn/sbgn/blob/gh-pages/images/nice/FIG1.png]
+![https://github.com/sbgn/sbgn/blob/gh-pages/images/nice/SFIG1.png](https://github.com/sbgn/sbgn/blob/gh-pages/images/nice/FIG1.png)
 
 <a href="/sbgn/images/nice/FIG1.png"><img src="/sbgn/images/nice/SFIG1.png"/></a> | <a href="/sbgn/images/nice/FIG2.png"><img src="/sbgn/images/nice/SFIG2.png"/></a>
 <a href="/sbgn/images/nice/FIG3.png"><img src="/sbgn/images/nice/SFIG3.png"/></a> | <a href="/sbgn/images/nice/FIG4.png"><img src="/sbgn/images/nice/SFIG4.png"/></a>
