@@ -4,7 +4,7 @@ layout: default
 permalink: /templates
 ---
 
-## Templates
+# Templates
 
 This page lists the material provided to help you use SBGN languages in your favorite software.
 
