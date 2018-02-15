@@ -9,7 +9,7 @@ permalink: /events
 *  [SBGN Events](#sbgn-events)
 *  [COMBINE Events](#combine-events)
 
-### SBGN Events
+## SBGN Events
 
 As part of our efforts to develop and establish SBGN, in 2006 we initiated a workshop series to bring together individuals from around the world who are interested in discussing SBGN, its implementation and its evolution.
 
@@ -35,7 +35,7 @@ This page provides access to meeting pages, agendas, and other information about
 | ![SBGN 1](/sbgn/images/events/SBGN1-100x100.jpg) | **[SBGN 1](https://github.com/sbgn/sbgn/wiki/SBGN-1)**<br>11 - 12 February 2006<br>*Tokyo, Japan* |
 
 
-### COMBINE Events
+## COMBINE Events
 
 The 'COmputational Modeling in BIology' NEtwork ([COMBINE](http://co.mbine.org/)) is an initiative to coordinate the development of the various community standards and formats for computational models, initially in Systems Biology and related fields.
 
