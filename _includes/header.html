@@ -11,12 +11,42 @@
 
   <!--<p class="view"><a href="{{ site.repository_url }}">View the Project on GitHub <small>{{ site.repository_shorthand }}</small></a></p>-->
 
+  
+  <!--
   <div class="pages">
     {% for item in site.data.menu.items %}
     <p class="view sidebar"><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></p>
     {% endfor %}
     <p class="view sidebar"><a href="https://github.com/sbgn/sbgn/wiki">SBGN Development</a></p>
   </div>
+  -->
+  
+  <div class="pages">
+    {% for item in site.data.menu.items %}
+    <p class="view sidebar"><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></p>
+    {% endfor %}
+  <p class="view sidebar"><a href="/competition">Competition</a></p>
+  <p class="view sidebar"><a href="https://github.com/sbgn/sbgn/wiki">SBGN Development</a></p>
+  </div>
+  
+  <!--
+  "ABOUT": "/about"
+  "SPECIFICATIONS": "/specifications"
+  "SOFTWARE SUPPORT": "/software_support"
+  "PUBLICATIONS": "/publications"
+  "EVENTS": "/events"
+  "FAQ": "/faqs"
+  "CONTACT": "/contact"
+  "_____": "/learn_to_use_sbgn"
+  "Learn to Use SBGN": "/learn_to_use_sbgn"
+  "Symbol Highlights": "/symbols"
+  "Example Diagrams": "/examples"
+  "Templates": "/templates"
+  "Comptetition": "/competition"
+  "______": "/contribute"
+  "Contribute": "/contribute"
+  -->
+
 
   <!--
   <ul>
