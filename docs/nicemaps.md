@@ -4,4 +4,4 @@ layout: default
 permalink: /nicemaps
 ---
 
-# Published Map Hightlights
+# Published Maps
