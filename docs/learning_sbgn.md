@@ -12,7 +12,7 @@ permalink: /learning_sbgn
 
 The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novere, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
 
-## SBGN dictionary
+## SBGN PD dictionary
 
 <p>For a better understanding of the Process Description language it is important to focus on the processes - the small white squares on the diagrams. There are incomin consumption links to the process, production links from the process, and often regulatory links to the process, for example stimulation or inhibition.</p>
 [doi:10.1016/j.tibtech.2012.08.003](http://dx.doi.org/10.1016/j.tibtech.2012.08.003)
@@ -29,6 +29,10 @@ image | Translation
 ## Start drawing your first SBGN diagram
 
 Link to Newt tutorial
+
+## Helpful materials
+
+Additional tutorial materials can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.
 
 ## SBGN PD Reference Card
 
