@@ -46,4 +46,4 @@ After reading the initial SBGN paper (Le Novère et al, 2009, [doi:10.1038/nbt.1
 
 ## SBGN PD Reference Card
 
-![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png){: .center-image width="400px"}
+![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
