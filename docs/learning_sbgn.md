@@ -8,7 +8,7 @@ permalink: /learning_sbgn
 
 <p>This is a brief introduction in the SBGN languages, and, in particular, we will focus on the Process Description language as the most used language of the SBGN standard. There are 3 languages in SBGN: Activity Flow, Process Description and Entity Relation.</p>
 
-<p>image AF PD ER</p>
+![Repersentations](/sbgn/images/learning/lenovere_representations.png)
 
 The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
 
