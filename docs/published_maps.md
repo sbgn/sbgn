@@ -24,6 +24,7 @@ Le Novère, 2015, [10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)
 The impact of mathematical modeling in understanding the mechanisms underlying neurodegeneration: evolving dimensions and future directions.
 Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4.12155)
 <br />
+<br />
 
 ## PD map of the mammalian cholesterol biosynthesis
 
@@ -31,6 +32,7 @@ Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4
 
 A comprehensive machine-readable view of the mammalian cholesterol biosynthesis pathway.
 Mazein et al, 2013, [10.1016/j.bcp.2013.03.021](https://dx.doi.org/10.1016/j.bcp.2013.03.021)
+<br />
 <br />
 
 ## AF map of protein precursor processing
@@ -40,7 +42,7 @@ Mazein et al, 2013, [10.1016/j.bcp.2013.03.021](https://dx.doi.org/10.1016/j.bcp
 The impact of mathematical modeling in understanding the mechanisms underlying neurodegeneration: evolving dimensions and future directions.
 Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4.12155)
 <br />
-
+<br />
 
 ## AF map of interactions in a tumor microenvironment
 
@@ -48,5 +50,6 @@ Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4
 
 Significance of stroma in biology of oral squamous cell carcinoma.
 Boras et al., 2017, [10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)
+<br />
 <br />
 
