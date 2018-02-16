@@ -10,7 +10,7 @@ permalink: /learning_sbgn
 
 <p>image AF PD ER</p>
 
-The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novere, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
+The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
 
 ## Process in SBGN Process Description
 
@@ -42,7 +42,7 @@ Link to Newt tutorial
 
 ## Helpful materials
 
-Additional tutorial materials can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.
+After reading the initial SBGN paper (Le Novère et al, 2009, [doi:10.1038/nbt.1558](https://dx.doi.org/10.1038/nbt.1558)), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.
 
 ## SBGN PD Reference Card
 
