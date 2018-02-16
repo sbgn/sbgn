@@ -34,7 +34,7 @@ image | Complex dissociation
 image | Transcription
 image | Translation
 
-## Start drawing your first SBGN diagram
+## Start drawing your first SBGN diagram online
 
 Link to Newt tutorial
 
