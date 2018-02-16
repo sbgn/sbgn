@@ -8,14 +8,14 @@ permalink: /published_maps
 
 This page collects examples of nice-looking SBGN diagrams used as figures of published papers.
 
-### PD map of two-gene system behaviour
+## PD map of two-gene system behaviour
 
-![lenovere two-gene systems](/sbgn/images/published_maps/lenovere_genenetwork.png){: .center-image width="400px"}
+![lenovere two-gene systems](/sbgn/images/published_maps/lenovere_genenetwork.png){: .right-image width="400px"}
 
 Quantitative and logic modelling of molecular and gene networks.
 Le Novère, 2015, [10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)
 
-### PD map of protein aggregation
+## PD map of protein aggregation
 
 ![lloretVillas protein aggregation](/sbgn/images/published_maps/lloretVillas_proteinaggregation.png){: .center-image width="400px"}
 
