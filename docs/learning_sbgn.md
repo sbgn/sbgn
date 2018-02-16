@@ -10,7 +10,7 @@ permalink: /learning_sbgn
 
 ![Repersentations](/sbgn/images/learning/lenovere_representations.png)
 
-In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
+In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)). Note the same set of four proteins on each of the diagrams. In Process Description ELK1 shown in three differents states.
 
 ## Process in SBGN Process Description
 
