@@ -40,6 +40,14 @@ image | Translation
 
 Launch Newt button
 
+## iNOS pathway example
+
+<p>After redrawing the folloing example you will be much more familier with how the SBGN PD language works. This diagrams is comparatively small but inlcudes many elements from the SBGN PD.</p>
+
+image
+
+<p>To check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
+
 ## SBGN PD Reference Card
 
 ![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
