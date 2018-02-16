@@ -10,13 +10,13 @@ permalink: /learning_sbgn
 
 <p>image AF PD ER</p>
 
-The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novere, 2015, doi:10.1038/nrg3885).
+The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novere, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
 
-## Dictionary of SBGN PD bricks
+## SBGN dictionary
 
 <p>For a better understanding of the Process Description language it is important to focus on the processes - the small white squares on the diagrams. There are incomin consumption links to the process, production links from the process, and often regulatory links to the process, for example stimulation or inhibition.</p>
 
-<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation are reflected in the SBGN Process Description language.</p>
+<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation are reflected in the SBGN Process Description language (Junker et al., 2012, [doi:10.1016/j.tibtech.2012.08.003](https://dx.doi.org/10.1016/j.tibtech.2012.08.003)).</p>
 
 image | Metabolic reaction
 image | Catalysis
