@@ -1,7 +1,7 @@
 ---
 title: Learn to Use SBGN
 layout: default
-permalink: /learning/
+permalink: /learning
 ---
 
 # Learn To Use SBGN
