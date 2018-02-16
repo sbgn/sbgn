@@ -6,7 +6,7 @@ permalink: /published_maps
 
 # Published Maps
 
-This page collects examples of nice-looking SBGN diagrams used as figures in published papers.
+This page collects examples of SBGN diagrams from published papers.
 
 ## PD map of two-gene system behaviour
 
