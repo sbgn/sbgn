@@ -12,9 +12,17 @@ permalink: /learning_sbgn
 
 The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novere, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
 
-## SBGN PD dictionary
+## Process in SBGN Process Description
 
-<p>For a better understanding of the Process Description language it is important to focus on the processes - the small white squares on the diagrams. There are incomin consumption links to the process, production links from the process, and often regulatory links to the process, for example stimulation or inhibition.</p>
+<p>For a better understanding of the Process Description language it is important to focus on the process glyphs on the diagrams:</p>
+  
+image process glyph
+
+<p>Represented in Process Description, biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
+
+image catalysis
+
+## SBGN PD dictionary
 
 <p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation are reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>.</p>
 
