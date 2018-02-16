@@ -47,7 +47,7 @@
         console.log("Symbol loaded.");
       });
 
-      $("#random_pathway_href").html('<a href="' + pathway_href + '"><img src="' + pathway.img + '"/></a>').promise().done(function(){
+      $("#random_pathway_href").html('<a href="' + pathway_href + '"><img src="' + pathway.img + '" width="350"/></a>').promise().done(function(){
         console.log("Pathway href loaded.");
       });
 
