@@ -40,10 +40,10 @@ image | Translation
 
 Launch Newt button
 
-## Additional materials
-
-After reading the SBGN paper (Le Novère et al, 2009, [doi:10.1038/nbt.1558](https://dx.doi.org/10.1038/nbt.1558)), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.
-
 ## SBGN PD Reference Card
 
 ![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
+
+## Additional materials
+
+After reading the SBGN paper (Le Novère et al, 2009, [doi:10.1038/nbt.1558](https://dx.doi.org/10.1038/nbt.1558)), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.
