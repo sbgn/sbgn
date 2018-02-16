@@ -36,6 +36,8 @@ image | Translation
 
 ## Start drawing your first SBGN diagram online
 
+<p>You can try to draw an SBGN diagram immediately without installing any software.</p>
+
 Link to Newt tutorial
 
 ## Helpful materials
