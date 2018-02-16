@@ -10,8 +10,8 @@
 
 ## Published Maps
 
-<a href="/sbgn/images/nice/FIG2.png"><img src="/sbgn/images/nice/SFIG2.png"/></a> | <a href="/sbgn/images/nice/FIG4.png"><img src="/sbgn/images/nice/SFIG4.png"/></a>
-<a href="/sbgn/images/nice/FIG3.png"><img src="/sbgn/images/nice/SFIG3.png"/></a> | <a href="/sbgn/images/nice/FIG1.png"><img src="/sbgn/images/nice/SFIG1.png"/></a>
+<a href="/sbgn/images/published_maps/boras_network.png"><img src="/sbgn/images/published_maps/boras_network-cropped.png"/></a> | <a href="/sbgn/images/published_maps/lenovere_genenetwork.png"><img src="/sbgn/images/published_maps/lenovere_genenetwork-cropped.png"/></a>
+<a href="/sbgn/images/published_maps/lloretVillas_proteinaggregation.png"><img src="/sbgn/images/published_maps/lloretVillas_proteinaggregation-cropped.png"/></a> | <a href="/sbgn/images/published_maps/mazein_cholesterolbiosynthesis.png"><img src="/sbgn/images/published_maps/mazein_cholesterolbiosynthesis-cropped.png"/></a>
 
 ## Symbol Highlight
 
