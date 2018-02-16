@@ -14,11 +14,11 @@ In the figure the same biological system is shown in different representations d
 
 ## Process in SBGN PD
 
-<p>For a better understanding of the Process Description language it is important to focus on the process glyphs on the diagrams:</p>
+<p>It is be much simpler to understanding the Process Description language and read diagrams if we focus on the process glyph in each case:</p>
   
 image process glyph
 
-<p>Represented in Process Description, biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
+<p>Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
 image catalysis
 
@@ -36,7 +36,7 @@ image | Translation
 
 ## Start drawing online
 
-<p>You can try to draw your first SBGN diagram online without installing any software.</p>
+<p>You can draw your first SBGN diagram online without installing any software.</p>
 
 Link to Newt tutorial
 
