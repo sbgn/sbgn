@@ -1,0 +1,24 @@
+---
+title: Learn to Use SBGN
+layout: default
+permalink: /learn_to_use_sbgn
+---
+
+# Learning SBGN
+
+<p>This is a brief introduction in the SBGN languages, and, in particular, we will focus on the Process Description language as the most used language of the SBGN standard. There are 3 languages in SBGN: Activity Flow, Process Description and Entity Relation (Figure 1).</p>
+
+<p>image AF PD ER</p>
+
+## Dictionary of SBGN PD bricks
+
+image | Metabolic reaction
+image | Protein phosporylation
+image | Complex formation
+image | Complex dissociation
+image | Transcription
+image | Translation
+
+## SBGN PD Reference Card
+
+image
