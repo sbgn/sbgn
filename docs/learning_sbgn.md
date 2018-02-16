@@ -38,8 +38,6 @@ image | Translation
 
 <p>You can draw your first SBGN diagram online without installing any software.</p>
 
-<p>Try to redraw the catalysis example from the dictionary.</p>
-
 Launch Newt button
 
 ## Additional materials
