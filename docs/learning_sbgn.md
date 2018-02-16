@@ -34,9 +34,9 @@ image | Complex dissociation
 image | Transcription
 image | Translation
 
-## Start drawing your first SBGN diagram online
+## Start drawing online
 
-<p>You can try to draw an SBGN diagram immediately without installing any software.</p>
+<p>You can try to draw your first SBGN diagram online without installing any software.</p>
 
 Link to Newt tutorial
 
