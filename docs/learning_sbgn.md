@@ -10,6 +10,8 @@ permalink: /learning_sbgn
 
 <p>image AF PD ER</p>
 
+The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novere, 2015, doi:10.1038/nrg3885).
+
 ## Dictionary of SBGN PD bricks
 
 image | Metabolic reaction
