@@ -10,7 +10,7 @@ permalink: /learning_sbgn
 
 ![Repersentations](/sbgn/images/learning/lenovere_representations.png)
 
-The same biological events are shown in different representations depending on the concepts used to describe them (adapted from Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
+The same biological system is shown in different representations depending on the concepts used to describe them (adapted from Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)).
 
 ## Process in SBGN Process Description
 
