@@ -1,7 +1,7 @@
 ---
 title: Learning SBGN
 layout: default
-permalink: /learningsbgn
+permalink: /learning_sbgn
 ---
 
 # Learning SBGN
