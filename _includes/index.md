@@ -10,6 +10,8 @@
 
 ## Published Maps
 
+<div id="random_pathway_href"></div>
+
 <a href="/sbgn/images/published_maps/boras_activitynetwork.png"><img src="/sbgn/images/published_maps/boras_activitynetwork-cropped.png"/></a> | <a href="/sbgn/images/published_maps/lenovere_genenetwork.png"><img src="/sbgn/images/published_maps/lenovere_genenetwork-cropped.png"/></a>
 <a href="/sbgn/images/published_maps/lloretVillas_proteinaggregation.png"><img src="/sbgn/images/published_maps/lloretVillas_proteinaggregation-cropped.png"/></a> | <a href="/sbgn/images/published_maps/mazein_cholesterolbiosynthesis.png"><img src="/sbgn/images/published_maps/mazein_cholesterolbiosynthesis-cropped.png"/></a>
 
@@ -24,8 +26,6 @@
   </tbody>
 </table>
 
-## Pathway Highlight
-
 <script>
   $(document).ready(function() {
     $.getJSON("/sbgn/random_content.json", function(data) {
@@ -35,7 +35,7 @@
       var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
 
       symbol_href = "/sbgn/symbols#" + symbol.href;
-      pathway_href = "/sbgn/pathway-archive/" + pathway.href;
+      pathway_href = "/sbgn/published\_maps#" + pathway.href;
 
       // From: http://stackoverflow.com/questions/10300765/jquery-html-callback-function
       $("#random_symbol_href").html('<a href="' + symbol_href + '">' + symbol.title + '</a>').promise().done(function(){
@@ -50,13 +50,17 @@
         console.log("Symbol loaded.");
       });
 
+      $("#random_pathway_href").html('<a href="' + pathway_href + '"><img src="' + pathway.img + '"/></a>').promise().done(function(){
+        console.log("Pathway href loaded.");
+      });
+
       $("#random_pathway").load(pathway_href, function() {
         console.log("Pathway loaded.");
       });
     });
   });
 </script>
-<div id="random_pathway"></div>
+
 
 -----
 

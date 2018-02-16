@@ -8,7 +8,7 @@ permalink: /published_maps
 
 Find below examples of published maps that follow the SBGN representation.
 
-## PD map of two gene system behaviour
+## PD map of two-gene system behaviour
 
 ![lenovere two-gene systems](/sbgn/images/published_maps/lenovere_genenetwork.png){: .center-image width="400px"}
 
