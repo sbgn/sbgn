@@ -9,12 +9,9 @@ permalink: /published_maps
 Find below examples of published maps that follow the SBGN representation.
 
 ## PD map of two-gene system behaviour
-
-![lenovere two-gene systems](/sbgn/images/published_maps/lenovere_genenetwork.png){: .center-image width="400px"}
-
 Quantitative and logic modelling of molecular and gene networks.
 Le Novère, 2015, [10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)
-
+![lenovere two-gene systems](/sbgn/images/published_maps/lenovere_genenetwork.png){: .center-image width="400px"}
 
 ## PD map of protein aggregation
 
