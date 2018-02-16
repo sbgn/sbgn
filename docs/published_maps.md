@@ -13,7 +13,7 @@ This page collects examples of SBGN-compliant diagrams from various publications
 ![lenovere two-gene systems](/sbgn/images/published_maps/lenovere_genenetwork.png){: .center-image width="400px"}
 
 Quantitative and logic modelling of molecular and gene networks.
-Le Novère, 2015, [10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)
+Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)
 <br />
 <br />
 
@@ -31,7 +31,7 @@ Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4
 ![mazein cholesterol biosynthesis](/sbgn/images/published_maps/mazein_cholesterolbiosynthesis.png){: .center-image width="400px"}
 
 A comprehensive machine-readable view of the mammalian cholesterol biosynthesis pathway.
-Mazein et al, 2013, [10.1016/j.bcp.2013.03.021](https://dx.doi.org/10.1016/j.bcp.2013.03.021)
+Mazein et al., 2013, [doi:10.1016/j.bcp.2013.03.021](https://dx.doi.org/10.1016/j.bcp.2013.03.021)
 <br />
 <br />
 
@@ -40,7 +40,7 @@ Mazein et al, 2013, [10.1016/j.bcp.2013.03.021](https://dx.doi.org/10.1016/j.bcp
 ![lloretVillas precursor processing](/sbgn/images/published_maps/lloretVillas_precursorprocessing.png){: .center-image width="400px"}
 
 The impact of mathematical modeling in understanding the mechanisms underlying neurodegeneration: evolving dimensions and future directions.
-Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4.12155)
+Lloret-Villas et al., 2017, [doi:10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4.12155)
 <br />
 <br />
 
@@ -49,7 +49,7 @@ Lloret-Villas et al., 2017, [10.1002/psp4.12155](https://dx.doi.org/10.1002/psp4
 ![boras tumor interactions](/sbgn/images/published_maps/boras_activitynetwork.png){: .center-image width="400px"}
 
 Significance of stroma in biology of oral squamous cell carcinoma.
-Boras et al., 2017, [10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)
+Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.5000673)
 <br />
 <br />
 
