@@ -15,8 +15,8 @@ The same biological events are shown in different representations depending on t
 ## SBGN PD dictionary
 
 <p>For a better understanding of the Process Description language it is important to focus on the processes - the small white squares on the diagrams. There are incomin consumption links to the process, production links from the process, and often regulatory links to the process, for example stimulation or inhibition.</p>
-[doi:10.1016/j.tibtech.2012.08.003](http://dx.doi.org/10.1016/j.tibtech.2012.08.003)
-<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation are reflected in the SBGN Process Description language (Junker et al., 2012, [doi:10.1016/j.tibtech.2012.08.003](http://dx.doi.org/10.1016/j.tibtech.2012.08.003)).</p>
+
+<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation are reflected in the SBGN Process Description language [doi:10.1016/j.tibtech.2012.08.003](http://dx.doi.org/10.1016/j.tibtech.2012.08.003).</p>
 
 image | Metabolic reaction
 image | Catalysis
