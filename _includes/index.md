@@ -10,7 +10,7 @@
 
 ## Published Maps
 
-<div id="random_pathway_href"></div>
+<div id="random_pathway_href"></div> <br><br>
 
 ## Symbol Highlight
 
