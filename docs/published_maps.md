@@ -15,6 +15,7 @@ This page collects examples of SBGN diagrams from published papers.
 Quantitative and logic modelling of molecular and gene networks.
 Le Novère, 2015, [10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)
 <br />
+<br />
 
 ## PD map of protein aggregation
 
