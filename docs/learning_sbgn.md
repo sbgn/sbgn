@@ -6,7 +6,7 @@ permalink: /learning_sbgn
 
 # Learning SBGN
 
-<p>This is a brief introduction to the SBGN languages, and, in particular, we will focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary below will help to allign biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
+<p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary below will help to allign biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
   
 ## The three languages of SBGN
 
@@ -16,7 +16,7 @@ permalink: /learning_sbgn
 
 <p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins on each of the diagrams. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
-<p>To avoid any confusion, next we will focus only on the Process Descritpion language.</p>
+<p>To avoid any confusion, next we review only on the Process Descritpion language.</p>
 
 ## Process in SBGN PD
 
