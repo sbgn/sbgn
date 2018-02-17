@@ -10,7 +10,7 @@ permalink: /learning_sbgn
   
 ## The three languages of SBGN
 
-<p>There are 3 languages in SBGN: Activity Flow (AF), Process Description (PD) and Entity Relation (ER).</p>
+<p>There are 3 languages in SBGN: Activity Flow (AF), Process Description (PD) and Entity Relationship (ER).</p>
 
 ![Representations](/sbgn/images/learning/lenovere_representations.png)
 
