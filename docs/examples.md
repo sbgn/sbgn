@@ -11,7 +11,7 @@ permalink: /examples
 * [AF Level 1 Examples](#af-level-1-examples)
 
 
-## PD Level 1 Examples
+## PD Level 1 examples
 
 #### MAPK
 
@@ -62,7 +62,7 @@ The following map won the annual SBGN competition 2010, section best map.
 
 [Full size image](https://raw.githubusercontent.com/sbgn/sbgn/gh-pages/images/examples/MetaCrop-plant-central-metabolism.png)
 
-## ER Level 1 Examples
+## ER Level 1 examples
 
 #### Autophagy
 
@@ -70,7 +70,7 @@ This map describe the molecular events leading to the formation of the autophago
 
 ![Autophagy](/sbgn/images/examples/Autophagy.png){: .center-image }
 
-#### Polymerase Chain Reaction (PCR)
+#### Polymerase chain reaction (PCR)
 
 This example presents the different relations between the four entities involved in a Polymerase Chain Reaction (PCR). This examplifies the use of the *entity*, the *logical operator* *or*, the *state variable* *existence*, the *unit of information*, as well as the relationships *interaction*, *assignment*, *necessary stimulation* and *absolute inhibition*.
 
@@ -111,7 +111,7 @@ Interaction between -10 hexanucleotide and sigma-subunit is required for melting
 
 ![Transcription_initiation_er](/sbgn/images/examples/Transcription_initiation_er.gif){: .center-image }
 
-## AF Level 1 Examples
+## AF Level 1 examples
 
 #### Repressilator
 
