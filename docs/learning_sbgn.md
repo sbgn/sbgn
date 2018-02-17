@@ -63,7 +63,7 @@ image
 
 ## Additional materials
 
-<p>After reading the SBGN paper (Le Novère et al, 2009, [doi:10.1038/nbt.1558](https://dx.doi.org/10.1038/nbt.1558)), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.</p>
+<p>After reading the SBGN paper (Le Novère et al, 2009, <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a>), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.</p>
 
 ## SBGN PD Reference Card
 
