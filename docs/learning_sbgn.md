@@ -48,7 +48,7 @@ Launch Newt button
 
 ## iNOS pathway example
 
-<p>After simply redrawing the following example you will be much more familier with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. This diagram is comparatively small but inlcudes many types of biological processes and the correpsonding entities and arcs.</p>
+<p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. This diagram is comparatively small but inlcudes many types of biological processes and the correpsonding entities and arcs.</p>
 
 image
 
