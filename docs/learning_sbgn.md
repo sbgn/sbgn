@@ -52,7 +52,9 @@ Launch Newt button
 
 ![iNOS](/sbgn/images/learning/inos.png)
 
-<p>To check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
+<p>The diagram can be drawn in any way you prefer. For example, in PowerPoint, InkScape or Adobe Illustrator. For that you can use the availabel <a href="/templates">templates</a>.</p>
+
+<p>To designer diagram in a such way so you can generate SBGN-ML file, a dedicated software should be used, for example Newt or SBGN-ED. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
 ## Tips for creating diagrams in SBGN
 
