@@ -54,12 +54,12 @@ image
 
 <p>To check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
-## SBGN PD Reference Card
-
-![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
-
 ## Additional materials
 
 Tips for creating effective and impactful biological pathways in SBGN (Toure et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).
 
 After reading the SBGN paper (Le Novère et al, 2009, [doi:10.1038/nbt.1558](https://dx.doi.org/10.1038/nbt.1558)), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.
+
+## SBGN PD Reference Card
+
+![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
