@@ -16,7 +16,7 @@ permalink: /learning_sbgn
 
 <p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins on each of the diagrams. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
-<p>To avoid any confusion, next we review only on the Process Descritpion language.</p>
+<p>To avoid any confusion, next we review only the Process Descritpion language.</p>
 
 ## Process in SBGN PD
 
