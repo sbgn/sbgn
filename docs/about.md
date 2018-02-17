@@ -17,7 +17,7 @@ The mission of SBGN project is to develop high quality, standard graphical langu
 Each SBGN language is based on the consensus of the broad international SBGN community of biologists, curators and software developers.
 Over the course of its development many individuals, organizations and companies made invaluable contributions to the SBGN through participating in discussions and meetings, providing feedback on the documentation and worked examples, adopting the standard and spreading the word.
 
-### Get involved
+## Get involved
 
 Regardless of your experience or involvement level, we value your ideas and feedback.
 For reporting issues, suggesting enhancements or requesting features please use the dedicated [trackers on our code repositories](https://github.com/sbgn/sbgn).
@@ -25,7 +25,7 @@ For general discussions about SBGN: please join the [sbgn-discuss mailing list](
 For specific questions about this website, workshops, or other SBGN resource management topics: please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com).
 SBGN meetings and workshops provide the best environment for learning about the process and getting involved. Please check the [Events](events) page for the upcoming events.
 
-### SBGN Editors
+## SBGN Editors
 
 The SBGN editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
 The editors do not decide what to put in the specifications—they are the voice and the hand of the community.
@@ -39,7 +39,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Drager](https://sbgn.github.io/sbgn/images/about/photo-drager.png)         | Andreas Dräger      | 2018 - 2020  |
 | ![Rougny](https://sbgn.github.io/sbgn/images/about/photo-rougny.png)         | Adrien Rougny       | 2018 - 2020  |
 
-### SBGN Acting Editors
+## SBGN Acting Editors
 
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
@@ -48,7 +48,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 |                                    |                   | 2018 - Present       |      
 
 
-### Former SBGN Editors
+## Former SBGN Editors
 
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
@@ -63,7 +63,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 | ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
 | ![Demir](https://sbgn.github.io/sbgn/images/about/photo-demir.jpg)                    | Emek Demir           | Jan 2010 - Dec 2012 |
 
-### SBGN Scientific Committee
+## SBGN Scientific Committee
 
 The duties of the SBGN Scientific committee are to help securing the financial support for SBGN development, to advocate the use of the language in their community, and to check that the development of SBGN is harmonious and democratic. The scientific committee does not have any decision-making power on the content of SBGN, although its advices presumably weight much in the decisions taken by the community.
 
@@ -80,7 +80,7 @@ Principal investigators of grants supporting SBGN development and maintenance ar
 
 Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a PI and invited member between 2009 and 2015.
 
-### Funding
+## Funding
 
 We are deeply indebted to the many funding agencies and organizations that have supported SBGN over the years.
 
@@ -88,6 +88,6 @@ The development of SBGN during 2005–2008 was mainly supported by a grant from 
 The principal investigators were Hiroaki Kitano, Akira Funahashi, Nicolas Le Novère, and Michael Hucka.
 The [Okinawa Institute of Science and Technology](http://www.oist.jp/) (OIST), the British [Biotechnology and Biological Sciences Research Council](http://www.bbsrc.ac.uk/) (BBSRC) through a Japan Partnering Award, and a US Partnering Award, the [European Media Laboratory](http://www.eml-r.org/) (EML Research GmbH), the Beckman Institute BNMC at the California Institute of Technology, and US [National Science Foundation](www.nsf.gov) (NSF) provided additional support for SBGN workshops.
 
-### Ownership
+## Ownership
 
 No one—not the principal investigators, nor the SBGN Editors, nor the members of the SBGN Scientific Committee, nor the funding agencies or anyone else—owns SBGN; it is a free and open community effort that extends beyond any single group, and we view ourselves only as organizers and fellow developers.
