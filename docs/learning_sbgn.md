@@ -6,7 +6,7 @@ permalink: /learning_sbgn
 
 # Learning SBGN
 
-<p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary will help to align biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
+<p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the currently most used language of the SBGN standard. The SBGN dictionary will help to align biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
   
 ## The three languages of SBGN
 
