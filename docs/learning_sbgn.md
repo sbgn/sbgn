@@ -16,15 +16,15 @@ permalink: /learning_sbgn
 
 <p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
-<p>To avoid any confusion, next we review only the Process Description language.</p>
+<p>To avoid any confusion, next we address only the Process Description (PD) language.</p>
 
 ## Process in SBGN PD
 
-<p>It is be much simpler to understanding the Process Description language and read diagrams if we focus on the process glyph in each case:</p>
+<p>Process is the key element in SBGN PD: </p>
   
 image process glyph
 
-<p>Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
+<p>Understanding the language and reading diagrams is much simpler if a diagram is seen as a collection of interconnected processes. Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
 image catalysis
 
