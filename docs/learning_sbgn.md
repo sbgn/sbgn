@@ -52,7 +52,7 @@ Launch Newt button
 
 ![iNOS](/sbgn/images/learning/inos.png)
 
-<p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator, with the use of the available <a href="/sbgn/templates">templates</a>.</p>
+<p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used.</p>
 
 <p>To designer diagram in a such way so you can generate SBGN-ML file, a dedicated software should be used, for example Newt or SBGN-ED. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
