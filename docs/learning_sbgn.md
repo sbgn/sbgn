@@ -50,7 +50,7 @@ Launch Newt button
 
 <p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding entities and arcs.</p>
 
-image
+![iNOS](/sbgn/images/learning/inos.png)
 
 <p>To check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
