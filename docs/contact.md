@@ -8,7 +8,7 @@ permalink: /contact
 
 The SBGN mailing lists are where questions are asked and the latest developments discussed. There are different lists for different purposes and aspects of the SBGN effort.
 
-### For End-Users
+## For End-Users
 
  List | Archive | Info/sign-up
 --|---|--
@@ -18,7 +18,7 @@ The SBGN mailing lists are where questions are asked and the latest developments
 
 ___
 
-### For Developers
+## For Developers
 
 | List   | Archive| Info/sign-up                                 |
 |--|--|--|
