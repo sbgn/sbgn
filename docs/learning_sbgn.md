@@ -40,7 +40,7 @@ image | Complex dissociation
 image | Transcription
 image | Translation
 
-## Start drawing online
+## Start drawing online right now
 
 <p>You can draw your first SBGN diagram online without installing any software.</p>
 
@@ -54,7 +54,7 @@ image
 
 <p>To check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
-## Tips for creating pathways in SBGN
+## Tips for creating diagrams in SBGN
 
 <p>This section is prepared based on the recently published educational paper by Toure and coauthors <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Toure et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
 
