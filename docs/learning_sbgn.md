@@ -6,7 +6,7 @@ permalink: /learning_sbgn
 
 # Learning SBGN
 
-<p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary will help to allign biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
+<p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary will help to align biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
   
 ## The three languages of SBGN
 
@@ -16,7 +16,7 @@ permalink: /learning_sbgn
 
 <p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
-<p>To avoid any confusion, next we review only the Process Descritpion language.</p>
+<p>To avoid any confusion, next we review only the Process Description language.</p>
 
 ## Process in SBGN PD
 
@@ -34,7 +34,7 @@ image catalysis
 
 image | Metabolic reaction
 image | Catalysis
-image | Protein phosporylation
+image | Protein phosphorylation
 image | Complex formation
 image | Complex dissociation
 image | Transcription
@@ -48,7 +48,7 @@ Launch Newt button
 
 ## iNOS pathway example
 
-<p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. This diagram is comparatively small but inlcudes many types of biological processes and the correpsonding entities and arcs.</p>
+<p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. This diagram is comparatively small but includes many types of biological processes and the corresponding entities and arcs.</p>
 
 image
 
