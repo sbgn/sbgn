@@ -61,10 +61,11 @@ image
 **Tip 1: Know the message your network should convey.** Specifying your message will help you choose what to omit, what to represent, and how to represent it.  
 **Tip 2:** 
 
-## Additional materials
-
-<p>After reading the SBGN paper (Le Novère et al, 2009, <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a>), please review [example diagrams](/examples) and additional tutorial materials that can be found in the [Education Resource](https://github.com/sbgn/educational-resources) repository.</p>
 
 ## SBGN PD Reference Card
 
 ![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
+
+## Additional materials
+
+<p>After reading the SBGN paper (Le Novère et al, 2009, <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a>), please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository.</p>
