@@ -52,7 +52,7 @@ Launch Newt button
 
 ![iNOS](/sbgn/images/learning/inos.png)
 
-<p>The diagram can be drawn in any application that supportes the needed shapes, for example, in PowerPoint, InkScape, Adobe Illustrator. For that you can use the availabel <a href="/templates">templates</a>.</p>
+<p>The diagram can be drawn in any application that supportes the needed shapes, for example, in PowerPoint, InkScape, Adobe Illustrator. For that you can use the available <a href="/sbgn/templates">templates</a>.</p>
 
 <p>To designer diagram in a such way so you can generate SBGN-ML file, a dedicated software should be used, for example Newt or SBGN-ED. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
