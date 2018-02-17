@@ -8,7 +8,7 @@ permalink: /learning_sbgn
 
 <p>This is a brief introduction to the SBGN languages, and, in particular, we will focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary below will help to allign biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
   
-# The three languages of SBGN
+## The three languages of SBGN
 
 <p>There are 3 languages in SBGN: Activity Flow (AF), Process Description (PD) and Entity Relation (ER).</p>
 
