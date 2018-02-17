@@ -16,7 +16,10 @@ Cilck [here](https://github.com/sbgn/educational-resources/raw/master/SBGN_updat
 
 The [Examples](examples) page provides a number of SBGN diagrams of all three SBGN languages.
 
-## Using SBGN
+## Software
 
-[Software:](software_support) You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software_support).  
-[Template:](templates) You can download all SBGN glyph [templates](templates) (reference cards) in various format so that you can incorporate them into your diagram.  
+You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software_support).
+
+## Templates
+
+You can download all SBGN glyph [templates](templates) (reference cards) in various format so that you can incorporate them into your diagram.  
