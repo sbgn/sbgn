@@ -10,8 +10,7 @@ For a quick introduction about SBGN, please go to our [Publications](publication
 
 ## Tutorials and presentations
 
-* Cilck [here](https://github.com/sbgn/educational-resources/raw/master/SBGN_update_101215.pdf) to download the presentation for the latest comprehensive update about SBGN at [COMBINE 2015](http://co.mbine.org/events/COMBINE_2015)
-* Additional tutorial materials can be found at our [Education Resource repository](https://github.com/sbgn/educational-resources).
+Cilck [here](https://github.com/sbgn/educational-resources/raw/master/SBGN_update_101215.pdf) to download the presentation for the latest comprehensive update about SBGN at [COMBINE 2015](http://co.mbine.org/events/COMBINE_2015). Additional tutorial materials can be found at our [Education Resource repository](https://github.com/sbgn/educational-resources).
 
 ## Example SBGN diagrams
 
@@ -19,5 +18,5 @@ The [Examples](examples) page provides a number of SBGN diagrams of all three SB
 
 ## Using SBGN
 
-* [**Software**](software_support) You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software_support).
-* [**Templates**](templates) You can download all SBGN glyph [templates](templates) (reference cards) in various format so that you can incorporate them into your diagram.
+[Software:](software_support) You can find a list of software that supports viewing and/or editing SBGN compliant diagrams from our [software page](software_support).  
+[Template:](templates) You can download all SBGN glyph [templates](templates) (reference cards) in various format so that you can incorporate them into your diagram.  
