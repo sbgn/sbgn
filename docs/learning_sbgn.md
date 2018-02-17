@@ -6,11 +6,17 @@ permalink: /learning_sbgn
 
 # Learning SBGN
 
-<p>This is a brief introduction in the SBGN languages, and, in particular, we will focus on the Process Description language as the most used language of the SBGN standard. There are 3 languages in SBGN: Activity Flow (AF), Process Description (PD) and Entity Relation (ER).</p>
+<p>This is a brief introduction to the SBGN languages, and, in particular, we will focus on the Process Description language as the most used language of the SBGN standard. The SBGN dictionary below will help to allign biological concepts with graphical expressions, and redrawing a small example diagram will help with a quck start.</p>
+  
+# The three languages of SBGN
+
+<p>There are 3 languages in SBGN: Activity Flow (AF), Process Description (PD) and Entity Relation (ER).</p>
 
 ![Repersentations](/sbgn/images/learning/lenovere_representations.png)
 
-In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)). Note the same set of four proteins on each of the diagrams. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.
+<p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, [doi:10.1038/nrg3885](https://dx.doi.org/10.1038/nrg3885)). Note the same set of four proteins on each of the diagrams. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
+
+<p>To avoid any confusion, next we will focus only on the Process Descritpion language.</p>
 
 ## Process in SBGN PD
 
