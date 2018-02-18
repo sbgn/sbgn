@@ -7,6 +7,12 @@ permalink: /learning_sbgn
 # Learning SBGN
 
 <p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the currently most used language of the SBGN standard. The SBGN dictionary will help to align biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
+
+## Reading list
+
+<p>Le Novère et al., The Systems Biology Graphical Notation. Nat Biotechnol. 2009 Aug;27(8):735-41. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a></p>
+
+<p>Touré et al., Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Comput Biol. 2018 Feb 15;14(2):e1005740. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
   
 ## The three languages of SBGN
 
@@ -16,7 +22,7 @@ permalink: /learning_sbgn
 
 <p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
-<p>To avoid any confusion, next we address only the Process Description (PD) language.</p>
+<p>Next, to avoid any confusion, we concentrate only on the Process Description (PD) language.</p>
 
 ## Process in SBGN PD
 
@@ -67,12 +73,12 @@ image | Translation
 
 <p>To build the diagram in a such way so you can generate SBGN-ML file, a dedicated software should be used, for example Newt or SBGN-ED. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
+<!--
 ## Tips for creating diagrams in SBGN
-
 <p>This section is based on the educational paper by Toure and co-authros <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Toure et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
-
 **Tip 1: Know the message your network should convey.** Specifying your message will help you choose what to omit, what to represent, and how to represent it.  
 **Tip 2:** 
+-->
 
 
 ## SBGN PD Reference Card
