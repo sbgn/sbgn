@@ -6,9 +6,9 @@ permalink: /sbgn_bricks
 
 # SBGN bricks
 
-SBGN bricks are the recurring biological paterns in the SBGN languages (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). This tamplate-based approach allows users to easier learn SBGN and start applying it with out needing to read all the specification documents. 
+SBGN bricks are recurring biological paterns reflected in the SBGN languages (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). The tamplate-based approach allows users to easier learn SBGN and start applying it without needing to read all the specifications. 
 
-SBGN bricks dictionary below aligns biological concepts with their graphical expressions in SBGN languages.
+The dictionary of SBGN bricks aligns biological concepts with their graphical expressions in SBGN languages.
 
 The materials on this page are built on the examples availabel at <a href="http://sbgnbricks.sourceforge.net/">http://sbgnbricks.sourceforge.net/</a>.
 
