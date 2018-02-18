@@ -14,7 +14,7 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
 
 <table style="font-size:90%;">
     <tr>
-      <td style="width: 200px; text-align: center;"><img src="../sbgn/images/bricks/PD_catalysis_irr_1_1.png"/> <br /> <a href="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN-ML</a></td>
+      <td style="width: 200px; text-align: center;"><img src="../sbgn/images/bricks/PD_catalysis_irr_1_1.png"/> <br /> <a href="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN-ML</a> <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Newt</a></td>
       <td><strong>Irreversible metabolic reaction</strong> with one substrate and one product. The enzyme catalyzes an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a protein, therefore represented as a <i>macromolecule</i>, connected to the <i>process</i> glyph by <i>catalysis</i> arc. Substrate and product of the biochemical reaction are represented by <i>simple chemicals</i>.</td>
     </tr>
     <td style="width: 200px; text-align: center;"><img src="../sbgn/images/bricks/PD_catalysis_rev_2_2.png"/> <br /> <a href="../sbgn/downloads/bricks/PD_catalysis_rev_2_2.sbgn" target="_blank">SBGN-ML</a> <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_rev_2_2.sbgn" target="_blank">Newt</a></td>
