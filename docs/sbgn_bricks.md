@@ -6,7 +6,9 @@ permalink: /sbgn_bricks
 
 # SBGN bricks
 
-SBGN bricks are defined as the recurring biological paterns reflected in the SBGN languages: metabolic reaction, catalysis, inhibition, protein phosphorylation, complex formation, transcription, translation  etc. (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). SBGN bricks present a tamplate-based approach that allows to simplify learning SBGN and to start applying the standard without necesserily being familiar with all the specifications. The <a href="http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html">dictionary of SBGN bricks</a> aligns biological concepts with their graphical expressions in SBGN languages.
+<p>SBGN bricks are defined as the recurring biological paterns reflected in the SBGN languages: metabolic reaction, catalysis, inhibition, protein phosphorylation, complex formation, transcription, translation  etc. (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). SBGN bricks present a tamplate-based approach that allows to simplify learning SBGN and to start applying the standard without necesserily being familiar with all the specifications. The <a href="http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html">dictionary of SBGN bricks</a> aligns biological concepts with their graphical expressions in SBGN languages.</p>
+
+<p>For each SBGN brick we provide a downloadable SBGN-ML file, and the diagram can be opened online in Newt Editor.
 
 ## Process Description
 
@@ -16,7 +18,7 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
     <tr>
       <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN.JS</a></td>
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Newt</a></td>
       <td><strong>Irreversible reaction</strong> with one substrate and one product. The enzyme catalyzes an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a protein, therefore represented as a <i>macromolecule</i>, connected to the <i>process</i> glyph by <i>catalysis</i> arc. Substrate and product of the biochemical reaction are represented by <i>simple chemicals</i>.</td>
     </tr>
     <tr>
