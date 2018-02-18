@@ -10,10 +10,7 @@ permalink: /sbgn_bricks
 
 ## Process Description
 
-This section presents a collection of Process Description bricks. Please note that here we show general patterns, more complex cases are possibel. For example metabolic reaction can include multiple substrate and products and more than one protein or complex can catalyze a reaction.
-
-| - | - |
-| ![PD_catalysis_irr_1_1](/sbgn/downloads/bricks/PD_catalysis_irr_1_1.png) | **Irreversible reaction** with one substrate and one product. The enzyme catalyzes an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a *macromolecule* connected to the *process* glyph by *catalysis* arc. The substrate and the product of the biochemical reaction are represented by *simple chemical* glyphs. |
+<p>This section presents a collection of Process Description bricks. Please note that here we show general patterns, more complex cases are possibel. For example metabolic reaction can include multiple substrate and products and more than one protein or complex can catalyze a reaction.</p>
 
 <table style="font-size:90%;">
     <tr>
