@@ -6,7 +6,7 @@ permalink: /sbgn_bricks
 
 # SBGN bricks
 
-## SBGN Process Description
+## Process Description
 
 ### Metabolism
 
