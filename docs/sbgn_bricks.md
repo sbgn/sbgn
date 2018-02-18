@@ -11,11 +11,11 @@ permalink: /sbgn_bricks
 The example bricks are developed using <a href="https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/">SBGN-ED</a> add-on of <a href="https://www.cls.uni-konstanz.de/software/vanted/">VANTED</a> editor. All the bricks are available for downloading in SBGN-ML format and can be opened online in <a href="http://newteditor.org/">Newt</a> editor.
 
 
-## Process Description
+## Process Description bricks
 
 <p>This section presents a collection of Process Description bricks. Please note that here we show general patterns, more complex cases are possible. For example metabolic reaction can include multiple substrate and products and more than one protein or complex can catalyze a reaction.</p>
 
-### Metabolism
+### Metabolic reactions
 
 <table style="font-size:90%;">
     <tr>
