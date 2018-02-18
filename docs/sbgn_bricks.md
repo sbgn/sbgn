@@ -8,8 +8,6 @@ permalink: /sbgn_bricks
 
 <p>SBGN bricks are defined as the recurring biological paterns reflected in the SBGN languages: metabolic reaction, catalysis, inhibition, protein phosphorylation, complex formation, transcription, translation  etc. (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). SBGN bricks present a tamplate-based approach that allows to simplify learning SBGN and to start applying the standard without necesserily being familiar with all the specifications. The <a href="http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html">dictionary of SBGN bricks</a> aligns biological concepts with their graphical expressions in SBGN languages.</p>
 
-<p>For each SBGN brick we provide a downloadable SBGN-ML file, and the diagram can be opened online in Newt Editor.
-
 ## Process Description
 
 <p>This section presents a collection of Process Description bricks. Please note that here we show general patterns, more complex cases are possibel. For example metabolic reaction can include multiple substrate and products and more than one protein or complex can catalyze a reaction.</p>
