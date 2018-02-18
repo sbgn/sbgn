@@ -1,10 +1,10 @@
 ---
-title: Software Support
+title: Software support
 layout: default
 permalink: /software_support/
 ---
 
-# Software Support
+# Software support
 
 *  [Software](#software)
 *  [Databases](#databases)
