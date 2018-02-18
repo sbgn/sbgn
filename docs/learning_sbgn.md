@@ -23,7 +23,7 @@ permalink: /learning_sbgn
 <p>The <i>process</i> glyph is the key element in the SBGN PD language: </p>
 
 <img src="/sbgn/images/learning/process.png" alt="Process" height="80" width="180">
-<img src="/sbgn/images/learning/process.png" alt="Process" style="width:180px;height:80px;">
+<img src="/sbgn/images/learning/process.png" alt="Process" style="width:135px;height:60px;">
 
 <p>Understanding the language and reading diagrams is much simpler if a diagram is seen as a collection of interconnected processes. Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
