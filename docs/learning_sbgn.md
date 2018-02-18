@@ -20,7 +20,7 @@ permalink: /learning_sbgn
 
 ## Process in SBGN PD
 
-<p>Process is the key element in SBGN PD: </p>
+<p>The <i>process</i> glyph is the key element in the SBGN PD language: </p>
 
 <img src="/sbgn/images/learning/process.png" alt="Process" height="80" width="180">
 ![Process](/sbgn/images/learning/process.png){:height="50%" width="50%"}
