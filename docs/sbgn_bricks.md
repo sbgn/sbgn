@@ -19,7 +19,7 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
     </tr>
     <tr>
       <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_catalysis_rev_2_2.png"/> <br /> <a href="/sbgn/downloads/bricks/PD_catalysis_rev_2_2.sbgn" target="_blank">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_rev_2_2.sbgn" target="_blank">SBGN.JS</a></td>
-      <td><strong>Reversible reaction</strong> with two substrates and two products. The enzyme catalyzes a reversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2. The enzyme is a protein represented as a <i>macromolecule</i> and connected to the <i>process</i> by <i>catalysis</i> arc. Substrates and products of the biochemical reaction are represented by <i>simple chemicals</i>. Reversibility of this reaction is represented by the consumption/production arc for reversible reactions.</td>
+      <td><strong>Reversible reaction</strong> with two substrates and two products. The enzyme catalyzes a reversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
     </tr>
 </table>
 
