@@ -16,7 +16,6 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 <p>This section presents a collection of Process Description bricks. Please note that here we show general patterns, more complex cases are possible. For example metabolic reaction can include multiple substrate and products and more than one protein or complex can catalyze a reaction.</p>
 
 ### Metabolic reactions
-
 <table style="font-size:90%;">
     <tr>
       <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_reaction_irr_0_1.png"/> <br /> 
