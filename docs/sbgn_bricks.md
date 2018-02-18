@@ -6,7 +6,7 @@ permalink: /sbgn_bricks
 
 # SBGN bricks
 
-SBGN bricks are defined as the recurring biological paterns reflected in the SBGN languages (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). SBGN bricks present a tamplate-based approach that allows users to simplify learning SBGN and to start applying it without needing to read all the specifications. The <a href="http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html">dictionary of SBGN bricks</a> aligns biological concepts with their graphical expressions in SBGN languages.
+SBGN bricks are defined as the recurring biological paterns reflected in the SBGN languages: metabolic reaction, catalysis, inhibition, protein phosphorylation, complex formation, transcription, translation  etc. (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). SBGN bricks present a tamplate-based approach that allows to simplify learning SBGN and to start applying the standard without necesserily being familiar with all the specifications. The <a href="http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html">dictionary of SBGN bricks</a> aligns biological concepts with their graphical expressions in SBGN languages.
 
 ## Process Description
 
