@@ -10,6 +10,8 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
 
 ## Process Description
 
+<p>This section presents a collection of Process Description bricks.</p>
+
 <table style="font-size:90%;">
     <tr>
       <td style="width: 200px; text-align: center;"><img src="../sbgn/images/bricks/PD_catalysis_irr_1_1.png"/> <br /> <a href="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Download SBGN-ML</a></td>
