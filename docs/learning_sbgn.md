@@ -22,7 +22,7 @@ permalink: /learning_sbgn
 
 <p>Process is the key element in SBGN PD: </p>
   
-image process glyph
+![Process glyph](/sbgn/images/learning/process.png)
 
 <p>Understanding the language and reading diagrams is much simpler if a diagram is seen as a collection of interconnected processes. Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
