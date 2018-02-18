@@ -1,0 +1,77 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<sbgn 
+  xmlns="http://sbgn.org/libsbgn/0.3">
+  <map id="PD_catalysis_irr_0_1.sbgn" language="process description">
+    <extension>
+      <renderInformation 
+        xmlns="http://www.sbml.org/sbml/level3/version1/render/version1" id="renderInformation" programName="sbgnviz" programVersion="4.1.0" backgroundColor="#000000">
+        <listOfColorDefinitions>
+          <colorDefinition id="color_1" value="#ffffff7f"/>
+          <colorDefinition id="color_2" value="#555555"/>
+        </listOfColorDefinitions>
+        <listOfStyles>
+          <style id="nodeffffff0.55551.2511normalnormalHelvetica" idList="glyph0 glyph1">
+            <g fontSize="11" fontFamily="Helvetica" fontWeight="normal" fontStyle="normal" stroke="color_2" strokeWidth="1.25" fill="color_1"/>
+          </style>
+          <style id="nodeffffff0.55551.25" idList="glyph3">
+            <g stroke="color_2" strokeWidth="1.25" fill="color_1"/>
+          </style>
+          <style id="edge5551.25" idList="arc2 arc0">
+            <g stroke="color_2" strokeWidth="1.25"/>
+          </style>
+        </listOfStyles>
+      </renderInformation>
+      <mapProperties>
+        <compoundPadding>10</compoundPadding>
+        <extraCompartmentPadding>14</extraCompartmentPadding>
+        <extraComplexPadding>10</extraComplexPadding>
+        <arrowScale>1.25</arrowScale>
+        <showComplexName>true</showComplexName>
+        <dynamicLabelSize>regular</dynamicLabelSize>
+        <inferNestingOnLoad>false</inferNestingOnLoad>
+        <fitLabelsToNodes>false</fitLabelsToNodes>
+        <fitLabelsToInfoboxes>false</fitLabelsToInfoboxes>
+        <recalculateLayoutOnComplexityManagement>true</recalculateLayoutOnComplexityManagement>
+        <rearrangeOnComplexityManagement>true</rearrangeOnComplexityManagement>
+        <animateOnDrawingChanges>true</animateOnDrawingChanges>
+        <adjustNodeLabelFontSizeAutomatically>false</adjustNodeLabelFontSizeAutomatically>
+        <enablePorts>true</enablePorts>
+        <allowCompoundNodeResize>false</allowCompoundNodeResize>
+        <mapColorScheme>black_white</mapColorScheme>
+        <defaultInfoboxHeight>12</defaultInfoboxHeight>
+        <defaultInfoboxWidth>30</defaultInfoboxWidth>
+        <mapName>Pathway #sbgn-network-container-0</mapName>
+        <mapDescription/>
+      </mapProperties>
+    </extension>
+    <glyph id="glyph0" class="simple chemical">
+      <label text="S1"/>
+      <bbox x="10" y="70" w="60" h="60"/>
+    </glyph>
+    <glyph id="glyph3" class="process">
+      <bbox x="128" y="88" w="24" h="24"/>
+      <port id="glyph3.1" x="116" y="100"/>
+      <port id="glyph3.2" x="164" y="100"/>
+    </glyph>
+    <glyph id="glyph1" class="simple chemical">
+      <label text="P1"/>
+      <bbox x="210" y="70" w="60" h="60"/>
+    </glyph>
+    <arc id="arc2" class="production" source="glyph3.2" target="glyph1">
+      <glyph id="arc2_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="164.625" y="100"/>
+      <end x="205.875" y="100"/>
+    </arc>
+    <arc id="arc0" class="consumption" source="glyph0" target="glyph3.1">
+      <glyph id="arc0_card" class="cardinality">
+        <label text="0"/>
+        <bbox x="0" y="0" w="0" h="0"/>
+      </glyph>
+      <start x="71" y="100"/>
+      <end x="115.375" y="100"/>
+    </arc>
+  </map>
+</sbgn>
