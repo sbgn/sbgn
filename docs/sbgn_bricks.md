@@ -6,6 +6,8 @@ permalink: /sbgn_bricks
 
 # SBGN bricks
 
+The materials here are built on the SBGN bricks paper (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>) and the corresponding <a href="http://sbgnbricks.sourceforge.net/">resource</a> on SourceForge.
+
 ## Process Description
 
 <table style="font-size:90%;">
