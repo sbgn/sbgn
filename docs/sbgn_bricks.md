@@ -49,6 +49,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
       <td><strong>Catalised reversible reaction</strong> with two substrates and two products. The enzyme catalyses a reversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
     </tr>
 </table>
+<br />
 
 ### Signalling processes
 <table style="font-size:100%;">
