@@ -54,7 +54,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:800px;
+  width:1080px;
   margin:0 auto;
 }
 
@@ -80,7 +80,8 @@ pre {
 }
 
 table {
-  width:100%;
+  
+  :100%;
   border-collapse:collapse;
 }
 
