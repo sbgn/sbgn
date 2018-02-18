@@ -1,10 +1,10 @@
 ---
-title: Published Maps
+title: Published maps
 layout: default
 permalink: /published_maps
 ---
 
-# Published Maps
+# Published maps
 
 This page collects examples of SBGN-compliant diagrams from various publications.
 
