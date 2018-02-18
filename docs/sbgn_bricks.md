@@ -16,7 +16,7 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
     <tr>
       <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGNJS</a></td>
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN.JS</a></td>
       <td><strong>Irreversible reaction</strong> with one substrate and one product. The enzyme catalyzes an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a protein, therefore represented as a <i>macromolecule</i>, connected to the <i>process</i> glyph by <i>catalysis</i> arc. Substrate and product of the biochemical reaction are represented by <i>simple chemicals</i>.</td>
     </tr>
     <tr>
