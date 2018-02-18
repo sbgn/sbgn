@@ -14,7 +14,7 @@ The SBGN *Process Description* (PD) language shows the temporal courses of bioch
 
 #### Current Specification:
 
-The [SBGN PD language Level 1 Version 1.3](https://identifiers.org/combine.specifications/sbgn.pd.level-1.version-1.3) --Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263).
+The [SBGN PD language Level 1 Version 1.3](https://identifiers.org/combine.specifications/sbgn.pd.level-1.version-1.3) -- Available at ***Journal of Integrative Bioinformatics***, 2015 Sep 4;12(2):263 (doi: 10.2390/biecoll-jib-2015-263).
 
 
 For end-users more than software developers [a user manual is also available](https://github.com/sbgn/process-descriptions/blob/master/UserManual/sbgn_PD-level1-user-public.pdf). 
