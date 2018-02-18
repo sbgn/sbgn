@@ -57,12 +57,6 @@ image | Translation
     </tr>
 </table>
 
-## Start drawing online right now
-
-<p>You can draw your first SBGN diagram online without installing any software.</p>
-
-Launch Newt button
-
 ## iNOS pathway example
 
 <p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding entities and arcs.</p>
