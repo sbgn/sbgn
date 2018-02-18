@@ -6,6 +6,9 @@ permalink: /sbgn_bricks
 
 # SBGN bricks
 
+## Process Descritpion
+
+### Metabolism
 
 <table style="font-size:90%;">
     <tr>
