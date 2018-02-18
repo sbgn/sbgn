@@ -27,7 +27,13 @@ The example bricks are developed using <a href="https://immersive-analytics.info
     <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_1_1.sbgn" target="_blank">Newt</a></td>
-      <td><strong>Catalysed irreversible reaction</strong> with one substrate and one product. The enzyme catalyses an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a <i>macromolecule</i> connected to the <i>process</i> glyph by <i>catalysis</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</td>
+      <td><strong>Catalysed irreversible reaction</strong> with one substrate and one product. The enzyme catalyses an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a <i>macromolecule</i> connected to the <i>process</i> glyph by a <i>catalysis</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</td>
+    </tr>
+    <tr>
+    <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_inhibition_irr_1_1.png"/> <br /> 
+          <a href="/sbgn/downloads/bricks/PD_inhibition_irr_1_1.sbgn" target="_blank">SBGN-ML</a> &ensp; 
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition_irr_1_1.sbgn" target="_blank">Newt</a></td>
+      <td><strong>Inhibition</strong> of an irreversible metabolic reaction. The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</td>
     </tr>
     <tr>
       <td style="width: 200px; text-align: center;"><img src="../sbgn/downloads/bricks/PD_catalysis_rev_1_1.png"/> <br /> 
