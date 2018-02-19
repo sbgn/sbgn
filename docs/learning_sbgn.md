@@ -84,6 +84,8 @@ image | Translation
 
 <p>Touré et al., <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation.</i> PLoS Computat Biol. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
 
+<p>Le Novère. <p>Quantitative and logic modelling of molecular and gene networks.</p> Nat Rev Genet. 2015. <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a></p>
+
 ## Additional materials
 
 <p>Please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository.</p>
