@@ -67,12 +67,12 @@ image | Translation
 
 <p>To build the diagram in a such way so you can generate SBGN-ML file, a dedicated software should be used, for example Newt or SBGN-ED. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED editor.</p>
 
-<!--
 ## Tips for creating diagrams in SBGN
+
 <p>This section is based on the educational paper by Toure and co-authros <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Toure et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
+
 **Tip 1: Know the message your network should convey.** Specifying your message will help you choose what to omit, what to represent, and how to represent it.  
 **Tip 2:** 
--->
 
 ## SBGN PD Reference Card
 
