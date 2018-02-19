@@ -10,9 +10,8 @@ permalink: /learning_sbgn
 
 ## Reading list
 
-<p>Le Novère et al., The Systems Biology Graphical Notation. Nat Biotechnol. 2009 Aug;27(8):735-41. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a></p>
-
-<p>Touré et al., Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Comput Biol. 2018 Feb 15;14(2):e1005740. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
+<p>Le Novère et al., <strong>The Systems Biology Graphical Notation.</strong> Nature Biotechnology, 2009. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a><br />
+Touré et al., <strong>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation.</strong> PLoS Computational Biology. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
   
 ## The three languages of SBGN
 
