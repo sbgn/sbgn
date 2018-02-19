@@ -61,7 +61,7 @@ image | Translation
 
 <p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding entities and arcs.</p>
 
-![iNOS](/sbgn/images/learning/inos.png){: .center-image width="600px"}
+![iNOS](/sbgn/images/learning/inos.png){: .center-image width="620px"}
 
 <p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used.</p>
 
@@ -76,7 +76,7 @@ image | Translation
 
 ## SBGN PD Reference Card
 
-![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png){: .center-image width="600px"}
+![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png){: .center-image width="620px"}
 
 ## Reading list
 
