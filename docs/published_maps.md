@@ -62,7 +62,7 @@ Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.50006
 <br />
 <br />
 
-## ER map of calcium/calmodulin kinase II regulation by calmodulin
+## ER map of CaMKII regulation by calmodulin
 
 ![stefan_calmodulin](/sbgn/images/published_maps/stefan_calmodulin.png){: .center-image width="400px"}
 
