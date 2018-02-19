@@ -7,11 +7,6 @@ permalink: /learning_sbgn
 # Learning SBGN
 
 <p>This is a brief introduction to the SBGN languages, and, in particular, we focus on the Process Description language as the currently most used language of the SBGN standard. The SBGN dictionary will help to align biological concepts with graphical expressions, and redrawing a small example diagram will help with a quick start.</p>
-
-## Reading list
-
-<p>Le Novère et al., <strong>The Systems Biology Graphical Notation.</strong> Nature Biotechnology, 2009. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a><br />
-Touré et al., <strong>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation.</strong> PLoS Computational Biology. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
   
 ## The three languages of SBGN
 
@@ -78,7 +73,11 @@ image | Translation
 **Tip 1: Know the message your network should convey.** Specifying your message will help you choose what to omit, what to represent, and how to represent it.  
 **Tip 2:** 
 -->
+## Reading list
 
+<p>Le Novère et al., The Systems Biology Graphical Notation. Nature Biotechnology, 2009. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a></p>
+
+<p>Touré et al., Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Computational Biology. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
 
 ## SBGN PD Reference Card
 
@@ -86,4 +85,4 @@ image | Translation
 
 ## Additional materials
 
-<p>After reading the SBGN paper (Le Novère et al, 2009, <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a>), please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository.</p>
+<p>Please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository.</p>
