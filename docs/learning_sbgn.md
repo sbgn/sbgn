@@ -73,15 +73,16 @@ image | Translation
 **Tip 1: Know the message your network should convey.** Specifying your message will help you choose what to omit, what to represent, and how to represent it.  
 **Tip 2:** 
 -->
+
+## SBGN PD Reference Card
+
+![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
+
 ## Reading list
 
 <p>Le Novère et al., The Systems Biology Graphical Notation. Nature Biotechnology, 2009. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a></p>
 
 <p>Touré et al., Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Computational Biology. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
-
-## SBGN PD Reference Card
-
-![SBGN PD Reference Card](/sbgn/images/learning/PD_L1V1.3.png)
 
 ## Additional materials
 
