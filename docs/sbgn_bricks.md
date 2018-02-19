@@ -34,7 +34,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
           <a href="/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
       <td><strong>Inhibition</strong> of an irreversible metabolic reaction. The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br />
-      IMPORTANT: Please note that inhibition arcs in Process Descrition always go to a <i>process</i> glyph and never directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow languge.</td>
+      <font size="3" color="red">IMPORTANT: Please note that inhibition arcs in Process Descrition always go to a <i>process</i> glyph and never directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow languge.</font></td>
     </tr>
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_rev_1_1.png"/> <br /> 
