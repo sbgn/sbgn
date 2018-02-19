@@ -80,11 +80,11 @@ image | Translation
 
 ## Reading list
 
-* Le Novère et al. The Systems Biology Graphical Notation. Nat Biotechnol. 2009. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a>
+1. Le Novère et al. The Systems Biology Graphical Notation. Nat Biotechnol. 2009. <a href="https://dx.doi.org/10.1038/nbt.1558">doi:10.1038/nbt.1558</a>
 
-<p>Touré et al. Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Computat Biol. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a></p>
+2. Touré et al. Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Computat Biol. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>
 
-<p>Le Novère. Quantitative and logic modelling of molecular and gene networks. Nat Rev Genet. 2015. <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a></p>
+3. Le Novère. Quantitative and logic modelling of molecular and gene networks. Nat Rev Genet. 2015. <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>
 
 ## Additional materials
 
