@@ -22,7 +22,7 @@ permalink: /learning_sbgn
 
 <p>The process glyph is the key element for understanding of the SBGN PD language: </p>
 
-<!--<p style="text-align:center;"><img src="/sbgn/images/learning/processglyph150.png" alt="Process" style="width:50px;height:50px;"></p>-->
+<!--<p style="text-align:center;"><img src="/sbgn/images/learning/processglyph150.png" alt="Process" style="width:30px;height:30px;"></p>-->
 
 &emsp;<img src="/sbgn/images/learning/processglyph150.png" alt="Process" style="width:50px;height:50px;">
 
