@@ -62,3 +62,13 @@ Boras et al., 2017, [doi:10.5301/tj.5000673](https://dx.doi.org/10.5301/tj.50006
 <br />
 <br />
 
+## ER map of calcium/calmodulin kinase II regulation by calmodulin
+
+![stefan_calmodulin](/sbgn/images/published_maps/stefan_calmodulin.png){: .center-image width="400px"}
+
+Structural analysis and stochastic modelling suggest a mechanism for calmodulin trapping by CaMKII.
+Stefan et al., 2012, [doi:10.1371/journal.pone.0029406](https://dx.doi.org/10.1371/journal.pone.0029406)
+<br />
+<br />
+
+
