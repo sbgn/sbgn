@@ -32,7 +32,7 @@ image catalysis
 
 ## SBGN PD dictionary
 
-<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>).</p>
+<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is availabel at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
 
 image | Complex formation
 image | Complex dissociation
@@ -53,8 +53,6 @@ image | Translation
       <td><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecules</i>.</td>
     </tr>
 </table>
-
-<p>An extended collection of PD patterns is availabel at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
 
 ## iNOS pathway example
 
