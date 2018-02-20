@@ -55,7 +55,7 @@ image catalysis
 
 ![iNOS](/sbgn/images/learning/iNOS_SBGN-ED_BW.png){: .center-image width="660px"}
 
-Downloads: [PNG](/sbgn/images/learning/iNOS_SBGN-ED_BW.png) [SVG](/sbgn/images/learning/iNOS_SBGN-ED_BW.svg) [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED_BW.sbgn) [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/iNOS_SBGN-ED_BW.png)
+Downloads: &emsp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED_BW.png) &emsp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED_BW.svg) &emsp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED_BW.sbgn) &emsp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/iNOS_SBGN-ED_BW.png)
 
 <p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used.</p>
 
