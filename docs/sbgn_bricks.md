@@ -65,7 +65,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">Newt</a></td>
-      <td><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variables</i> are used to indicate the phosphorylation state. "P@Y701" means "phosphorylated at tyrosine 701". ATP and ADP are represented as <i>simple chemicals</i>.</td>
+      <td><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variables</i> are used to indicate the phosphorylation state. "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code is used). ATP and ADP are represented as <i>simple chemicals</i>.</td>
     </tr>
 </table>
 
