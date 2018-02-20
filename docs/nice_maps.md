@@ -6,6 +6,8 @@ permalink: /nice_maps
 
 # Published maps
 
+This page collects examples of SBGN-compliant diagrams from various publications.
+
 <div id="published_maps">
   <table class="published-maps-table">
     <tr>
