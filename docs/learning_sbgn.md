@@ -55,6 +55,7 @@ image | Translation
 </table>
 
 <p>An extended collection of PD patterns is availabel at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
+<br />
 
 ## iNOS pathway example
 
