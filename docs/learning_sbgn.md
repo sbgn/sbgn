@@ -34,11 +34,6 @@ image catalysis
 
 <p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is availabel at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
 
-image | Complex formation
-image | Complex dissociation
-image | Transcription
-image | Translation
-
 <table style="font-size:100%;">
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_reaction_irr_0_1.png"/> <br /> 
