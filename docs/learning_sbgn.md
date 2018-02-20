@@ -53,7 +53,9 @@ image catalysis
 
 <p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding entities and arcs.</p>
 
-![iNOS](/sbgn/images/learning/inos.png){: .center-image width="660px"}
+![iNOS](/sbgn/images/learning/iNOS_SBGN-ED_BW.png){: .center-image width="660px"}
+
+Downloads: [PNG](/sbgn/images/learning/iNOS_SBGN-ED_BW.png) [SVG](/sbgn/images/learning/iNOS_SBGN-ED_BW.svg) [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED_BW.sbgn) [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/iNOS_SBGN-ED_BW.png)
 
 <p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used.</p>
 
