@@ -78,4 +78,4 @@ image catalysis
 
 ## Additional materials
 
-<p>Please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository. For more advanced questions please use <a href="/sbgn/faq">FAQ</a> page, in particular <a href="/sbgn/faq/pd">FAQ Process Description</a></p>
+<p>Please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository. For more advanced questions please use <a href="/faq">FAQ</a> page, in particular <a href="/faq/pd">Process Description FAQ</a>.</p>
