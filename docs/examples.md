@@ -66,6 +66,25 @@ The following map won the annual SBGN competition 2010, section best map.
 ![MetaCrop-plant-central-metabolism](/sbgn/images/examples/MetaCrop-plant-central-metabolism-small.png){: .center-image }
 
 [Full size image](https://raw.githubusercontent.com/sbgn/sbgn/gh-pages/images/examples/MetaCrop-plant-central-metabolism.png)
+
+<br />
+
+## AF Level 1 examples
+
+### Repressilator
+
+The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birth of Synthetic Biology.
+
+![Repressilator-AF](/sbgn/images/examples/Repressilator-AF.png){: .center-image }
+<br />
+
+### EGFR signaling
+
+This is a representation in AF of the signaling pathways triggered by EGF binding on its receptor. The original information came from [STKE](http://stke.sciencemag.org/cgi/cm/stkecm;CMP_14987), and a first version of the image was published in [the initial SBGN publication](http://identifiers.org/pubmed/19668183).
+
+
+![EGFfromSTKEinAF2](/sbgn/images/examples/EGFfromSTKEinAF2.png){: .center-image }
+
 <br />
 
 ## ER Level 1 examples
@@ -121,21 +140,5 @@ First step of the process is the association of RNA-polymerase with sigma-subuni
 Interaction between -10 hexanucleotide and sigma-subunit is required for melting of the promoter DNA and formation of "open" complex. In "open" complex RNA-polymerase is initiate synthesis of RNA product. After synthesis short product in the process of abortive synthesis sigma-subunit leaves RNAP-promoter complex and RNA-polymerase comes to the elongation phase.
 
 ![Transcription_initiation_er](/sbgn/images/examples/Transcription_initiation_er.gif){: .center-image }
-<br />
 
-## AF Level 1 examples
-
-### Repressilator
-
-The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birth of Synthetic Biology.
-
-![Repressilator-AF](/sbgn/images/examples/Repressilator-AF.png){: .center-image }
-<br />
-
-### EGFR signaling
-
-This is a representation in AF of the signaling pathways triggered by EGF binding on its receptor. The original information came from [STKE](http://stke.sciencemag.org/cgi/cm/stkecm;CMP_14987), and a first version of the image was published in [the initial SBGN publication](http://identifiers.org/pubmed/19668183).
-
-
-![EGFfromSTKEinAF2](/sbgn/images/examples/EGFfromSTKEinAF2.png){: .center-image }
 <br />
