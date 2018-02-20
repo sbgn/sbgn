@@ -8,6 +8,8 @@ permalink: /nice_maps
 
 This page collects examples of SBGN-compliant diagrams from various publications.
 
+## Published Maps
+
 <div id="published_maps">
   <table class="published-maps-table">
     <tr>
@@ -26,3 +28,50 @@ This page collects examples of SBGN-compliant diagrams from various publications
     </tr>      
   </table>
 </div>
+
+## Symbol Highlight
+
+<table class="random-highlight">
+  <tbody>
+    <tr>
+      <td id="random_symbol_href" style="text-align: center"></td>
+      <td id="random_symbol_img" style="text-align: center"></td>
+    </tr>
+  </tbody>
+</table>
+
+<script>
+  $(document).ready(function() {
+    $.getJSON("/sbgn/random_content.json", function(data) {
+      console.log("JSON loaded.");
+
+      var symbol = data.symbols[Math.floor(Math.random() * data.symbols.length)];
+      var pathway = data.pathways[Math.floor(Math.random() * data.pathways.length)];
+
+      symbol_href = "/sbgn/symbols#" + symbol.href;
+      pathway_href = "/sbgn/published\_maps#" + pathway.href;
+
+      // From: http://stackoverflow.com/questions/10300765/jquery-html-callback-function
+      $("#random_symbol_href").html('<a href="' + symbol_href + '">' + symbol.title + '</a>').promise().done(function(){
+        console.log("Symbol href loaded.");
+      });
+
+      $("#random_symbol_img").html('<img src="' + symbol.img + '" alt="' + symbol.href + '" height="100px">').promise().done(function(){
+        console.log("Symbol img loaded.");
+      });
+
+      $("#random_symbol").load(symbol_href, function() {
+        console.log("Symbol loaded.");
+      });
+
+      $("#random_pathway_href").html('<a href="' + pathway_href + '"><img src="' + pathway.img + '" width="350"/></a>').promise().done(function(){
+        console.log("Pathway href loaded.");
+      });
+
+      $("#random_pathway").load(pathway_href, function() {
+        console.log("Pathway loaded.");
+      });
+    });
+  });
+</script>
+
