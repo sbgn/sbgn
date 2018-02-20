@@ -59,7 +59,7 @@ The repressilator is a circular system of three genes which products sequentiall
 ![Repressilator-PD](/sbgn/images/examples/Repressilator.png){: .center-image }
 <br />
 
-#### Plant central metabolism
+### Plant central metabolism
 
 The following map won the annual SBGN competition 2010, section best map.
 
@@ -77,7 +77,7 @@ This map describe the molecular events leading to the formation of the autophago
 ![Autophagy](/sbgn/images/examples/Autophagy.png){: .center-image }
 <br />
 
-#### Polymerase chain reaction (PCR)
+### Polymerase chain reaction (PCR)
 
 This example presents the different relations between the four entities involved in a Polymerase Chain Reaction (PCR). This examplifies the use of the *entity*, the *logical operator* *or*, the *state variable* *existence*, the *unit of information*, as well as the relationships *interaction*, *assignment*, *necessary stimulation* and *absolute inhibition*.
 
