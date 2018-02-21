@@ -64,7 +64,7 @@ Downloads: &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sb
 
 ## Tips for creating diagrams in SBGN
 
-<p>This section is based on the educational paper by Touré and co-authros <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Touré et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
+<p>This section is based on the educational paper by Touré and co-authors <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Touré et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
 
 **Tip 1: Know the message your network should convey.** This will help you choose what to omit, what to represent, and how to represent it.  
 **Tip 2: Know your audience.** Different readers perceive different messages. Ask yourself: What do they know and what do they not know? What are they interested in?  
