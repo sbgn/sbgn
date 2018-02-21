@@ -57,11 +57,9 @@ image catalysis
 
 Downloads: &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED.svg) &ensp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/iNOS_SBGN-ED.sbgn)
 
-<p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used.</p>
+<p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used. In GraphML format the diagram can be developed in <a href="https://www.yworks.com/products/yed" target="_blank">SyEd Graph Editor</a>, a general-purpose diagramming software that since version 3.17.1 provides a palette section for Systems Biology Graphical Notation.</p>
 
-<p>To build the diagram in a such way so you can generate SBGN-ML file, a dedicated software should be used, for example Newt or SBGN-ED. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the SBGN-ED.</p>
-
-<p>SBGN diagram can be developed in GraphML format in yEd Graph Editor. Since version 3.17.1 yEd provides a palette section for Systems Biology Graphical Notation.
+<p>To build the diagram and generate SBGN-ML file, a dedicated software should be used, for example <a href="http://newteditor.org/" target="_blank">Newt</a> or <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>. At the end, to check that your diagram is correct or to see what went wrong you can use the validation tool of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>.</p>
 
 ## Tips for creating diagrams in SBGN
 
