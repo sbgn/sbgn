@@ -28,7 +28,8 @@ permalink: /learning_sbgn
 
 <p>Reading a PD diagram is much simpler if it is seen as a collection of interconnected processes. Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
-![example](/sbgn/images/learning/PD_catalysis_example.png){: .left-image width="200px"}
+<!--![example](/sbgn/images/learning/PD_catalysis_example.png){: .left-image width="200px"}-->
+example
 
 ## SBGN PD dictionary
 
