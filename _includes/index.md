@@ -18,7 +18,7 @@
     </tr>
   </tbody>
 </table>
-<div id="random_pathway_href"></div> <br>
+<div id="random_pathway_href"></div>
 
 ## Symbol highlight
 
