@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td id="random_pathway_href" style="width: 300px; text-align: center"></td>
-      <td id="random_pathway_img" style="text-align:center"></td>
+      <td id="random_pathway_img" style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
