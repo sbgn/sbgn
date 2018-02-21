@@ -32,7 +32,7 @@ image catalysis
 
 ## SBGN PD dictionary
 
-<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is availabel at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
+<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
 
 <table style="font-size:100%;">
     <tr>
@@ -51,7 +51,7 @@ image catalysis
 
 ## iNOS pathway example
 
-<p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding entities and arcs.</p>
+<p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding elements of the graphical notation.</p>
 
 ![iNOS](/sbgn/images/learning/iNOS_SBGN-ED.png)
 
