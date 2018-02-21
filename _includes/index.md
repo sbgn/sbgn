@@ -10,6 +10,14 @@
 
 ## Published maps highlight
 
+<table class="random-highlight">
+  <tbody>
+    <tr>
+      <td id="random_pathway_href" style="width: 300px; text-align: center"></td>
+      <td id="random_pathway_img" style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
 <div id="random_pathway_href"></div> <br>
 
 ## Symbol highlight
@@ -17,7 +25,7 @@
 <table class="random-highlight">
   <tbody>
     <tr>
-      <td id="random_symbol_href" style="text-align: center"></td>
+      <td id="random_symbol_href" style="width: 300px; text-align: center"></td>
       <td id="random_symbol_img" style="text-align: center"></td>
     </tr>
   </tbody>
@@ -47,7 +55,11 @@
         console.log("Symbol loaded.");
       });
 
-      $("#random_pathway_href").html('<a href="' + pathway_href + '"><img src="' + pathway.img + '" width="350"/></a>').promise().done(function(){
+      $("#random_pathway_href").html('<a href="' + pathway_href + '">' + pathway.title + '</a>').promise().done(function(){
+        console.log("Symbol href loaded.");
+      });
+
+      $("#random_pathway_img").html('<img src="' + pathway.img + '" alt="'+ pathway.href +'" width="150px"/>').promise().done(function(){
         console.log("Pathway href loaded.");
       });
 
