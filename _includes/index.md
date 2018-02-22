@@ -13,18 +13,6 @@
 <table class="random-highlight">
   <tbody>
     <tr>
-      <td id="random_pathway_href" style="width: 300px; text-align: left"></td>
-      <td id="random_pathway_img" style="text-align: left"></td>
-    </tr>
-  </tbody>
-</table>
-<div id="random_pathway_href"></div>
-
-## Published map highlight
-
-<table class="random-highlight">
-  <tbody>
-    <tr>
       <td id="random_pathway_img" style="text-align: left"></td>
       <td id="random_pathway_href" style="width: 300px; text-align: left"></td>
     </tr>
