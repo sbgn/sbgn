@@ -74,8 +74,8 @@ example
 **Tip 6. Design your SBGN map.** Start by creating the components and their interactions then add necessary information in respect to Tip 5.  
 **Tip 7. Beautify your SBGN map.** Your map should be visually appealing to your audience if you expect them to look into the details.  
 **Tip 8. Manage your SBGN map and its content.** Save your map in different formats to facilitate the sharing and reusability of your work.  
-**Tip 9. Link the original data to your SBGN map.** When publishing your work, link the SBGN visualisations to your original data (i.e. model, data set).  
-**Tip 10. Seek help from the SBGN community.** Request feedbacks and ask questions on the [SBGN mailing lists](http://sbgn.github.io/sbgn/contact "SBGN contact"). Don't be shy!  
+**Tip 9. Link the original data to your SBGN map.** When publishing your work, link the SBGN visualisation to your original data (i.e. model, data set).  
+**Tip 10. Seek help from the SBGN community.** Request feedback and ask questions using the [sbgn-discuss](http://sbgn.github.io/sbgn/contact "SBGN contact") mailing list. Don't be shy!  
 
 ## SBGN PD Reference Card
 
