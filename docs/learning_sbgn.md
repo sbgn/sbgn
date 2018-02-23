@@ -56,7 +56,7 @@ example
 
 ![iNOS](/sbgn/images/learning/iNOS_SBGN-ED.png)
 
-**Downloads:** &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED.svg) &ensp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/iNOS_SBGN-ED.sbgn)
+**DOWNLOADS:** &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED.svg) &ensp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/iNOS_SBGN-ED.sbgn)
 
 <p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used. In GraphML format the diagram can be developed in <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a> (desktop application) that since version 3.17.1 provides a palette section for SBGN.</p>
 
