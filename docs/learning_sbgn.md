@@ -67,7 +67,9 @@ example
 <p>This section is based on the educational paper by Touré and co-authors <i>Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation</i> (Touré et al., 2018, <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>).</p>
 
 **Tip 1: Know the message your network should convey.** This will help you choose what to omit, what to represent, and how to represent it.  
+
 **Tip 2: Know your audience.** Different readers perceive different messages. Ask yourself: What do they know and what do they not know? What are they interested in?  
+
 **Tip 3. Choose the right SBGN language.** Design your map in a reasonable level of detail.  
 **Tip 4. Define components and interactions in the network.** Map the components to SBGN glyphs and build the connectivity of your network by selecting the appropriate arcs to link the components.  
 **Tip 5. Select the right level of granularity for your map.** Be as specific as you can without diluting your message: important parts of your network should stand out to the readers.  
