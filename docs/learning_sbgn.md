@@ -71,12 +71,19 @@ example
 **Tip 2: Know your audience.** Different readers perceive different messages. Ask yourself: What do they know and what do they not know? What are they interested in?  
 
 **Tip 3. Choose the right SBGN language.** Design your map in a reasonable level of detail.  
+
 **Tip 4. Define components and interactions in the network.** Map the components to SBGN glyphs and build the connectivity of your network by selecting the appropriate arcs to link the components.  
+
 **Tip 5. Select the right level of granularity for your map.** Be as specific as you can without diluting your message: important parts of your network should stand out to the readers.  
+
 **Tip 6. Design your SBGN map.** Start by creating the components and their interactions then add necessary information in respect to Tip 5.  
+
 **Tip 7. Beautify your SBGN map.** Your map should be visually appealing to your audience if you expect them to look into the details.  
+
 **Tip 8. Manage your SBGN map and its content.** Save your map in different formats to facilitate the sharing and reusability of your work.  
+
 **Tip 9. Link the original data to your SBGN map.** When publishing your work, link the SBGN visualisation to your original data (i.e. model, data set).  
+
 **Tip 10. Seek help from the SBGN community.** Request feedback and ask questions using the [sbgn-discuss](http://sbgn.github.io/sbgn/contact "SBGN contact") mailing list. Don't be shy!  
 
 ## SBGN PD Reference Card
