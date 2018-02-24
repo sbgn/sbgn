@@ -1,12 +1,8 @@
 {
   "pathways": [
     {
-      "title": "PD map of two-gene system behaviour",
-      "href": "pd-map-of-two-gene-system-behaviour",
-      "img": "/sbgn/images/published_maps/lenovere_genenetwork-cropped.png"
-    },
-    {
       "title": "PD map of protein aggregation",
+      Text
       "href": "pd-map-of-protein-aggregation",
       "img": "/sbgn/images/published_maps/lloretVillas_proteinaggregation-cropped.png"
     },
