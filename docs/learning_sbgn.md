@@ -33,7 +33,7 @@ example
 
 ## SBGN PD dictionary
 
-<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at <a href="/docs/SBGN_bricks/">SBGN briks</a> page.</p>
+<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at <a href="/sbgn/SBGN_bricks/">SBGN briks</a> page.</p>
 
 <table style="font-size:100%;">
     <tr>
