@@ -34,3 +34,28 @@
 .random-highlight td {
   border-bottom: 1px solid #fff !important;
 }
+
+#gallery_table table, table tr, table tr th, table tr td {
+  text-align: center;
+  background: none;
+  border: none;
+}
+
+img.gallery_thumbnail {
+  height: 140px;
+  border: 2px solid gray;
+  border-radius: 4px;
+}
+
+p.gallery_image_title {
+  text-align: center;
+  font-size: x-small;
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+}
+
+th.gallery_column {
+  text-align: center;
+  padding: 6px; 
+}
