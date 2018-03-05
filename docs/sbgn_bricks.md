@@ -54,18 +54,18 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 ### Signalling processes
 
-<table style="font-size:100%; text-align:left;">
+<table style="font-size:100%;">
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">Newt</a></td>
-      <td><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. Phosphorylated state is shown by "P" in the auxiliary glyph. Can also be acetilated "Ac", ubiquitinated "Ub" etc. All proteins involved are represented by <i>macromolecule</i> glyphs.</td>
+      <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. Phosphorylated state is shown by "P" in the auxiliary glyph. Can also be acetilated "Ac", ubiquitinated "Ub" etc. All proteins involved are represented by <i>macromolecule</i> glyphs.</td>
     </tr>
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_phosphorylation.sbgn" target="_blank">Newt</a></td>
-      <td><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variable</i> auxiliary glyphs are used to indicate the phosphorylation state: "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code). Instead of empty state, "@Y701" without "P" can be used to indicate the position. ATP and ADP are represented as <i>simple chemicals</i>.</td>
+      <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variable</i> auxiliary glyphs are used to indicate the phosphorylation state: "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code). Instead of empty state, "@Y701" without "P" can be used to indicate the position. ATP and ADP are represented as <i>simple chemicals</i>.</td>
     </tr>
 </table>
 
