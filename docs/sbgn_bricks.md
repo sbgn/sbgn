@@ -54,7 +54,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 ### Signalling processes
 
-<table style="font-size:100%;">
+<table style="font-size:100%; text-align:left;">
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">SBGN-ML</a> &ensp; 
