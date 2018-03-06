@@ -99,3 +99,10 @@ example
 ## Additional materials
 
 <p>Please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository. For more advanced questions please use <a href="/sbgn/faqs">FAQ</a>, in particular <a href="/sbgn/faq/pd">FAQ Process Description</a>.</p>
+
+-----
+
+For questions and comments please contact the SBGN editors team at  
+[sbgn-editors@googlegroups.com](mailto:sbgn-editors@googlegroups.com)
+
+
