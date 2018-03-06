@@ -72,5 +72,6 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 -----
 
-For suggestions and comments please contact the SBGN editors team at [sbgn-editors@googlegroups.com](mailto:sbgn-editors@googlegroups.com).
+For questions and comments please contact the SBGN editors team at  
+[sbgn-editors@googlegroups.com](mailto:sbgn-editors@googlegroups.com).
 
