@@ -56,6 +56,7 @@ p.gallery_image_title {
 }
 
 th.gallery_column {
+  width: 210px;
   text-align: center;
   padding: 6px; 
 }
