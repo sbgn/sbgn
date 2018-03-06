@@ -40,7 +40,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_2_2.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses a reversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
+      <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
     </tr>
     <tr>
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
