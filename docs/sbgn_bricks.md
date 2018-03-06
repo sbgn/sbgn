@@ -33,8 +33,8 @@ The example bricks are developed using <a href="https://immersive-analytics.info
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_rev_1_1.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_rev_1_1.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_rev_1_1.sbgn" target="_blank">Newt</a></td>
-        <td style="text-align:left;"><strong>Catalysis: reversible reaction</strong>. The enzyme catalyses a reversible metabolic process which consumes substrate S1 and produces product P1. Because it is a reversible reaction, the separation substrate vs. product is relative and each metabolite can be seen an input or an output of this reaction depending on the direction.<br />
-        IMPORTANT: It is recommended to avoid such representations. Note that it is not clear which direction is favoured by the enzyme. Instead, it is possible to show direct and reverse reactions, both as irreversible processes.</td>
+        <td style="text-align:left;"><strong>Catalysis: reversible reaction</strong>. In case of a reversible reaction, the separation substrate vs. product is relative and each metabolite can be seen an input or an output of this reaction depending on the direction.<br />
+        IMPORTANT: Note that it is not clear which direction is favoured by the enzyme. Instead, it is possible to show direct and reverse reactions, both as irreversible processes.</td>
     </tr>
     <tr>
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
