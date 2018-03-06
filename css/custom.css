@@ -42,8 +42,8 @@
 }
 
 img.gallery_thumbnail {
-  width: 200px;
-  border: 1px solid gray;
+  width: 190px;
+  border: 2px solid gray;
   border-radius: 3px;
 }
 
