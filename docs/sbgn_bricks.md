@@ -33,7 +33,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_rev_1_1.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_rev_1_1.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_rev_1_1.sbgn" target="_blank">Newt</a></td>
-        <td style="text-align:left;"><strong>Catalysis: reversible reaction</strong>. In case of a reversible reaction, the separation substrate vs. product is relative and each metabolite can be seen an input or an output of this reaction depending on the direction.<br />
+        <td style="text-align:left;"><strong>Catalysis: reversible reaction</strong>. In case of a reversible reaction, the separation substrate vs. product is relative and each metabolite can be seen an input or an output of this reaction depending on the direction.<br /><br />
         IMPORTANT: Note that it is not clear which direction is favoured by the catalysis. Instead of presenting it as a reversible process, it is recommended showing direct and reverse reactions, both as irreversible processes.</td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br />
+      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br /><br />
       IMPORTANT: Please note that inhibition arcs in Process Descrition always go to a <i>process</i> glyph and never directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow language.</td>
     </tr>
 </table>
