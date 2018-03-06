@@ -37,17 +37,17 @@ The example bricks are developed using <a href="https://immersive-analytics.info
         IMPORTANT: Note that it is not clear which direction is favoured by the enzyme. Instead, it is possible to show direct and reverse reactions, both as irreversible processes.</td>
     </tr>
     <tr>
+      <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_2_2.png"/> <br /> 
+          <a href="/sbgn/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">SBGN-ML</a> &ensp; 
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">Newt</a></td>
+      <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses a reversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
+    </tr>
+    <tr>
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br />
       IMPORTANT: Please note that inhibition arcs in Process Descrition always go to a <i>process</i> glyph and never directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow language.</td>
-    </tr>
-    <tr>
-      <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_rev_2_2.png"/> <br /> 
-          <a href="/sbgn/downloads/bricks/PD_catalysis_rev_2_2.sbgn" target="_blank">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_rev_2_2.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses a reversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
     </tr>
 </table>
 
