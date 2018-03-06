@@ -42,7 +42,7 @@
 }
 
 img.gallery_thumbnail {
-  height: 140px;
+  width: 190px;
   border: 1px solid gray;
   border-radius: 0px;
 }
