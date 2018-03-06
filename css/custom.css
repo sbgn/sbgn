@@ -42,9 +42,9 @@
 }
 
 img.gallery_thumbnail {
-  width: 190px;
-  border: 1px solid gray;
-  border-radius: 0px;
+  height: 140px;
+  border: 2px solid gray;
+  border-radius: 4px;
 }
 
 p.gallery_image_title {
