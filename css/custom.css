@@ -43,8 +43,8 @@
 
 img.gallery_thumbnail {
   height: 140px;
-  border: 2px solid gray;
-  border-radius: 4px;
+  border: 1px solid gray;
+  border-radius: 0px;
 }
 
 p.gallery_image_title {
