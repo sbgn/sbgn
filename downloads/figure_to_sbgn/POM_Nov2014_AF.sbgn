@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <glyph compartmentOrder="-15.0" id="glyph0" class="compartment">
+            <label text="Neuron">
+                <bbox y="1294.0" x="1191.0" h="18.0" w="56.0"/>
+            </label>
+            <bbox y="200.0" x="205.0" h="1120.0" w="1050.0"/>
+        </glyph>
+        <glyph compartmentOrder="-14.0" id="glyph1" class="compartment">
+            <label text="nucleus">
+                <bbox y="1264.0" x="821.0" h="18.0" w="58.0"/>
+            </label>
+            <bbox y="570.0" x="515.0" h="720.0" w="670.0"/>
+        </glyph>
+        <glyph id="glyph2" class="perturbation">
+            <label text="Depolarization"/>
+            <bbox y="40.0" x="620.0" h="60.0" w="180.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph9" class="biological activity">
+            <label text="CaN"/>
+            <bbox y="230.0" x="486.0" h="60.0" w="108.0"/>
+            <glyph id="glyph9a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="222.0" x="498.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph4" class="biological activity">
+            <label text="α/βCaMKII"/>
+            <bbox y="230.0" x="296.0" h="60.0" w="108.0"/>
+            <glyph id="glyph4a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="222.0" x="308.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph12" class="biological activity">
+            <label text="CaMKIV"/>
+            <bbox y="890.0" x="796.0" h="60.0" w="108.0"/>
+            <glyph id="glyph12a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="882.0" x="808.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph13" class="biological activity">
+            <label text="CREB"/>
+            <bbox y="1030.0" x="796.0" h="60.0" w="108.0"/>
+            <glyph id="glyph13a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="1022.0" x="808.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph3" class="phenotype">
+            <label text="Gene expression"/>
+            <bbox y="1170.0" x="760.0" h="60.0" w="180.0"/>
+        </glyph>
+        <glyph id="glyph14" orientation="vertical" class="and">
+            <bbox y="789.0" x="829.0" h="42.0" w="42.0"/>
+            <port y="852.0" x="850.0" id="glyph14.2"/>
+            <port y="768.0" x="850.0" id="glyph14.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph7" class="biological activity">
+            <label text="CaMKK"/>
+            <bbox y="640.0" x="946.0" h="60.0" w="108.0"/>
+            <glyph id="glyph7a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="632.0" x="958.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph10" class="biological activity">
+            <label text="γCaMKII"/>
+            <bbox y="450.0" x="366.0" h="60.0" w="108.0"/>
+            <glyph id="glyph10a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="442.0" x="378.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph8" class="biological activity">
+            <label text="CaM"/>
+            <bbox y="640.0" x="656.0" h="60.0" w="108.0"/>
+            <glyph id="glyph8a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="632.0" x="668.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph6" class="biological activity">
+            <label text="Cav1"/>
+            <bbox y="180.0" x="656.0" h="60.0" w="108.0"/>
+            <glyph id="glyph6a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="172.0" x="668.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph5" class="biological activity">
+            <label text="Ca++"/>
+            <bbox y="310.0" x="656.0" h="60.0" w="108.0"/>
+            <glyph id="glyph5a" class="unit of information">
+                <entity name="simple chemical"/>
+                <bbox y="300.0" x="673.0" h="20.0" w="20.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph11" class="biological activity">
+            <label text="CaM"/>
+            <bbox y="450.0" x="656.0" h="60.0" w="108.0"/>
+            <glyph id="glyph11a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="442.0" x="668.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph6" source="glyph2" id="arc0" class="necessary stimulation">
+            <start y="100.0" x="710.0"/>
+            <end y="180.0" x="710.0"/>
+        </arc>
+        <arc target="glyph10" source="glyph9" id="arc1" class="positive influence">
+            <start y="290.0" x="523.63635"/>
+            <end y="450.0" x="436.36365"/>
+        </arc>
+        <arc target="glyph10" source="glyph4" id="arc2" class="negative influence">
+            <start y="290.0" x="359.54544"/>
+            <end y="450.0" x="410.45456"/>
+        </arc>
+        <arc target="glyph12" source="glyph14.2" id="arc3" class="positive influence">
+            <start y="852.0" x="850.0"/>
+            <end y="890.0" x="850.0"/>
+        </arc>
+        <arc target="glyph13" source="glyph12" id="arc4" class="positive influence">
+            <start y="950.0" x="850.0"/>
+            <end y="1030.0" x="850.0"/>
+        </arc>
+        <arc target="glyph3" source="glyph13" id="arc5" class="positive influence">
+            <start y="1090.0" x="850.0"/>
+            <end y="1170.0" x="850.0"/>
+        </arc>
+        <arc target="glyph14.1" source="glyph8" id="arc6" class="logic arc">
+            <start y="700.0" x="752.8571"/>
+            <end y="768.0" x="850.0"/>
+        </arc>
+        <arc target="glyph14.1" source="glyph7" id="arc7" class="logic arc">
+            <start y="700.0" x="954.0816"/>
+            <end y="768.0" x="850.0"/>
+        </arc>
+        <arc target="glyph7" source="glyph8" id="arc8" class="positive influence">
+            <start y="670.0" x="764.0"/>
+            <end y="670.0" x="946.0"/>
+        </arc>
+        <arc target="glyph11" source="glyph10" id="arc9" class="positive influence">
+            <start y="480.0" x="474.0"/>
+            <end y="480.0" x="656.0"/>
+        </arc>
+        <arc target="glyph8" source="glyph11" id="arc10" class="positive influence">
+            <start y="510.0" x="710.0"/>
+            <end y="640.0" x="710.0"/>
+        </arc>
+        <arc target="glyph5" source="glyph6" id="arc11" class="positive influence">
+            <start y="240.0" x="710.0"/>
+            <end y="310.0" x="710.0"/>
+        </arc>
+        <arc target="glyph11" source="glyph5" id="arc12" class="unknown influence">
+            <start y="370.0" x="710.0"/>
+            <end y="450.0" x="710.0"/>
+        </arc>
+    </map>
+</sbgn>
