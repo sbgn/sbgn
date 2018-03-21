@@ -1,7 +1,7 @@
 ---
 title: SBGN bricks
 layout: default
-permalink: /sbgn_bricks
+permalink: /sbgnbricks
 ---
 
 # SBGN bricks
