@@ -19,98 +19,208 @@
       "title": "AF map of interactions in a tumor microenvironment",
       "href": "af-map-of-interactions-in-a-tumor-microenvironment",
       "img": "/sbgn/images/published_maps/boras_activitynetwork-cropped.png"
+    },
+    {
+      "title": "PD map of the Drosophila cell cycle",
+      "href": "pd-map-of-the-drosophila-cell-cycle",
+      "img": "/sbgn/images/published_maps/toure_drosophila-cropped.png"
+    },
+    {
+      "title": "PD map of two-gene system behaviour",
+      "href": "pd-map-of-two-gene-system-behaviour",
+      "img": "/sbgn/images/published_maps/lenovere_genenetwork-cropped.png"
+    },
+    {
+      "title": "ER map of CaMKII regulation by calmodulin",
+      "href": "er-map-of-camii-regulation-by-calmodulin",
+      "img": "/sbgn/images/published_maps/stephan_calmodulin-cropped.png"
     }
   ],
-  "symbols": [
+"symbols": [
     {
       "title": "Stimulation",
       "href": "pd-stimulation",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/stimulation/Symbol-stimulation.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/stimulation.png"
     },
     {
       "title": "Inhibition",
       "href": "pd-inhibition",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/inhibition/Symbol-inhibition.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/inhibition.png"
     },
     {
       "title": "Process",
       "href": "pd-process",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/process/Symbol-process.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/genericprocess.png"
     },
     {
-      "title": "Consumption Production Reversible",
+      "title": "Consumption",
       "href": "pd-consumption-production-reversible",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/consumption_production/Symbol-consumption_production.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/consumption.png"
+    },
+    {
+      "title": "Production",
+      "href": "pd-consumption-production-reversible",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/production.png"
+    },
+    {
+      "title": "Reversible",
+      "href": "pd-consumption-production-reversible",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/reversible.png"
     },
     {
       "title": "Macromolecule",
       "href": "pd-macromolecule",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/macromolecule/Symbol-macromolecule.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/macromolecule.png"
     },
     {
       "title": "Simple Chemical",
       "href": "pd-simple-chemical",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/simple_chemical/Symbol-simpleChemical.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/simplechemical.png"
     },
     {
       "title": "Nucleic Acid Feature",
       "href": "pd-nucleic-acid-feature",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/nucleic_acid_feature/Symbol-nucleicAcidFeature.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/nucleicacidfeature.png"
     },
     {
       "title": "Complex",
       "href": "pd-complex",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/complex/Symbol-complex.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/complex.png"
     },
     {
       "title": "AF and PD Compartment",
       "href": "af-and-pd-compartment",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/compartment/Symbol-compartment.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/compartment.png"
     },
     {
-      "title": "PD Clone Marker",
+      "title": "AF and PD Compartment",
+      "href": "af-and-pd-compartment",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/compartment.png"
+    },
+    {
+      "title": "PD Clone Marker Complex",
       "href": "pd-clone-marker",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/clone_marker/Symbol-clone-marker.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedcomplex.png"
+    },
+    {
+      "title": "PD Clone Marker Complex Multimer",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedcomplexmultimer.png"
+    },
+    {
+      "title": "PD Clone Marker Macromolecule",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedmacromolecule.png"
+    },
+    {
+      "title": "PD Clone Marker Macromolecule Multimer",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedmacromoleculemultimer.png"
+    },
+    {
+      "title": "PD Clone Marker Nucleic Acid Feature",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonednucleicacidfeature.png"
+    },
+    {
+      "title": "PD Clone Marker Nucleic Acid Feature Multimer",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonednucleicacidfeaturemultimer.png"
+    },
+    {
+      "title": "PD Clone Marker Simple Chemical",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedsimplechemical.png"
+    },
+    {
+      "title": "PD Clone Marker Simple Chemical Multimer",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedsimplechemicalmultimer.png"
+    },
+    {
+      "title": "PD Clone Marker Unspecified Entity",
+      "href": "pd-clone-marker",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/clonedunspecifiedentity.png"
     },
     {
       "title": "Biological Activity",
       "href": "af-biological-activity",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/biological_activity/Symbol-biological-activity.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/biologicalactivity.png"
     },
     {
       "title": "Unit Of Information for BA",
       "href": "af-unit-of-information-for-ba",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unit_of_information_ba/Symbol-UnitOfInfo-BA-unspecifiedentity.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/uicomplex.png"
+    },
+    {
+      "title": "Unit Of Information for BA",
+      "href": "af-unit-of-information-for-ba",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/uimacromolecule.png"
+    },
+    {
+      "title": "Unit Of Information for BA",
+      "href": "af-unit-of-information-for-ba",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/uinucleicacidfeature.png"
+    },
+    {
+      "title": "Unit Of Information for BA",
+      "href": "af-unit-of-information-for-ba",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/uiperturbation.png"
+    },
+    {
+      "title": "Unit Of Information for BA",
+      "href": "af-unit-of-information-for-ba",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/uisimplechemical.png"
+    },
+    {
+      "title": "Unit Of Information for BA",
+      "href": "af-unit-of-information-for-ba",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/uiunspecifiedentity.png"
     },
     {
       "title": "Perturbing Agent",
       "href": "pd-perturbing-agent",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/perturbing_agent/Symbol-perturbingAgent.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/perturbation.png"
     },
     {
       "title": "Unspecified Entity",
       "href": "pd-unspecified-entity",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/unspecified_entity/Symbol-unspecEntity.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/unspecifiedentity.png"
     },
     {
       "title": "Source and Sink",
       "href": "pd-source-and-sink",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/source_and_sink/Symbol-SourceAndSink.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/emptyset.png"
     },
    {
       "title": "And",
       "href": "pd-er-and-af-and",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/and/Symbol-and.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/and.png"
     },
    {
       "title": "Or",
       "href": "pd-er-and-af-or",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/or/Symbol-or.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/or.png"
     },
     {
       "title": "Not",
       "href": "pd-er-and-af-not",
-      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/not/Symbol-not.png"
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/pd/not.png"
+    },
+   {
+      "title": "And",
+      "href": "pd-er-and-af-and",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/and.png"
+    },
+   {
+      "title": "Or",
+      "href": "pd-er-and-af-or",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/or.png"
+    },
+    {
+      "title": "Not",
+      "href": "pd-er-and-af-not",
+      "img": "https://raw.githubusercontent.com/sbgn/glyph-files/master/main_page_pngs/af/not.png"
     }
   ]
 }
