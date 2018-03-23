@@ -47,7 +47,7 @@
         console.log("Symbol href loaded.");
       });
 
-      $("#random_symbol_img").html('<img src="' + symbol.img + '" alt="' + symbol.href + '">').promise().done(function(){
+      $("#random_symbol_img").html('<img src="' + symbol.img + '" alt="' + symbol.href + '" width="360px"/>').promise().done(function(){
         console.log("Symbol img loaded.");
       });
 
