@@ -47,7 +47,7 @@
         console.log("Symbol href loaded.");
       });
 
-      $("#random_symbol_img").html('<img src="' + symbol.img + '" alt="' + symbol.href + '" width="360px"/>').promise().done(function(){
+      $("#random_symbol_img").html('<img src="' + symbol.img + '" alt="' + symbol.href + '" width="200px"/>').promise().done(function(){
         console.log("Symbol img loaded.");
       });
 
@@ -59,7 +59,7 @@
         console.log("Symbol href loaded.");
       });
 
-      $("#random_pathway_img").html('<img src="' + pathway.img + '" alt="'+ pathway.href +'" width="200px"/>').promise().done(function(){
+      $("#random_pathway_img").html('<img src="' + pathway.img + '" alt="'+ pathway.href +'" width="360px"/>').promise().done(function(){
         console.log("Pathway href loaded.");
       });
 
