@@ -22,7 +22,7 @@ There are some modifications in the SBGN diagram compared to the original one.
 
 1. A logic gate is used to show that both nuclear E3 ligase and nuclear proteamsome are required to degrade the misfolded protein.  
 
-![SBGN-PD](/downloads/figure_to_sbgn/polyq-July2013.png){: .center-image }
+![SBGN-PD](/sbgn/downloads/figure_to_sbgn/polyq-July2013.png){: .center-image }
 
 ## TEXT
 
@@ -34,8 +34,8 @@ Activity-dependent CREB phosphorylation and gene expression are critical for lon
 
 Below is the SBGN PD map of the pathway.  
 
-![SBGN-PD map](/downloads/figure_to_sbgn/camkii_Nov2014_PD.png){: .center-image }
+![SBGN-PD map](/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.png){: .center-image }
 
 Here is the SBGN AF map of the pathway.  
 
-![SBGN-PD map](/downloads/figure_to_sbgn/camkii_Nov2014_AF.png){: .center-image }
+![SBGN-PD map](/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.png){: .center-image }
