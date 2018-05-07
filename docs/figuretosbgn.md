@@ -1,7 +1,7 @@
 ---
-title: Competition
+title: Figure to SBGN
 layout: default
-permalink: /competition
+permalink: /figuretosbgn
 ---
 
 # Figure to SBGN
