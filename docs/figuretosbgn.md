@@ -24,6 +24,8 @@ There are some modifications in the SBGN diagram compared to the original one.
 
 ![SBGN-PD](/sbgn/downloads/figure_to_sbgn/polyq-July2013.png)
 
+<img src="../sbgn/downloads/figure_to_sbgn/polyq-July2013.png" width="500"/>
+
 <p align="center"><a href="/sbgn/downloads/figure_to_sbgn/polyq-July2013.sbgn">SBGN-ML</a></p>
 
 ## γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression
