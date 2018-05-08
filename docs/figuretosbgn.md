@@ -24,6 +24,8 @@ There are some modifications in the SBGN diagram compared to the original one.
 
 ![SBGN-PD](/sbgn/downloads/figure_to_sbgn/polyq-July2013.png)
 
+<p align="center"><a href="/sbgn/downloads/figure_to_sbgn/polyq-July2013.sbgn">SBGN-ML</a></p>
+
 ## γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression
 
 An SBGN Process Desciption and Activity Flow diagrams were created based on the [Graphical Abstract](http://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) of the following paper. [SBGN-ED](http://www.sbgn-ed.org/), an SBGN editing software, was used to draw the diagram.
@@ -36,6 +38,10 @@ Below is the SBGN PD map of the pathway.
 
 ![SBGN-PD map](/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.png){: .center-image }
 
+<p align="center"><a href="/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.sbgn">SBGN-ML</a></p>
+
 Here is the SBGN AF map of the pathway.  
 
 ![SBGN-PD map](/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.png){: .center-image }
+
+<p align="center"><a href="/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.sbgn">SBGN-ML</a></p>
