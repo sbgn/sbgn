@@ -22,7 +22,7 @@ There are some modifications in the SBGN diagram compared to the original one.
 
 1. A logic gate is used to show that both nuclear E3 ligase and nuclear proteamsome are required to degrade the misfolded protein.  
 
-![SBGN-PD](/sbgn/downloads/figure_to_sbgn/polyq-July2013.png){: width:500px; }
+![SBGN-PD](/sbgn/downloads/figure_to_sbgn/polyq-July2013.png)
 
 ## γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression
 
