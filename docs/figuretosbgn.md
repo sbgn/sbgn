@@ -22,9 +22,8 @@ There are some modifications in the SBGN diagram compared to the original one.
 
 1. A logic gate is used to show that both nuclear E3 ligase and nuclear proteamsome are required to degrade the misfolded protein.  
 
-<p align="center"><img src="../sbgn/downloads/figure_to_sbgn/polyq-July2013.png" width="500"/></p>
-
-<p align="center"><a href="/sbgn/downloads/figure_to_sbgn/polyq-July2013.sbgn">SBGN-ML</a></p>
+<p align="center"><img src="../sbgn/downloads/figure_to_sbgn/polyq-July2013.png" width="500"/><br />
+<a href="/sbgn/downloads/figure_to_sbgn/polyq-July2013.sbgn">SBGN-ML</a></p>
 
 ## γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression
 
@@ -36,12 +35,10 @@ Activity-dependent CREB phosphorylation and gene expression are critical for lon
 
 Below is the SBGN PD map of the pathway.  
 
-<p align="center"><img src="../sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.png" width="500"/></p>
-
-<p align="center"><a href="/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.sbgn">SBGN-ML</a></p>
+<p align="center"><img src="../sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.png" width="600"/><br />
+<a href="/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_PD.sbgn">SBGN-ML</a></p>
 
 Here is the SBGN AF map of the pathway.  
 
-<p align="center"><img src="../sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.png" width="300"/></p>
-
-<p align="center"><a href="/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.sbgn">SBGN-ML</a></p>
+<p align="center"><img src="../sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.png" width="500"/><br />
+<a href="/sbgn/downloads/figure_to_sbgn/camkii_Nov2014_AF.sbgn">SBGN-ML</a></p>
