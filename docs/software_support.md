@@ -43,6 +43,7 @@ The following is a list of software packages known to provide support for SBGN. 
 | [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
 | [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
 | [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
+| [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | E     | +   | +   | +   | -       |
 | [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | V     | +   | -   | -   | +       |
 | [SBML Layout Viewer](http://sysbioapps.dyndns.org/Layout/)                       | V     | +   | +   | +   | +       |
 | [SBMM assistant](http://www.sbmm.uma.es/SPA/)                                    | V     | +   | -   | -   | -       |
