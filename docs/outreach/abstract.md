@@ -12,17 +12,17 @@ permalink: /abstract
 *  [Short abstract](#short-abstract)
 
 ## Title
-The Systems Biology Graphical Notation: a standardised representation of biological maps
+**The Systems Biology Graphical Notation: a standardised representation of biological maps**
 
 ## Authors
 Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</sup>, Andreas Dräger<sup>4</sup>, Ugur Dogrusoz<sup>5</sup>, Augustin Luna<sup>6</sup>, Nicolas Le Novère<sup>7</sup>
 
-<sup>1</sup>Department of Biology, Norwegian University of Science and Technology, Trondheim, Norway
-<sup>2</sup>European Institute for Systems Biology and Medicine, CIRI UMR5308, CNRS-ENS-UCBL-INSERM, Université de Lyon, 50 Avenue Tony Garnier, 69007 Lyon, France
-<sup>3</sup>Biotechnology Research Institute for Drug Discovery, National Institute of Advanced Industrial Science and Technology, Aomi, Tokyo 135-0064, Japan
-<sup>4</sup>Center for Bioinformatics Tübingen (ZBIT), University of Tübingen, Tübingen, Germany
-<sup>5</sup>Computer Engineering Department, Bilkent University, Ankara 06800, Turkey
-<sup>6</sup>cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell Biology, Harvard Medical School, Boston, MA 02215, USA
+<sup>1</sup>Department of Biology, Norwegian University of Science and Technology, Trondheim, Norway  
+<sup>2</sup>European Institute for Systems Biology and Medicine, CIRI UMR5308, CNRS-ENS-UCBL-INSERM, Université de Lyon, 50 Avenue Tony Garnier, 69007 Lyon, France  
+<sup>3</sup>Biotechnology Research Institute for Drug Discovery, National Institute of Advanced Industrial Science and Technology, Aomi, Tokyo 135-0064, Japan  
+<sup>4</sup>Center for Bioinformatics Tübingen (ZBIT), University of Tübingen, Tübingen, Germany  
+<sup>5</sup>Computer Engineering Department, Bilkent University, Ankara 06800, Turkey  
+<sup>6</sup>cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell Biology, Harvard Medical School, Boston, MA 02215, USA  
 <sup>7</sup>The Babraham Institute, Cambridge, Cambridgeshire, UK
 
 ## Long abstract
