@@ -33,9 +33,9 @@ Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</
 
 **Discussion**: The SBGN project is an ongoing open community-driven effort coordinated and maintained by an elected international editorial board. Annual workshops, GitHub and mailing lists are used as leading discussion platforms. Major research projects, such as the Virtual Metabolic Human, and pathway databases such as Reactome and WikiPathways display their maps following the SBGN guidelines. Furthermore, a wide range of tools supports SBGN. SBGN regularly offers student coding events through the Google Summer of Code program.
 
-**Availability**: All documents and source code are freely available at http://sbgn.org and https://github.com/sbgn. Contributions are welcome.
+**Availability**: All documents and source code are freely available at [http://sbgn.org](http://sbgn.org) and [https://github.com/sbgn](https://github.com/sbgn). Contributions are welcome.
 
-**Contact**: sbgn-discuss@googlegroups.com
+**Contact**: [sbgn-discuss@googlegroups.com](mailto:sbgn-discuss@googlegroups.com)
 
 **Keywords**: SBGN, circuit diagram, biological network, visualisation, systems biology
 
@@ -55,4 +55,4 @@ SBGN is a standard developed to reduce ambiguity in the visual representation of
 
 SBGN is a community-driven effort coordinated by elected editors. Workshops, GitHub, and mailing lists are leading discussion platforms. Major research projects, databases, and software tools support SBGN.
 
-Documents and source code are freely available at http://sbgn.org and https://github.com/sbgn. Contact: sbgn-discuss@googlegroups.com
+Documents and source code are freely available at [http://sbgn.org](http://sbgn.org) and [https://github.com/sbgn](https://github.com/sbgn). Contact: [sbgn-discuss@googlegroups.com](mailto:sbgn-discuss@googlegroups.com)
