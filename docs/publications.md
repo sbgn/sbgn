@@ -23,3 +23,13 @@ This page lists the main SBGN publications. If you want to cite SBGN, please use
     - [Citations CrossRef](http://bioinformatics.oxfordjournals.org/cgi/crossref-forward-links/28/15/2016)
     - [Citations Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=16247298811091409604&scipsc=&q=&scisbd=1)
     - [Citations PubMed](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed_citedin&from_uid=22581176)
+    
+
+### Outreach documents
+This section links to a generic abstract and poster about SBGN for outreach purposes.
+
+* Abstract: [available here](outreach/abstract).
+* Poster:
+	- [PDF version](/sbgn/images/outreach/SBGN_poster.pdf)
+	- [PPT version](/sbgn/images/outreach/SBGN_poster.pptx).
+
