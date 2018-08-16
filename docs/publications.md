@@ -28,7 +28,7 @@ This page lists the main SBGN publications. If you want to cite SBGN, please use
 ### Outreach documents
 This section links to a generic abstract and poster about SBGN for outreach purposes.
 
-* Abstract: [available here](outreach/abstract).
+* Abstract: [available here](abstract).
 * Poster:
 	- [PDF version](/sbgn/images/outreach/SBGN_poster.pdf)
 	- [PPT version](/sbgn/images/outreach/SBGN_poster.pptx).
