@@ -52,9 +52,9 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
-| ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Dec 2015 - Dec 2016 <br> Sep 2008 - Dec 2012 |
 | ![Luna](https://sbgn.github.io/sbgn/images/about/photo-luna.png)                      | Augustin Luna        | Dec 2014 - Dec 2017 |
 | ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                        | Robin Haw            | Dec 2014 - Dec 2017 |
+| ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Dec 2015 - Dec 2016 <br> Sep 2008 - Dec 2012 |
 | ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.jpg)                          | Huaiyu Mi            | Dec 2013 - Dec 2016 <br> Jan 2009 - Dec 2011 |
 | ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Dec 2016 - Dec 2017 <br> Jan 2012 - Dec 2015 |
 | ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2012 - Dec 2015 <br> Sep 2008 - Dec 2011 |
