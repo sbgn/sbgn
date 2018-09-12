@@ -39,19 +39,19 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2016 - 2019.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2016 - 2019, ...</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" alt="Vasundra Toure" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Vasundra Toure</strong>, elected for 2018 - 2020.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Vasundra Toure</strong>, elected for 2018 - 2020, ...</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.png" alt="Andreas Dräger" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2020.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2020, ...</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" alt="Adrien Rougny" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020, ...</td>
     </tr>
 </table>
 
