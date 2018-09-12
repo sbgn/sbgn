@@ -10,6 +10,7 @@ permalink: /about2
 *  [SBGN Editors](#sbgn-editors)
 *  [SBGN Acting Editors](#sbgn-acting-editors)
 *  [SBGN Scientific Committee](#sbgn-scientific-committee)
+*  [Former SBGN Editors](#former-sbgn-editors)
 *  [Funding](#funding)
 *  [Ownership](#ownership)
 
