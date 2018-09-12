@@ -15,7 +15,7 @@ permalink: /abstract
 **The Systems Biology Graphical Notation: a standardised representation of biological maps**
 
 ## Authors
-Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</sup>, Andreas Dräger<sup>4,5</sup>, Ugur Dogrusoz<sup>6</sup>, Augustin Luna<sup>7</sup>, Nicolas Le Novère<sup>8</sup>
+Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</sup>, Andreas Dräger<sup>4,5</sup>, Ugur Dogrusoz<sup>6</sup>, Augustin Luna<sup>7</sup>
 
 <sup>1</sup>Department of Biology, Norwegian University of Science and Technology, Trondheim, Norway  
 <sup>2</sup>European Institute for Systems Biology and Medicine, CIRI UMR5308, CNRS-ENS-UCBL-INSERM, Université de Lyon, 50 Avenue Tony Garnier, 69007 Lyon, France  
@@ -23,8 +23,7 @@ Vasundra Touré<sup>1</sup>, Alexander Mazein<sup>2</sup>, Adrien Rougny<sup>3</
 <sup>4</sup>Computational Systems Biology of Infection and Antimicrobial-Resistant Pathogens, Center for Bioinformatics Tübingen (ZBIT), 72076 Tübingen, Germany  
 <sup>5</sup> Department for Computer Science, University of Tübingen, 72076 Tübingen, Germany  
 <sup>6</sup>Computer Engineering Department, Bilkent University, Ankara 06800, Turkey  
-<sup>7</sup>cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell Biology, Harvard Medical School, Boston, MA 02215, USA  
-<sup>8</sup>The Babraham Institute, Cambridge, Cambridgeshire, UK  
+<sup>7</sup>cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell Biology, Harvard Medical School, Boston, MA 02215, USA    
 
 
 ## Long abstract
