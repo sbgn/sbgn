@@ -59,7 +59,7 @@ Emek Demir  (Jan 2010 - Dec 2012),
 Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016), 
 Stuart Moodie (Sep 2008 - Dec 2011, Sep 2012 - Dec 2015), 
 Anatoly Sorokin (Sep 2008 - Dec 2009, Jan 2012 - Dec 2014), 
-Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014)
+Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014).
 
 <!--
 |Former editors                     |Name               | Election period      |
