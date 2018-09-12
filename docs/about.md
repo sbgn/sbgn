@@ -50,6 +50,18 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 ## Former SBGN Editors
 
+Augustin Luna (Dec 2014 - Dec 2017), 
+Robin Haw (Dec 2014 - Dec 2017), 
+Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017), 
+Alice Villéger (Jan 2011 - Dec 2013), 
+Emek Demir  (Jan 2010 - Dec 2012), 
+Huaiyu Mi (Jan 2009 - Dec 2011, Dec 2013 - Dec 2016), 
+Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016), 
+Stuart Moodie (Sep 2008 - Dec 2011, Sep 2012 - Dec 2015), 
+Anatoly Sorokin (Sep 2008 - Dec 2009, Jan 2012 - Dec 2014), 
+Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014)
+
+<!--
 |Former editors                     |Name               | Election period      |
 | --------------------------------- |:-----------------:|:--------------------:|
 | ![Luna](https://sbgn.github.io/sbgn/images/about/photo-luna.png)                      | Augustin Luna        | Dec 2014 - Dec 2017 |
@@ -62,6 +74,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 | ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2009 |
 | ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
 | ![Demir](https://sbgn.github.io/sbgn/images/about/photo-demir.jpg)                    | Emek Demir           | Jan 2010 - Dec 2012 |
+-->
 
 ## SBGN Scientific Committee
 
