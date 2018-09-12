@@ -131,12 +131,12 @@ Principal investigators of grants supporting SBGN development and maintenance ar
 | ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | Invited in 2011. Ph.D. Associate Professor <br>of Preventive Medicine (Chief, Division of Bioinformatics) <br>and Biology, University of Southern California, Los <br>Angeles. Works on the evolution of gene function and <br>biological systems, and is a PI of the Gene Ontology project. |
 -->
 
-* Igor Goryanin, SBGN PI, joined in 2009.
-* Hiroaki Kitano, SBGN PI, joined in 2009.
-* Falk Schreiber, SBGN PI joined in 2013.
-* Michael Hucka, invited in 2009, PhD in Computer Science and Engineering. Senior Research Fellow at Caltech. He has chaired the SBML effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with BioModels.net activities.
-* Gary Bader, invited in 2010, PhD Biochemistry. Works on biological network analysis and pathway information resources as an Assistant Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the BioPAX biological pathways exchange language.
-* Paul Thomas, invited in 2011, PhD, Associate Professor of Preventive Medicine and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, PI of the Gene Ontology project.
+* <strong>Igor Goryanin</strong>, SBGN PI, joined in 2009.
+* <strong>Hiroaki Kitano</strong>, SBGN PI, joined in 2009.
+* <strong>Falk Schreiber</strong>, SBGN PI joined in 2013.
+* <strong>Michael Hucka</strong>, invited in 2009, PhD in Computer Science and Engineering. Senior Research Fellow at Caltech. He has chaired the SBML effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with BioModels.net activities.
+* <strong>Gary Bader</strong>, invited in 2010, PhD Biochemistry. Works on biological network analysis and pathway information resources as an Assistant Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the BioPAX biological pathways exchange language.
+* <strong>Paul Thomas</strong>, invited in 2011, PhD, Associate Professor of Preventive Medicine and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, PI of the Gene Ontology project.
 
 Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a PI and invited member between 2009 and 2015.
 
