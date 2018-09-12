@@ -9,8 +9,8 @@ permalink: /about2
 *  [Get involved](#get-involved)
 *  [SBGN Editors](#sbgn-editors)
 *  [SBGN Acting Editors](#sbgn-acting-editors)
-*  [SBGN Scientific Committee](#sbgn-scientific-committee)
 *  [Former SBGN Editors](#former-sbgn-editors)
+*  [SBGN Scientific Committee](#sbgn-scientific-committee)
 *  [Funding](#funding)
 *  [Ownership](#ownership)
 
