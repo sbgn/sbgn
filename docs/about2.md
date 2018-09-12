@@ -29,8 +29,15 @@ SBGN meetings and workshops provide the best environment for learning about the 
 ## SBGN Editors
 
 The SBGN editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
-The editors do not decide what to put in the specifications—they are the voice and the hand of the community.
+The editors do not decide what to put in the specifications — they are the voice and the hand of the community.
 The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. An serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
+
+<table>
+<tr>
+<td style="width: 100px;"><img src="../sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" /></td>
+<td>Alexander Mazein, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. One of the leaders of the <a href="http://disease-maps.org/" target="_blank">Disease Maps</a> effort. Lead developer of the <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a> resource.</td>
+</tr>
+</table>
 
 |Current editors                     |Name               | Election period      |
 | ---------------------------------- |:-----------------:|:--------------------:|
