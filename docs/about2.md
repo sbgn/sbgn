@@ -35,7 +35,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 <table>
 <tr>
 <td style="width: 100px;"><img src="../sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" /></td>
-<td>Alexander Mazein, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. One of the leaders of the <a href="http://disease-maps.org/" target="_blank">Disease Maps</a> effort. Lead developer of the <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a> resource.</td>
+  <td><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. One of the leaders of the <a href="http://disease-maps.org/" target="_blank">Disease Maps</a> effort. Lead developer of the <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a> resource.</td>
 </tr>
 </table>
 
