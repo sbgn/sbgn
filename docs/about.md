@@ -43,10 +43,11 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
+<!--
 |Current editors                     |Name               | Period               |
 | ---------------------------------- |:-----------------:|:--------------------:|
 |                                    |                   | 2018 - Present       |      
-
+-->
 
 ## Former SBGN Editors
 
