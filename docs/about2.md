@@ -33,19 +33,29 @@ The editors do not decide what to put in the specifications — they are the voi
 The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. An serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
 
 <table>
-<tr>
-<td style="width: 100px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. A co-founder and one of the leaders of the <a href="http://disease-maps.org/" target="_blank">Disease Maps</a> community effort. Lead developer of the <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a> resource.</td>
-</tr>
-</table>
-
-<table>
     <tr>
-    <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
-    <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. A co-founder and one of the leaders of the <a href="http://disease-maps.org/" target="_blank">Disease Maps</a> community effort. Lead developer of the <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a> resource.</td>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. A co-founder and one of the leaders of the <a href="http://disease-maps.org/" target="_blank">Disease Maps</a> community effort. Lead developer of the <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a> resource.</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2016 - 2019.</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" alt="Vasundra Toure" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Vasundra Toure</strong>, elected for 2018 - 2020.</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.png" alt="Andreas Dräger" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2020.</td>
+    </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" alt="Adrien Rougny" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020.</td>
     </tr>
 </table>
 
+<!--
 |Current editors                     |Name               | Election period      |
 | ---------------------------------- |:-----------------:|:--------------------:|
 | ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.png)         | Alexander Mazein    | 2015 - 2018  |
@@ -53,6 +63,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 | ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.jpg)           | Vasundra Toure      | 2018 - 2020  |
 | ![Drager](https://sbgn.github.io/sbgn/images/about/photo-drager.png)         | Andreas Dräger      | 2018 - 2020  |
 | ![Rougny](https://sbgn.github.io/sbgn/images/about/photo-rougny.png)         | Adrien Rougny       | 2018 - 2020  |
+-->
 
 ## SBGN Acting Editors
 
@@ -67,6 +78,13 @@ Acting Editors are selected among active contributors and are appointed by the e
 ## SBGN Representative at COMBINE
 
 Text
+
+<table>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg" alt="Falk Schreiber" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Falk Schreiber</strong>, elected SBGN editor for 2008 - 2010 and 2012 - 2014.</td>
+    </tr>
+</table>
 
 ## Former SBGN Editors
 
@@ -102,6 +120,7 @@ The duties of the SBGN Scientific Committee are to help securing the financial s
 
 Principal investigators of grants supporting SBGN development and maintenance are entitled to become members. Other memberships are proposed by the running Scientific Committee and the Editorial Board. Invited members may be pioneers or major players in the field of graphical representation of knowledge, or leading figures in fields that may endorse SBGN. New memberships require unanimity of expressed opinions from current members. The terms of invited members are yearly, renewable without restriction. Renewal must be proposed and seconded by existing members of scientific committee.
 
+<!--
 |Current members                 |Name               | More information     |
 | ------------------------------ |:-----------------:|:--------------------:|
 | ![Goryyanin](https://sbgn.github.io/sbgn/images/about/photo-goryanin.jpg) | Igor Goryanin | SBGN PI joined in 2009. |
@@ -110,6 +129,14 @@ Principal investigators of grants supporting SBGN development and maintenance ar
 | ![Hucka](https://sbgn.github.io/sbgn/images/about/photo-hucka.jpg) | Michael Hucka | Invited in 2009. Ph.D. in Computer Science and <br>Engineering. Senior Research Fellow at Caltech. He has <br>chaired the SBML effort by community consensus since <br>2003. Today he works on all aspects of SBML and is <br>involved with BioModels.net activities. |
 | ![Bader](https://sbgn.github.io/sbgn/images/about/photo-bader.png) | Gary Bader | Invited in 2010. Ph.D. Biochemistry. Works <br>on biological network analysis and pathway information <br>resources as an Assistant Professor at The Donnelly <br>Centre at the University of Toronto. He has been <br>involved in leading development of protein interaction <br>and pathway databases and standards, including <br>the BioPAX biological pathways exchange language. |
 | ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | Invited in 2011. Ph.D. Associate Professor <br>of Preventive Medicine (Chief, Division of Bioinformatics) <br>and Biology, University of Southern California, Los <br>Angeles. Works on the evolution of gene function and <br>biological systems, and is a PI of the Gene Ontology project. |
+-->
+
+* Igor Goryanin, SBGN PI, joined in 2009.
+* Hiroaki Kitano, SBGN PI, joined in 2009.
+* Falk Schreiber, SBGN PI joined in 2013.
+* Michael Hucka, invited in 2009, PhD in Computer Science and Engineering. Senior Research Fellow at Caltech. He has chaired the SBML effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with BioModels.net activities.
+* Gary Bader, invited in 2010, PhD Biochemistry. Works on biological network analysis and pathway information resources as an Assistant Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the BioPAX biological pathways exchange language.
+* Paul Thomas, invited in 2011, PhD, Associate Professor of Preventive Medicine and Biology, University of Southern California, Los Angeles. Works on the evolution of gene function and biological systems, PI of the Gene Ontology project.
 
 Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a PI and invited member between 2009 and 2015.
 
@@ -118,7 +145,9 @@ Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a 
 We are deeply indebted to the many funding agencies and organizations that have supported SBGN over the years.
 
 The development of SBGN during 2005–2008 was mainly supported by a grant from the Japanese [New Energy and Industrial Technology Development Organization](http://www.nedo.go.jp/) (NEDO).
+
 The principal investigators were Hiroaki Kitano, Akira Funahashi, Nicolas Le Novère, and Michael Hucka.
+
 The [Okinawa Institute of Science and Technology](http://www.oist.jp/) (OIST), the British [Biotechnology and Biological Sciences Research Council](http://www.bbsrc.ac.uk/) (BBSRC) through a Japan Partnering Award, and a US Partnering Award, the [European Media Laboratory](http://www.eml-r.org/) (EML Research GmbH), the Beckman Institute BNMC at the California Institute of Technology, and US [National Science Foundation](www.nsf.gov) (NSF) provided additional support for SBGN workshops.
 
 ## Ownership
