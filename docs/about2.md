@@ -27,7 +27,7 @@ For general discussions about SBGN: please join the [sbgn-discuss mailing list](
 For specific questions about this website, workshops, or other SBGN resource management topics: please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com).
 SBGN meetings and workshops provide the best environment for learning about the process and getting involved. Please check the [Events](events) page for the upcoming events.
 
-## SBGN Editors
+## SBGN Editors Board
 
 The SBGN editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
 The editors do not decide what to put in the specifications — they are the voice and the hand of the community.
@@ -78,7 +78,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 ## SBGN Representative at COMBINE
 
-The SBGN standard is a part of the [COMBINE](https://co.mbine.org/about) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/coordinators). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. 
+The SBGN standard is a part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. 
 
 <table>
     <tr>
