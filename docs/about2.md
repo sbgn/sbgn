@@ -48,7 +48,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.png" alt="Andreas Dräger" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2020, PhD in Bioinformatics and Systems Biology, Junior Professor at the Tübingen Center for Bioinformatics, Tübingen, Germany. Co-developer of JSBML. Elected SBML editor in 2015 – 2017.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2020, PhD in Bioinformatics and Systems Biology, Junior Professor at the Tübingen Center for Bioinformatics, Tübingen, Germany. Co-developer of JSBML. Elected SBML editor for 2015 – 2017.</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" alt="Adrien Rougny" width="100"/></td>
