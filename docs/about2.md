@@ -9,7 +9,7 @@ permalink: /about2
 *  [Get involved](#get-involved)
 *  [SBGN Editors](#sbgn-editors)
 *  [SBGN Acting Editors](#sbgn-acting-editors)
-*  [SBGN Representative at COMBINE](#sbgn-representative-at-combine)
+*  [SBGN Delegate at COMBINE](#sbgn-delegate-at-combine)
 *  [Former SBGN Editors](#former-sbgn-editors)
 *  [SBGN Scientific Committee](#sbgn-scientific-committee)
 *  [Funding](#funding)
