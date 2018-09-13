@@ -27,7 +27,7 @@ For general discussions about SBGN: please join the [sbgn-discuss mailing list](
 For specific questions about this website, workshops, or other SBGN resource management topics: please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com).
 SBGN meetings and workshops provide the best environment for learning about the process and getting involved. Please check the [Events](events) page for the upcoming events.
 
-## SBGN Editors Board
+## SBGN Editors
 
 The SBGN editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
 The editors do not decide what to put in the specifications — they are the voice and the hand of the community.
