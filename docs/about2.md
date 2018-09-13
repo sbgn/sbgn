@@ -82,7 +82,7 @@ A representative from the SBGN community at [COMBINE](https://co.mbine.org/) ens
 <table>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg" alt="Falk Schreiber" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Falk Schreiber</strong>, elected SBGN editor for 2008 - 2010 and 2012 - 2014, a member of the SBGN Scientific Committee.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Falk Schreiber</strong>, elected SBGN editor for 2008 - 2010 and 2012 - 2014, member of the SBGN Scientific Committee.</td>
     </tr>
 </table>
 
