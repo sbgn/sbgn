@@ -78,7 +78,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 ## SBGN Representative at COMBINE
 
-A representative from the SBGN community at [COMBINE](https://co.mbine.org/) ensures communication betweeen... It is a volunteer position appointed by the elected SBGN editors. The position is reviewed yearly.
+A representative from the SBGN community at [COMBINE](https://co.mbine.org/) is a volunteer position appointed by the elected SBGN editors. The position is reviewed yearly.
 
 <table>
     <tr>
