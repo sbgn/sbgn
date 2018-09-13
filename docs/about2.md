@@ -78,7 +78,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 ## SBGN Representative at COMBINE
 
-SBGN standard is a part of the [COMBINE](https://co.mbine.org/about) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/coordinators). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. 
+The SBGN standard is a part of the [COMBINE](https://co.mbine.org/about) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/coordinators). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. 
 
 <table>
     <tr>
