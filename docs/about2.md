@@ -35,7 +35,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 <table>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. Leader of the <a href="http://disease-maps.org/" target="_blank">Disease Maps Project</a>, a community effort for a high-quality computational description of disease mechanisms.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France, a leader of the <a href="http://disease-maps.org/" target="_blank">Disease Maps Project</a>, a community effort for a high-quality computational description of disease mechanisms.</td>
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
