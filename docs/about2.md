@@ -56,29 +56,13 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
 </table>
 
-<!--
-|Current editors                     |Name               | Election period      |
-| ---------------------------------- |:-----------------:|:--------------------:|
-| ![Mazein](https://sbgn.github.io/sbgn/images/about/photo-mazein.png)         | Alexander Mazein    | 2015 - 2018  |
-| ![Dogrusoz](https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png)     | Ugur Dogrusoz       | 2016 - 2019  |
-| ![Toure](https://sbgn.github.io/sbgn/images/about/photo-toure.jpg)           | Vasundra Toure      | 2018 - 2020  |
-| ![Drager](https://sbgn.github.io/sbgn/images/about/photo-drager.png)         | Andreas Dräger      | 2018 - 2020  |
-| ![Rougny](https://sbgn.github.io/sbgn/images/about/photo-rougny.png)         | Adrien Rougny       | 2018 - 2020  |
--->
-
 ## SBGN Acting Editors
 
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
-<!--
-|Current editors                     |Name               | Period               |
-| ---------------------------------- |:-----------------:|:--------------------:|
-|                                    |                   | 2018 - Present       |      
--->
-
 ## SBGN Delegate at COMBINE
 
-The SBGN standard is a part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The current representative from the SBGN standard:
+The SBGN standard is a part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The process by which members of the COMBINE Coordination Board are appointed is [described here](https://co.mbine.org/coordinators).The current representative from the SBGN standard:
 
 <table>
     <tr>
