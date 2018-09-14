@@ -67,7 +67,7 @@ The SBGN standard is a part of the [COMBINE](https://co.mbine.org/standards) eff
 <table>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg" alt="Falk Schreiber" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Falk Schreiber</strong>, PhD in Computer Science, Professor of Practical Computer Science and Computational Life Sciences in the Department of Computer and Information Science at the University of Konstanz, Germany. PI of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> development. Elected SBGN editor for 2008 - 2010 and 2012 - 2014, member of the SBGN Scientific Committee.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Falk Schreiber</strong>, PhD in Computer Science, Professor of Practical Computer Science and Computational Life Sciences in the Department of Computer and Information Science at the University of Konstanz, Germany. PI of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> tool development. Elected SBGN editor for 2008 - 2010 and 2012 - 2014, member of the SBGN Scientific Committee.</td>
     </tr>
 </table>
 
