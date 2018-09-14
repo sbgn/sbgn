@@ -35,6 +35,7 @@ The following is a list of software packages known to provide support for SBGN. 
 | [iPathways](http://www.ipathways.org/)                                           | V     | +   | -   | -   | -       |
 | [JWS Online](http://jjj.bio.vu.nl/)                                              | V     | +   | -   | -   | -       |
 | [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | V     | +   | -   | -   | +       |
+| [Krayon for SBGN](https://github.com/wiese42/krayon4sbgn)                        | E     | +   | -   | -   | +       |
 | [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | V     | +   | -   | -   | -       |
 | [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
 | [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
