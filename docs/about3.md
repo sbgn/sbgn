@@ -114,10 +114,10 @@ The SBGN Team supports the SBGN community activities and the work of the elected
 
 <table>
 <tr>
-<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
-<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
-<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
-<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
 </tr>
 </table>  
 
