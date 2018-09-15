@@ -101,7 +101,26 @@ Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a 
 
 ## SBGN Team
 
-The SBGN Team supports the SBGN community activities and the work of the elected SBGN editors. Members of the team are responsible for developing and maintaining SBGN infrastructure and tools. Particular tasks include supporting the SBGN website and LibSBGN libraries. The SBGN Team is created following the example of the SBML community structure. The goal is to strengthen the SBGN effort and ensure its sustainable development by engaging experts that design the related tools and practices.
+The SBGN Team supports the SBGN community activities and the work of the elected SBGN editors. Members of the team are responsible for developing and maintaining SBGN infrastructure and tools. Particular tasks include supporting the SBGN website and LibSBGN libraries. The SBGN Team was created in 2018 as an initiative from the SBGN editors following the example of the SBML community. The goal is to strengthen the SBGN effort and ensure its sustainable development by engaging experts that design the needed tools and practices.
+
+<table>
+<tr>
+<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+</tr>
+</table>
+
 
 ## Funding
 
