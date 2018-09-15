@@ -105,22 +105,21 @@ The SBGN Team supports the SBGN community activities and the work of the elected
 
 <table>
 <tr>
-<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 160px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 150px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 150px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 150px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 150px;"><p style="margin:4px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
+<td style="width: 150px;"><p style="margin:4px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</td>
 </tr>
-</table>
-
+</table>  
 
 ## Funding
 
