@@ -62,7 +62,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 ## SBGN Delegate at COMBINE
 
-The SBGN standard is a part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The process by which members of the COMBINE Coordination Board are appointed is [described here](https://co.mbine.org/coordinators). The current representative from the SBGN standard:
+The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The process by which members of the COMBINE Coordination Board are appointed is [described here](https://co.mbine.org/coordinators). The current representative from the SBGN standard:
 
 <table>
     <tr>
@@ -83,21 +83,6 @@ Nicolas Le Novère (Sep 2008 - Dec 2012, Dec 2015 - Dec 2016),
 Stuart Moodie (Sep 2008 - Dec 2011, Sep 2012 - Dec 2015), 
 Anatoly Sorokin (Sep 2008 - Dec 2009, Jan 2012 - Dec 2014), 
 Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014).
-
-<!--
-|Former editors                     |Name               | Election period      |
-| --------------------------------- |:-----------------:|:--------------------:|
-| ![Luna](https://sbgn.github.io/sbgn/images/about/photo-luna.png)                      | Augustin Luna        | Dec 2014 - Dec 2017 |
-| ![Haw](https://sbgn.github.io/sbgn/images/about/photo-haw.png)                        | Robin Haw            | Dec 2014 - Dec 2017 |
-| ![Le Novère](https://sbgn.github.io/sbgn/images/about/photo-lenovere.jpg)             | Nicolas Le Novère    | Dec 2015 - Dec 2016 <br> Sep 2008 - Dec 2012 |
-| ![Mi](https://sbgn.github.io/sbgn/images/about/photo-mi.jpg)                          | Huaiyu Mi            | Dec 2013 - Dec 2016 <br> Jan 2009 - Dec 2011 |
-| ![Czauderna](https://sbgn.github.io/sbgn/images/about/photo-czauderna.jpg)            | Tobias Czauderna     | Dec 2016 - Dec 2017 <br> Jan 2012 - Dec 2015 |
-| ![Moodie](https://sbgn.github.io/sbgn/images/about/photo-moodie.jpg)                  | Stuart Moodie        | Sep 2012 - Dec 2015 <br> Sep 2008 - Dec 2011 |
-| ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg)            | Falk Schreiber       | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2010 |
-| ![Sorokin](https://sbgn.github.io/sbgn/images/about/photo-sorokin.jpg)                | Anatoly Sorokin      | Jan 2012 - Dec 2014 <br> Sep 2008 - Dec 2009 |
-| ![Villéger](https://sbgn.github.io/sbgn/images/about/photo-villeger.jpg)              | Alice Villéger       | Jan 2011 - Dec 2013 |
-| ![Demir](https://sbgn.github.io/sbgn/images/about/photo-demir.jpg)                    | Emek Demir           | Jan 2010 - Dec 2012 |
--->
 
 ## SBGN Scientific Committee
 
