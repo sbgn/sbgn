@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about2
+permalink: /about
 ---
 
 # About
@@ -89,17 +89,6 @@ Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014).
 The duties of the SBGN Scientific Committee are to help securing the financial support for SBGN development, to advocate the use of the language in their community, and to check that the development of SBGN is harmonious and democratic. The scientific committee does not have any decision-making power on the content of SBGN, although its advices presumably weight much in the decisions taken by the community.
 
 Principal investigators of grants supporting SBGN development and maintenance are entitled to become members. Other memberships are proposed by the running Scientific Committee and the Editorial Board. Invited members may be pioneers or major players in the field of graphical representation of knowledge, or leading figures in fields that may endorse SBGN. New memberships require unanimity of expressed opinions from current members. The terms of invited members are yearly, renewable without restriction. Renewal must be proposed and seconded by existing members of scientific committee. The current members of the SBGN Scientific Committee:
-
-<!--
-|Current members                 |Name               | More information     |
-| ------------------------------ |:-----------------:|:--------------------:|
-| ![Goryyanin](https://sbgn.github.io/sbgn/images/about/photo-goryanin.jpg) | Igor Goryanin | SBGN PI joined in 2009. |
-| ![Kitano](https://sbgn.github.io/sbgn/images/about/photo-kitano.jpg) | Hiroaki Kitano | SBGN PI joined in 2009. |
-| ![Schreiber](https://sbgn.github.io/sbgn/images/about/photo-schreiber.jpg) | Falk Schreiber | SBGN PI joined in 2013. |
-| ![Hucka](https://sbgn.github.io/sbgn/images/about/photo-hucka.jpg) | Michael Hucka | Invited in 2009. Ph.D. in Computer Science and <br>Engineering. Senior Research Fellow at Caltech. He has <br>chaired the SBML effort by community consensus since <br>2003. Today he works on all aspects of SBML and is <br>involved with BioModels.net activities. |
-| ![Bader](https://sbgn.github.io/sbgn/images/about/photo-bader.png) | Gary Bader | Invited in 2010. Ph.D. Biochemistry. Works <br>on biological network analysis and pathway information <br>resources as an Assistant Professor at The Donnelly <br>Centre at the University of Toronto. He has been <br>involved in leading development of protein interaction <br>and pathway databases and standards, including <br>the BioPAX biological pathways exchange language. |
-| ![Thomas](https://sbgn.github.io/sbgn/images/about/photo-thomas.jpg) | Paul Thomas | Invited in 2011. Ph.D. Associate Professor <br>of Preventive Medicine (Chief, Division of Bioinformatics) <br>and Biology, University of Southern California, Los <br>Angeles. Works on the evolution of gene function and <br>biological systems, and is a PI of the Gene Ontology project. |
--->
 
 * <strong>Igor Goryanin</strong>, SBGN PI, joined in 2009.
 * <strong>Hiroaki Kitano</strong>, SBGN PI, joined in 2009.
