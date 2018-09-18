@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about_backup
+permalink: /about
 ---
 
 # About
