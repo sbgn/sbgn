@@ -101,7 +101,7 @@ Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a 
 
 ## SBGN Team
 
-The SBGN Team supports the SBGN community activities and the work of the elected SBGN editors. Members of the team are responsible for developing and maintaining SBGN infrastructure and tools. Particular tasks include supporting the SBGN website and LibSBGN libraries. The SBGN Team was created in 2018 as an initiative from the SBGN editors following the example of the SBML community. The goal is to strengthen the SBGN effort and ensure its sustainable development by engaging experts that design the needed tools and practices.
+The SBGN Team supports the SBGN community activities and the work of the elected SBGN editors. Members of the team are responsible for developing and maintaining SBGN infrastructure and tools. Particular tasks include supporting the SBGN website and LibSBGN libraries. The SBGN Team was created in 2018 as an initiative from the SBGN editors following the example of the SBML community. The goal is to strengthen the SBGN effort and ensure its sustainable development by engaging experts that design the needed tools and practices. We encourage experts in other standards to participate so the SBGN development is enhanced by advances in related efforts.
 
 <table>
 <tr>
