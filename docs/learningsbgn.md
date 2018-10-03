@@ -56,7 +56,7 @@ example
 
 ![iNOS](/sbgn/images/learning/iNOS_SBGN-ED.png)
 
-**Downloads:** &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED.svg) &ensp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/sbgn/images/learning/iNOS_SBGN-ED.sbgn)
+**Downloads:** &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED.svg) &ensp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.org/images/learning/iNOS_SBGN-ED.sbgn)
 
 <a href="http://web.newteditor.org/?URL=http://github.com/sbgn/sbgn/blob/gh-pages/images/learning/iNOS_SBGN-ED.sbgn" target="_blank">Newt</a>
 
