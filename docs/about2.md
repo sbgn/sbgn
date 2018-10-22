@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about3
+permalink: /about2
 ---
 
 # About
