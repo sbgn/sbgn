@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about3
+permalink: /about2
 ---
 
 # About
@@ -31,7 +31,7 @@ For general discussions about SBGN please join the [sbgn-discuss mailing list](h
 
 The SBGN editors work towards distilling discussions and requests into coherent specification documents, addressing comments and questions, correcting errata, and generally managing revisions to the SBGN specifications.
 The editors do not decide what to put in the specifications — they are the voice and the hand of the community.
-The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. An serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
+The SBGN editors are elected by the community for 3-year terms as volunteers. There is no limit on the number of terms one can serve as an editor. A serving editor, however, cannot stand for election thereby forcing a gap year between two successive terms.
 
 <table>
     <tr>
@@ -52,7 +52,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
     </tr>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" alt="Adrien Rougny" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020, PhD in Computer Science, Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Leader of the ongoing work of preparing the next version of the SBGN Process Description specification.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX. Interested in a direct formalization of SBGN maps into qualitative dynamical models. Leading editor of the upcoming SBGN Process Description specification.</td>
     </tr>
 </table>
 
@@ -62,7 +62,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 
 ## SBGN Delegate at COMBINE
 
-The SBGN standard is a part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The process by which members of the COMBINE Coordination Board are appointed is [described here](https://co.mbine.org/coordinators). The current representative from the SBGN standard:
+The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The process by which members of the COMBINE Coordination Board are appointed is [described here](https://co.mbine.org/coordinators). The current representative from the SBGN standard:
 
 <table>
     <tr>
