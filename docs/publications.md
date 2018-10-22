@@ -25,11 +25,3 @@ This page lists the main SBGN publications. If you want to cite SBGN, please use
     - [Citations PubMed](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed_citedin&from_uid=22581176)
     
 
-### Outreach documents
-This section links to a generic abstract and poster about SBGN for outreach purposes.
-
-* Abstract: [available here](abstract).
-* Poster:
-	- [PDF version](/sbgn/images/outreach/SBGN_poster.pdf)
-	- [PPT version](/sbgn/images/outreach/SBGN_poster.pptx).
-
