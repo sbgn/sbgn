@@ -103,6 +103,8 @@ Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a 
 
 The SBGN Team includes experts who actively work on developing and maintaining SBGN tools. Particular tasks include supporting the SBGN website and LibSBGN libraries. We encourage experts in related standards to participate, so advances in complementary efforts enhance the SBGN development.
 
+The SBGN Team was created in 2018 as an initiative of the SBGN editors. The goal is to make the SBGN effort stronger and ensure its sustainable development.
+
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
