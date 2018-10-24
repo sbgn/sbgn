@@ -106,14 +106,14 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-borlinghaus.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-balaur.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-bergmann.jpg" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Hanna Borlinghaus</strong>, <font size="2">University of Konstanz, Germany.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Irina Balaur</strong>, <font size="2">European Institute for Systems Biology and Medicine, France. Lead developer of <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a>, a bidirectional converter between yEd GraphML and SBGN-ML.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Frank Bergmann</strong>, <font size="2">PhD in Mathematics / Computational Systems Biology, Member of Scientific Staff at University of Heidelberg, Germany. Developer of LibSBGN.</font></p></td>
 </tr>
 </table>  
 
