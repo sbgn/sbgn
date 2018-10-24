@@ -111,9 +111,9 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 <td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Hanna Borlinghaus</strong>, Text</p></td>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Irina Balaur</strong>, Text</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Hanna Borlinghaus</strong>, Text</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Irina Balaur</strong>, Text</p></td>
 </tr>
 </table>  
 
@@ -124,9 +124,9 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 <td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Emek Demir</strong>, Text</p></td>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Adrien Rougny</strong>, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX.</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Emek Demir</strong>, Text</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Adrien Rougny</strong>, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX.</p></td>
 </tr>
 </table>  
 
@@ -137,11 +137,13 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 <td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
-<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 200px; text-align:left vertical-align:top;;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
+<td style="width: 200px; text-align:left vertical-align:top;;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
 </tr>
 </table>  
+
+<td style="text-align:left; vertical-align:top; padding-left:1em;">
 
 ## Funding
 
