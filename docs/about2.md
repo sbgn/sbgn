@@ -101,7 +101,7 @@ Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a 
 
 ## SBGN Team
 
-The SBGN Team includes experts who actively work on developing and maintaining SBGN tools. Particular tasks include supporting the SBGN website and LibSBGN libraries. The SBGN Team was created as an initiative of the SBGN editors, following the example of the SBML community. The goal is to make the SBGN effort stronger and ensure its sustainable development. We encourage experts in related standards to participate, so the SBGN development  is enhanced by advances in complementary efforts.
+The members of the SBGN Team develop and maintain the SBGN infrastructure, libraries and tools. The team is created as an initiative of the SBGN editors, following the example of the SBML community. The goal is to make the SBGN effort stronger and ensure its sustainable development. We encourage experts in related standards to participate, so the SBGN development is enhanced by advances in complementary efforts.
 
 
 <table>
@@ -111,7 +111,33 @@ The SBGN Team includes experts who actively work on developing and maintaining S
 <td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 <tr>
+<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
+<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Hanna Borlinghaus</strong>, Text</p></td>
+<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Irina Balaur</strong>, Text</p></td>
+</tr>
+</table>  
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.jpg" width="100"/></p></td>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Emek Demir</strong>, Text</p></td>
 <td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
+<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Adrien Rougny</strong>, Text</p></td>
+</tr>
+</table>  
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
 <td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
 <td style="width: 200px; text-align:left;"><p style="margin:2px;"><strong>Vasundra Touré</strong>, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</p></td>
 </tr>
