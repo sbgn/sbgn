@@ -106,9 +106,9 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Frank Bergmann</strong>, Text</p></td>
@@ -119,9 +119,9 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.png" width="100"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Emek Demir</strong>, Text</p></td>
@@ -137,9 +137,9 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Frank Bergmann</strong><br /><font size="1">Text</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="1">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="1">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Frank Bergmann</strong><br /><font size="2">Text</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 </tr>
 </table>  
 
