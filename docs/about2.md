@@ -113,7 +113,7 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Frank Bergmann</strong>, <font size="2">Text</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong><br /><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong><br /><br /><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 </tr>
 </table>  
 
