@@ -120,15 +120,17 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway. Lead developer of the <a href="https://doi.org/10.1186/s12859-016-1394-x" target="_blank">STON</a> tool for the conversion of the SBGN Process Description and Activity Flow to the Neo4j Graph Database environment.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Adrien Rougny</strong>, <font size="2">PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:130%;"><strong>Emek Demir</strong>, <font size="2">PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA. Lead developer of the BioPAX standard.</font></p></td>
 </tr>
 </table>  
+
+Adrien Rougny, elected for 2018 - 2020, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the sbgntikz library for drawing SBGN maps directly in LaTeX.
 
 <table>
 <tr>
