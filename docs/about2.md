@@ -132,18 +132,16 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Frank Bergmann</strong><br /><font size="2">Text</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Frank Bergmann</strong><br /><font size="3">Text</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="3">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="margin:2px;"><strong>Vasundra Touré</strong><br /><font size="3">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 </tr>
 </table>  
-    
-    <font size="2">Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany</font>
 
 ## Funding
 
