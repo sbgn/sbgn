@@ -130,10 +130,6 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 </tr>
 </table>  
 
-
-
-Adrien Rougny, elected for 2018 - 2020, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the sbgntikz library for drawing SBGN maps directly in LaTeX.
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
