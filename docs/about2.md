@@ -104,18 +104,6 @@ Kurt Kohn was an invited member between 2009 and 2010. Nicolas Le Novère was a 
 The members of the SBGN Team develop and maintain the SBGN infrastructure, libraries and tools. The team is created as an initiative of the SBGN editors, following the example of the SBML community. The goal is to make the SBGN effort stronger and ensure its sustainable development. We encourage experts in related standards to participate, so the SBGN development is enhanced by advances in complementary efforts.
 
 
-<table>
-<tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-</tr>
-<tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p><strong>Frank Bergmann</strong></p><p style="line-height:130%;"><font size="2">Text</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p"><strong>Vasundra Touré</strong></p><p style="line-height:130%;"><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p"><strong>Vasundra Touré</strong></p><p style="line-height:130%;"><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-</tr>
-</table>   
 
 <table>
 <tr>
@@ -125,8 +113,8 @@ The members of the SBGN Team develop and maintain the SBGN infrastructure, libra
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p><strong>Frank Bergmann</strong></p><p style="line-height:130%;"><font size="2">Text</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p"><strong>Vasundra Touré</strong></p><p style="line-height:130%;"><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p"><strong>Vasundra Touré</strong></p><p style="line-height:130%;"><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p><strong>Vasundra Touré</strong></p><p style="line-height:130%;"><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p><strong>Vasundra Touré</strong></p><p style="line-height:130%;"><font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 </tr>
 </table>  
 
