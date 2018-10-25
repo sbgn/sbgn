@@ -26,7 +26,7 @@ Regardless of your experience or involvement level, we value your ideas and feed
 
 For reporting issues, suggesting enhancements or requesting features please use the [list of SBGN-related projects](https://github.com/sbgn) and the corresponding issue trackers. For example for the Process Description Specification: [github.com/sbgn/process-descriptions/issues](https://github.com/sbgn/process-descriptions/issues). For the website: [github.com/sbgn/sbgn/issues](https://github.com/sbgn/sbgn/issues).  
 
-For general discussions about SBGN please join the [sbgn-discuss mailing list](https://groups.google.com/forum/#!forum/sbgn-discuss) and bring up your topic there. For specific questions about this website, workshops or other SBGN resource management topics please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com). For tool-specific questions please contact the [SBGN Team](mailto:sbgn-team@googlegroups.com). [SBGN meetings and workshops](events) provide the best environment for learning about the process and for getting involved.  
+For general discussions about SBGN, please join the [sbgn-discuss mailing list](https://groups.google.com/forum/#!forum/sbgn-discuss) and bring up your topic there. For specific questions about this website, workshops or other SBGN resource management topics, please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com). For tool-specific questions, please contact the [SBGN Team](mailto:sbgn-team@googlegroups.com). [SBGN meetings and workshops](events) provide the best environment for learning about the process and for getting involved.  
 
 ## SBGN Editors
 
@@ -89,7 +89,7 @@ Falk Schreiber (Sep 2008 - Dec 2010, Jan 2012 - Dec 2014).
 
 The duties of the SBGN Scientific Committee are to help securing the financial support for SBGN development, to advocate the use of the language in their community, and to check that the development of SBGN is harmonious and democratic. The scientific committee does not have any decision-making power on the content of SBGN, although its advices presumably weight much in the decisions taken by the community.
 
-Principal investigators of grants supporting SBGN development and maintenance are entitled to become members. Other memberships are proposed by the running Scientific Committee and the Editorial Board. Invited members may be pioneers or major players in the field of graphical representation of knowledge, or leading figures in fields that may endorse SBGN. New memberships require unanimity of expressed opinions from current members. The terms of invited members are yearly, renewable without restriction. Renewal must be proposed and seconded by existing members of scientific committee. The current members of the SBGN Scientific Committee:
+Principal investigators of grants supporting SBGN development and maintenance are entitled to become members. Other memberships are proposed by the running Scientific Committee and the Editorial Board. Invited members may be pioneers or major players in the field of graphical representation of knowledge, or leading figures in fields that may endorse SBGN. New memberships require unanimity of expressed opinions from current members. The terms of invited members are yearly, renewable without restriction. Renewal must be proposed and seconded by existing members of the scientific committee. The current members of the SBGN Scientific Committee:
 
 * <strong>Igor Goryanin</strong>, SBGN PI, joined in 2009.
 * <strong>Hiroaki Kitano</strong>, SBGN PI, joined in 2009.
@@ -145,7 +145,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 ## Funding
 
-We are deeply indebted to the many funding agencies and organizations that have supported SBGN over the years. 
+We are deeply indebted to the many funding agencies and organisations that have supported SBGN over the years. 
 
 The development of SBGN during 2005–2008 was mainly supported by a grant from the Japanese [New Energy and Industrial Technology Development Organization](http://www.nedo.go.jp/) (NEDO). The principal investigators were Hiroaki Kitano, Akira Funahashi, Nicolas Le Novère and Michael Hucka.
 
