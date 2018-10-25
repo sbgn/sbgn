@@ -12,6 +12,7 @@ permalink: /about2
 *  [SBGN Delegate at COMBINE](#sbgn-delegate-at-combine)
 *  [Former SBGN Editors](#former-sbgn-editors)
 *  [SBGN Scientific Committee](#sbgn-scientific-committee)
+*  [SBGN Team](#sbgn-team)
 *  [Funding](#funding)
 *  [Ownership](#ownership)
 
