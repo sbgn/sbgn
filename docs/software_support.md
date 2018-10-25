@@ -56,7 +56,7 @@ PD – Process Description, ER – Entity Relationship, AF – Activity Flow
 SBGN-ML - Load SBGN maps from SBGN-ML format and/or save SBGN maps to SBGN-ML format (see also [File Formats](#file-formats))  
 "+" supported, "-" not supported
 
-### Databases
+## Databases
 
 The following is a list of databases known to provide SBGN maps. The links to the databases were correct at the time of recording.
 
