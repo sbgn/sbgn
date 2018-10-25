@@ -153,4 +153,4 @@ The [Okinawa Institute of Science and Technology](http://www.oist.jp/) (OIST), t
 
 ## Ownership
 
-No one — not the principal investigators, nor the SBGN Editors, nor the members of the SBGN Scientific Committee, nor the funding agencies or anyone else — owns SBGN; it is a free and open community effort that extends beyond any single group, and we view ourselves only as organizers and fellow developers.
+No one — not the principal investigators, nor the SBGN Editors, nor the members of the SBGN Scientific Committee, nor the funding agencies or anyone else — owns SBGN; it is a free and open community effort that extends beyond any single group, and we view ourselves only as organisers and fellow developers.
