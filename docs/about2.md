@@ -106,9 +106,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-bergmann.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-balaur.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-borlinghaus.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-bergmann.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-balaur.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-borlinghaus.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Frank Bergmann</strong>, <font size="2">PhD in Mathematics / Computational Systems Biology, Member of Scientific Staff at the University of Heidelberg, Germany. A member of the SBML Team, works on several SBML projects. A developer of <a href="https://github.com/sbgn/libsbgn" target="_blank">LibSBGN</a>.</font></p></td>
@@ -119,9 +119,9 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="100"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.jpg" width="100"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Emek Demir</strong>, <font size="2">PhD in Computer Engineering, Assistant Professor at the Oregon Health & Science University, Portland, USA. A member of the Pathway Commons team and is responsible for the <a href="http://www.biopax.org/" target="_blank">BioPAX</a> development and integration. An editor of the BioPAX standard. Interested in the SBGN-BioPAX conversion.</font></p></td>
