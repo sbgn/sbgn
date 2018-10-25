@@ -138,7 +138,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein</strong>, <font size="2">PhD in Bioinformatics / Systems Biology, Senior Researcher at the European Institute for Systems Biology and Medicine, France. Co-developer of the <a href="https://sbgnbricks.org/" target="_blank">SBGN Bricks</a>.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Andreas Dräger</strong>, <font size="2">PhD in Bioinformatics and Systems Biology, Junior Professor at the Tübingen Center for Bioinformatics, Tübingen, Germany. Responsible for the further development of the <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon4SBGN</a> editor.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Andreas Dräger</strong>, <font size="2">PhD in Bioinformatics and Systems Biology, Junior Professor at the Tübingen Center for Bioinformatics, Tübingen, Germany. A member of the SBML Team. Responsible for the further development of the <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon4SBGN</a> editor.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Ugur Dogrusoz</strong>, <font size="2">PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab. PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, the development of an open-source online SBGN editor and visualiser.</font></p></td>
 </tr>
 </table>    
