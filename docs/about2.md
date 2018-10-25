@@ -26,7 +26,7 @@ Regardless of your experience or involvement level, we value your ideas and feed
 
 For reporting issues, suggesting enhancements or requesting features please use the [list of SBGN-related projects](https://github.com/sbgn) and the corresponding issue trackers. For example for the Process Description Specification: [github.com/sbgn/process-descriptions/issues](https://github.com/sbgn/process-descriptions/issues). For the website: [github.com/sbgn/sbgn/issues](https://github.com/sbgn/sbgn/issues).  
 
-For general discussions about SBGN please join the [sbgn-discuss mailing list](https://groups.google.com/forum/#!forum/sbgn-discuss) and bring up your topic there. For specific questions about this website, workshops or other SBGN resource management topics please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com). [SBGN meetings and workshops](events) provide the best environment for learning about the process and for getting involved.  
+For general discussions about SBGN please join the [sbgn-discuss mailing list](https://groups.google.com/forum/#!forum/sbgn-discuss) and bring up your topic there. For specific questions about this website, workshops or other SBGN resource management topics please send a message to the [sbgn-editors mailing list](mailto:sbgn-editors@googlegroups.com). For tool-specific questions please contact the [SBGN Team](mailto:sbgn-team@googlegroups.com). [SBGN meetings and workshops](events) provide the best environment for learning about the process and for getting involved.  
 
 ## SBGN Editors
 
