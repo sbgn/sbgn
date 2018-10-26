@@ -6,7 +6,7 @@ permalink: /publications
 
 # Publications
 
-This page lists the main SBGN publications. If you want to cite SBGN, please use one of the following publications.
+This page lists the main SBGN publications. To cite SBGN, please use one of the following publications.
 
 Nicolas Le Novère,  Michael Hucka, Huaiyu Mi, Stuart Moodie, Falk Schreiber, Anatoly Sorokin, Emek Demir et al. [The Systems Biology Graphical Notation](http://www.nature.com/nbt/journal/v27/n8/full/nbt.1558.html) *Nature Biotechnology*, 27(8):735-741, 2009
  - [Citations CrossRef](http://www.nature.com/cited/cited.html?doi=10.1038/nbt.1558)
