@@ -40,7 +40,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France; a leader of the <a href="http://disease-maps.org/" target="_blank">Disease Maps Project</a>, a community effort for a high-quality computational description of disease mechanisms.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.jpg" alt="Ugur Dogrusoz" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2016 - 2019, PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Labp; the PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, the development of an open-source online SBGN editor and visualiser.</td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" width="110"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.png" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.jpg" width="110"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein</strong>, <font size="2">PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, France; the coordinator of the <a href="https://sbgnbricks.org/" target="_blank">SBGN Bricks</a> project.</font></p></td>
