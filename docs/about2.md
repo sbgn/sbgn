@@ -115,9 +115,8 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Irina Balaur</strong>, <font size="2">PhD in Computational Biology, Researcher at the European Institute for Systems Biology and Medicine, France; lead developer of <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a>, a bidirectional converter between yEd GraphML and SBGN-ML.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Hanna Borlinghaus</strong>, <font size="2">MSc Student, Research Assistant at the University of Konstanz, Germany; a member of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> development team.</font></p></td>
 </tr>
-</table>  
 
-<table>
+
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-demir.jpg" width="110"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-toure.jpg" width="110"/></p></td>
@@ -128,9 +127,8 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Vasundra Touré</strong>, <font size="2">MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway; lead developer of the <a href="https://doi.org/10.1186/s12859-016-1394-x" target="_blank">STON</a> tool for the conversion of the SBGN Process Description and Activity Flow to the Neo4j Graph Database environment.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Adrien Rougny</strong>, <font size="2">PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan; the developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX.</font></p></td>
 </tr>
-</table>  
 
-<table>
+
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" width="110"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.jpg" width="110"/></p></td>
@@ -141,6 +139,8 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Andreas Dräger</strong>, <font size="2">PhD in Bioinformatics and Systems Biology, Junior Professor at the Center for Bioinformatics Tübingen (ZBIT), Tübingen, Germany; a member of the SBML Team; responsible for the further development of the <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon4SBGN</a> editor.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Ugur Dogrusoz</strong>, <font size="2">PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab; the PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, the development of an open-source online SBGN editor and visualiser.</font></p></td>
 </tr>
+
+
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-luna.png" width="110"/></p></td>
 <td style="width: 200px;"> </td>
