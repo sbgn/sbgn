@@ -141,9 +141,6 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Andreas Dräger</strong>, <font size="2">PhD in Bioinformatics and Systems Biology, Junior Professor at the Center for Bioinformatics Tübingen (ZBIT), Tübingen, Germany; a member of the SBML Team; responsible for the further development of the <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon4SBGN</a> editor.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Ugur Dogrusoz</strong>, <font size="2">PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab; the PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, the development of an open-source online SBGN editor and visualiser.</font></p></td>
 </tr>
-</table>    
-
-<table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-luna.png" width="110"/></p></td>
 <td style="width: 200px;"> </td>
