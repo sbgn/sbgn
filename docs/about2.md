@@ -146,13 +146,13 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"> </p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"> </p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Augustin Luna</strong>, <font size="2">PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US; interested in the SBGN-to-BioPAX conversion.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"> </td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"> </td>
+<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
+<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>    
 
