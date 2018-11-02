@@ -48,7 +48,7 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Vasundra Touré</strong>, elected for 2018 - 2020, MSc in Bioinformatics, PhD Student at the Norwegian University of Science and Technology, Trondheim, Norway; the lead developer of the <a href="https://doi.org/10.1186/s12859-016-1394-x" target="_blank">STON</a> tool for the conversion of the SBGN Process Description and Activity Flow to the Neo4j Graph Database environment.</td>
     </tr>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.jpg" alt="Andreas Dräger" width="100"/></td>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-draeger.png" alt="Andreas Dräger" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Andreas Dräger</strong>, elected for 2018 - 2020, PhD in Bioinformatics and Systems Biology, Junior Professor at the Center for Bioinformatics Tübingen (ZBIT), Tübingen, Germany; co-developer of JSBML; elected SBML editor for 2015 – 2017.</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" width="110"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-drager.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-draeger.png" width="110"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.jpg" width="110"/></p></td>
 </tr>
 <tr>
