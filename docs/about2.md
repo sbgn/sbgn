@@ -113,7 +113,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Frank Bergmann</strong>, <font size="2">PhD in Mathematics / Computational Systems Biology, Member of Scientific Staff at the University of Heidelberg, Germany; a member of the SBML Team and a contributor to several SBML projects; a developer of <a href="https://github.com/sbgn/libsbgn" target="_blank">LibSBGN</a>.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Irina Balaur</strong>, <font size="2">PhD in Computational Biology, Researcher at the European Institute for Systems Biology and Medicine, France; lead developer of <a href="https://github.com/sbgn/ySBGN" target="_blank">ySBGN</a>, a bidirectional converter between yEd GraphML and SBGN-ML.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Hanna Borlinghaus</strong>, <font size="2">MSc Student, Research Assistant at the University of Konstanz, Germany; a member of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> development team.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Hanna Borlinghaus</strong>, <font size="2">PhD Student, Research Assistant at the University of Konstanz, Germany; a member of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> development team.</font></p></td>
 </tr>
 
 
