@@ -12,9 +12,9 @@ This website is a [GitHub Pages Jekyll-based website](https://jekyllrb.com/docs/
 
 Contributions and changes can be made in several ways:
 
-1) downloading files using Git and pushed back to this repository directly or via pull requests. Please get in contact with one of the SBGN editors if you need commit permissions;
-1) through the online GitHub Editor by clicking the Edit menu on any .md file;
-1) submitting an issue on our [issue tracker](https://github.com/sbgn/sbgn/issues).
+1. Downloading files using Git and pushed back to this repository directly or via pull requests. Please get in contact with one of the SBGN editors if you need commit permissions
+1. Through the online GitHub Editor by clicking the Edit menu on any .md file
+1. Submitting an issue on our [issue tracker](https://github.com/sbgn/sbgn/issues)
 
 # Website Structure
 ## Menu Items 
