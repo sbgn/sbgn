@@ -5,7 +5,7 @@
   <a href="http://co.mbine.org/events/COMBINE_2018" target="_blank">COMBINE 2018</a> will take place in Boston, MA USA, 8-12 October 2018 at the Rajen Kilachand Center for Integrated Life Sciences and Engineering at Boston University.</p>-->
 
 ## Upcoming events 
-[COMBINE 2018](http://co.mbine.org/events/COMBINE_2018) will take place in Boston, MA USA, 8-12 October 2018 at Boston University, Rajen Kilachand Center for Integrated Life Sciences and Engineering.
+[HARMONY 2019](http://co.mbine.org/events/HARMONY_2019) will take place in Pasadena, CA 91125, USA, 25-29 March 2019 at the Annenberg Center for Information Science and Technology of Caltech's Department of Computing and Mathematical Sciences.
 
 ## Published map highlight
 
