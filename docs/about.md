@@ -150,8 +150,7 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Augustin Luna</strong>, <font size="2">PhD in Bioinformatics; Research Fellow at the Dana-Farber Cancer Institute, Harvard Medical School, Boston, US; interested in the SBGN-BioPAX conversion.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Falk Schreiber</strong>, <font size="2">PhD in Computer Science, Professor of Practical Computer Science and Computational Life Sciences in the Department of Computer and Information Science at the University of Konstanz, Germany; PI of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> tool development.</font></p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Tobias Czauderna</strong>, <font size="2">PhD in Bioinformatics, Research Fellow at the Monash University, Melbourne, Australia; lead developer of the <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a>.</font></p></td>
-</tr>
-</table>    
+</tr>  
 
 
 <tr>
