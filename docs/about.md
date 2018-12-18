@@ -153,6 +153,19 @@ The SBGN Team is created as an initiative of the SBGN editors, following the exa
 </tr>
 </table>    
 
+
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-blinov.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"> </p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"> </p></td>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Michael Blinov</strong>, <font size="2">PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; developer of <a href="http://vcell.org/" target="_blank">VCell</a> modelling framework working on the integration of BioPAX and SBGN formats in the modelling; interested in the development of SBGN-compliant rule-based visualisation.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"> </p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"> </p></td>
+</tr>
+</table>    
+
 ## Funding
 
 We are deeply indebted to the many funding agencies and organizations that have supported SBGN over the years. 
