@@ -36,10 +36,6 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 
 <table>
     <tr>
-        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-mazein.png" alt="Alexander Mazein" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Alexander Mazein</strong>, elected for 2015 - 2018, PhD in Bioinformatics, Senior Researcher at the European Institute for Systems Biology and Medicine, Lyon, France. Leader of the <a href="http://disease-maps.org/" target="_blank">Disease Maps Project</a>, a community effort for a high-quality computational description of disease mechanisms.</td>
-    </tr>
-    <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-dogrusoz.png" alt="Ugur Dogrusoz" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Ugur Dogrusoz</strong>, elected for 2016 - 2019, PhD in Computer Science, Professor at Bilkent University, Ankara, Turkey, and Head of i-Vis Research Lab. PI of the <a href="http://newteditor.org/" target="_blank">Newt Editor</a> project, the development of an open-source online SBGN editor and visualiser.</td>
     </tr>
@@ -74,6 +70,7 @@ The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effor
 
 ## Former SBGN Editors
 
+Alexander Mazein (Dec 2015 - Dec 2018), 
 Augustin Luna (Dec 2014 - Dec 2017), 
 Robin Haw (Dec 2014 - Dec 2017), 
 Tobias Czauderna (Jan 2012 - Dec 2015, Dec 2016 - Dec 2017), 
