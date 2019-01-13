@@ -51,6 +51,10 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-rougny.jpg" alt="Adrien Rougny" width="100"/></td>
         <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Adrien Rougny</strong>, elected for 2018 - 2020, PhD in Computer Science, Postdoctoral Researcher at the National Institute of Advanced Industrial Science and Technology, Tokyo, Japan. Developer of the <a href="https://github.com/Adrienrougny/sbgntikz" target="_blank">sbgntikz</a> library for drawing SBGN maps directly in LaTeX. Interested in a direct formalization of SBGN maps into qualitative dynamical models. Leading editor of the upcoming SBGN Process Description specification.</td>
     </tr>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-blinov.jpg" alt="Michael Blinov" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Michael Blinov</strong>, elected for 2019 - 2021, PhD in Mathematics, Assistant Professor at UConn School of Medicine, Farmington, US; one of the developers of a rule-based approach for modeling of bimolecular interactions; working on SBGN-compliant rule-based visualization in VCell [VCell](http://vcell.org); as an editor, interested to work toward compliance of SBGN with other COMBINE standards, such as various packages of SBML and BioPAX.</td>
+    </tr>
 </table>
 
 ## SBGN Acting Editors
