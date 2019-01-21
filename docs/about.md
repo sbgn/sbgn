@@ -61,6 +61,14 @@ The SBGN editors are elected by the community for 3-year terms as volunteers. Th
 
 Acting Editors are selected among active contributors and are appointed by the elected SBGN Editors. Acting Editors work on particular tasks for intensifying the development of the standard.
 
+<table>
+    <tr>
+        <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, invited as Acting Editor in January 2019, PhD in Computational Biology; member of the SBGN Team; focused on developing diagrams for the Process Description specification.</td>
+    </tr>
+</table>
+
+
 ## SBGN Delegate at COMBINE
 
 The SBGN standard is part of the [COMBINE](https://co.mbine.org/standards) effort. Each COMBINE standard is represented by a delegate who joins the [COMBINE Coordination Board](https://co.mbine.org/about). This delegate can be an editor of the SBGN standard or someone endorsed by the editors. The process by which members of the COMBINE Coordination Board are appointed is [described here](https://co.mbine.org/coordinators). The current representative from the SBGN standard:
