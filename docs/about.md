@@ -64,7 +64,7 @@ Acting Editors are selected among active contributors and are appointed by the e
 <table>
     <tr>
         <td style="width:105px; text-align:left;"><img src="https://sbgn.github.io/sbgn/images/about/photo-balaur.jpg" alt="Irina Balaur" width="100"/></td>
-        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, invited as an Acting Editor in January 2019, PhD in Computational Biology; a member of the SBGN Team; focused on developing diagrams for the Process Description specification.</td>
+        <td style="text-align:left; vertical-align:top; padding-left:1em;"><strong>Irina Balaur</strong>, invited as an Acting Editor in January 2019, PhD in Computational Biology; a member of the SBGN Team; contributes to the work on the Process Description specification.</td>
     </tr>
 </table>
 
