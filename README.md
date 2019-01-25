@@ -19,10 +19,13 @@ Contributions and changes can be made in several ways:
 # Website Structure
 ## Menu Items 
 
-Most menu items are stored in  
+Menu items
+https://github.com/sbgn/sbgn/blob/gh-pages/_includes/header.html
+
+Earlier menu items are stored in  
 https://github.com/sbgn/sbgn/blob/gh-pages/_data/menu.yml
 
-and rendered by the template  
+Rendered by the template  
 https://github.com/sbgn/sbgn/blob/gh-pages/_includes/header.html
 
 ## Pages
