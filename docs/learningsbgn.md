@@ -33,7 +33,7 @@ permalink: /learningsbgn
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/images/learning/glucose.png"/> <br /> 
           <a href="/sbgn/images/learning/glucose.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/sbgn/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/sbgn/tree/gh-pages/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"> </td>
     </tr>
 </table>
@@ -72,7 +72,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 <table style="font-size:100%;">
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
-          <a href="/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">SBGN-ML</a> &ensp; 
+          <a href="/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecules</i>.</td>
     </tr>
