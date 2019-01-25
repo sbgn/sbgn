@@ -33,7 +33,9 @@ example
 
 ## SBGN PD Bricks
 
-<p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at the <a href="/sbgn/sbgnbricks">SBGN briks</a> page.</p>
+<p>The SBGN Bricks present a tamplate-based approach that makes it simpler to learn and to start applying the standard without necesserily being familiar with all the specifications. Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at the <a href="https://sbgnbricks.org/pd/">SBGN Briks website</a>.</p>
+
+The example bricks are developed using <a href="https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/">SBGN-ED</a> add-on of <a href="https://www.cls.uni-konstanz.de/software/vanted/">VANTED</a> editor. All the bricks are available for downloading in SBGN-ML format and can be opened online in <a href="http://newteditor.org/">Newt</a> editor.
 
 ### Metabolic processes
 
