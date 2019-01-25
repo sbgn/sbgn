@@ -14,7 +14,7 @@ permalink: /learningsbgn
 
 ![Representations](/sbgn/images/learning/lenovere_representations.png)
 
-<p>In the figure the same biological system is shown in different representations depending on the concepts used to describe it (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In Process Description ELK1 shown in three differents states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
+<p>In the figure, the same biological system is shown in different representations depending on the concepts used to describe this system (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In the Process Description, ELK1 shown in three different states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
 <p>Next, to avoid any confusion, we concentrate only on the Process Description (PD) language.</p>
 
