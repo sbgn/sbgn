@@ -33,7 +33,7 @@ permalink: /learningsbgn
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/images/learning/glucose.png"/> <br /> 
           <a href="/sbgn/images/learning/glucose.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.org/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"> </td>
     </tr>
 </table>
