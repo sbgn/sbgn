@@ -139,7 +139,7 @@ The [Templates](templates) page offers reference cards in various formats.
 
 ## Additional materials
 
-For more advanced questions please use <a href="/sbgn/faqs">FAQ</a>, in particular <a href="/sbgn/faq/pd">FAQ Process Description</a>.</p>
+For more advanced questions please use <a href="/sbgn/faqs">FAQ</a>, in particular <a href="/sbgn/faq/pd">FAQ Process Description</a>.
 
 -----
 
