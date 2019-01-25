@@ -38,7 +38,7 @@ This page offers a brief introduction to the SBGN, and, in particular, to the Pr
     </tr>
 </table>
 
-<p>The above example shows the phosphorylation of glucose by hexokinase. The process consumes glucose and ATP to produce glucose-6P and ADP. Glucose and ATP are linked to the process by <i>consumption arcs</i>; glucose-6P and ADP by <i>production arcs</i>; and the hexokinase by <i>catalysis arcs</i>.</p>
+<p>The above example shows the phosphorylation of glucose by hexokinase. The process consumes glucose and ATP to produce glucose-6P and ADP. Glucose and ATP are linked to the process by <i>consumption arcs</i>; glucose-6P and ADP by <i>production arcs</i>; and the hexokinase by a <i>catalysis arc</i>.</p>
 
 ## SBGN PD Bricks
 
