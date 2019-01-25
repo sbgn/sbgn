@@ -6,7 +6,7 @@ permalink: /learningsbgn
 
 # Learning SBGN
 
-<p>This page offers a brief introduction to the SBGN, and, in particular, to the Process Description language as the currently most used language of the SBGN standard. Redrawing a small example diagram will help with a quick start, and the SBGN dictionary will help to align biological concepts with their graphical expressions.</p>
+<p>This page offers a brief introduction to the SBGN, and, in particular, to the Process Description language as the currently most used language of the SBGN standard. Redrawing a small example diagram will help with a quick start, and examples of the SBGN Bricks will help to align biological concepts with their graphical expressions.</p>
   
 ## The three languages of SBGN
 
@@ -31,7 +31,7 @@ permalink: /learningsbgn
 <!--![example](/sbgn/images/learning/PD_catalysis_example.png){: .left-image width="200px"}-->
 example
 
-## SBGN PD dictionary
+## SBGN PD Bricks
 
 <p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at the <a href="/sbgn/sbgnbricks">SBGN briks</a> page.</p>
 
