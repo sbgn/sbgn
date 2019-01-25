@@ -60,6 +60,8 @@ The example bricks are developed using <a href="https://immersive-analytics.info
     </tr>
 </table>
 
+<br />
+
 ### Signalling processes
 
 <table style="font-size:100%;">
