@@ -127,7 +127,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 ## Tutorials
 
-Tutorial materials can be found at our [Education Resource repository](https://github.com/sbgn/educational-resources).
+Tutorial materials can be found at our [Education Resource](https://github.com/sbgn/educational-resources) repository.
 
 ## Examples
 
