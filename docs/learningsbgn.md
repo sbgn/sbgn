@@ -35,6 +35,8 @@ example
 
 <p>Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>). An extended collection of PD patterns is available at the <a href="/sbgn/sbgnbricks">SBGN briks</a> page.</p>
 
+### Metabolic processes
+
 <table style="font-size:100%;">
     <tr>
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_1_1.png"/> <br /> 
@@ -43,17 +45,22 @@ example
       <td style="text-align:left;"><strong>Catalysis: irreversible reacton.</strong> The enzyme catalyses an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a <i>macromolecule</i> connected to the <i>process</i> glyph by a <i>catalysis</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</td>
     </tr>
     <tr>
-    <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
-          <a href="/sbgn/downloads/bricks/PD_inhibition.sbgn">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.</td>
-    </tr>
-    <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_catalysis_irr_2_2.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_catalysis_irr_2_2.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_catalysis_irr_2_2.sbgn" target="_blank">Newt</a></td>
       <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
     </tr>
+    <tr>
+    <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
+          <a href="/sbgn/downloads/bricks/PD_inhibition.sbgn">SBGN-ML</a> &ensp; 
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
+      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.</td>
+    </tr>
+</table>
+
+### Signalling processes
+
+<table style="font-size:100%;">
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_phosphorylation_simple.sbgn" target="_blank">SBGN-ML</a> &ensp; 
