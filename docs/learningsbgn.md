@@ -96,7 +96,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 <p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used. In GraphML format the diagram can be developed in <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a> (desktop application) that since version 3.17.1 provides a palette section for SBGN.</p>
 
-<p>To build the diagram and generate SBGN-ML file, a dedicated software should be used, for example <a href="http://newteditor.org/" target="_blank">Newt</a> (online editor) or <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> add-on for VANTED (desktop application).</p>
+<p>To build the diagram and generate SBGN-ML file, a dedicated software should be used, for example <a href="http://newteditor.org/" target="_blank">Newt</a> (online editor) or <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> add-on for VANTED (desktop application). The SBGN Validation Tool can be used to verify the quality of your diagram in VANTED (Tools tab of the SBGN-ED add-on).</p>
 
 ## Tips for creating diagrams in SBGN
 
