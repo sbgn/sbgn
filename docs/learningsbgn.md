@@ -152,7 +152,7 @@ For more advanced questions please use <a href="/sbgn/faqs">FAQ</a>, in particul
 
 -----
 
-For questions and comments please contact the SBGN editors team at  
+For questions and comments please contact the SBGN editors at  
 [sbgn-editors@googlegroups.com](mailto:sbgn-editors@googlegroups.com)
 
 
