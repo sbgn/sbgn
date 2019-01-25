@@ -79,8 +79,6 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 <p>An extended collection of the PD patterns is available at the <a href="https://sbgnbricks.org/pd/">SBGN Bricks</a> website.</p>
 
-<br />
-
 ## iNOS pathway example
 
 <p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding elements of the graphical notation.</p>
