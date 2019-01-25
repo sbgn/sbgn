@@ -60,6 +60,8 @@ The example bricks are developed using <a href="https://immersive-analytics.info
     </tr>
 </table>
 
+<br />
+
 <p>An extended collection of PD patterns is available at the <a href="https://sbgnbricks.org/pd/">SBGN Briks website</a>.</p>
 
 <br />
