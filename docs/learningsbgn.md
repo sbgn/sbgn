@@ -6,7 +6,7 @@ permalink: /learningsbgn
 
 # Learning SBGN
 
-<p>This page offers a brief introduction to the SBGN, and, in particular, to the Process Description language as the currently most used language of the SBGN standard. Redrawing a small example diagram will help with a quick start, and examples of the SBGN Bricks will help to align biological concepts with their graphical expressions.</p>
+This page offers a brief introduction to the SBGN, and, in particular, to the Process Description language as the currently most used language of the SBGN standard. Redrawing a small example diagram will help with a quick start, and examples of the SBGN Bricks will help to align biological concepts with their graphical expressions.
   
 ## The three languages of SBGN
 
@@ -38,7 +38,7 @@ permalink: /learningsbgn
     </tr>
 </table>
 
-<p>The above example shows the phosphorylation of glucose by hexokinase, which consumes glucose and ATP to produce glucose-6P and ADP. Glucose and ATP are linked to the process using <i>consumption arcs</i>; glucose-6P and ADP using <i>production arcs</i>; and the hexokinase using <i>catalysis arc</i>.</p>
+<p>The above example shows the phosphorylation of glucose by hexokinase. The process consumes glucose and ATP to produce glucose-6P and ADP. Glucose and ATP are linked to the process by <i>consumption arcs</i>; glucose-6P and ADP by <i>production arcs</i>; and the hexokinase by <i>catalysis arcs</i>.</p>
 
 ## SBGN PD Bricks
 
