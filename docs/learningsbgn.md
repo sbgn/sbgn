@@ -29,7 +29,14 @@ permalink: /learningsbgn
 <p>Reading a PD diagram is much simpler if it is seen as a collection of interconnected processes. Represented in PD, a biological process includes 1) incoming consumption link(s) to the process, 2) production link(s) from the process, and often 3) regulatory link(s) to the process, for example stimulation or inhibition.</p>
 
 <!--![example](/sbgn/images/learning/PD_catalysis_example.png){: .left-image width="200px"}-->
-example
+<table style="font-size:100%;">
+    <tr>
+      <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/images/learning/glucose.png"/> <br /> 
+          <a href="/sbgn/images/learning/glucose.sbgn" target="_blank">SBGN-ML</a> &ensp; 
+          <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/images/learning/glucose.sbgn" target="_blank">Newt</a></td>
+      <td style="text-align:left;"> </td>
+    </tr>
+</table>
 
 ## SBGN PD Bricks
 
