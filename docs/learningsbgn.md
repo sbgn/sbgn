@@ -125,9 +125,21 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 2. Touré et al. Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. PLoS Computat Biol. 2018. <a href="https://dx.doi.org/10.1371/journal.pcbi.1005740">doi:10.1371/journal.pcbi.1005740</a>
 3. Le Novère. Quantitative and logic modelling of molecular and gene networks. Nat Rev Genet. 2015. <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>
 
+## Tutorials
+
+Tutorial materials can be found at our [Education Resource repository](https://github.com/sbgn/educational-resources).
+
+## Examples
+
+The [Examples](examples) page provides a number of SBGN diagrams in three SBGN languages.
+
+## Templates
+
+The [Templates](templates) page offers reference cards in various formats.  
+
 ## Additional materials
 
-<p>Please review <a href="/examples">example diagrams</a> and additional tutorial materials that can be found in the <a href="https://github.com/sbgn/educational-resources">Education Resource</a> repository. For more advanced questions please use <a href="/sbgn/faqs">FAQ</a>, in particular <a href="/sbgn/faq/pd">FAQ Process Description</a>.</p>
+For more advanced questions please use <a href="/sbgn/faqs">FAQ</a>, in particular <a href="/sbgn/faq/pd">FAQ Process Description</a>.</p>
 
 -----
 
