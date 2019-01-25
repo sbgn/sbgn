@@ -60,12 +60,6 @@ The example bricks are developed using <a href="https://immersive-analytics.info
     </tr>
 </table>
 
-<br />
-
-<p>An extended collection of PD patterns is available at the <a href="https://sbgnbricks.org/pd/">SBGN Briks website</a>.</p>
-
-<br />
-
 ### Signalling processes
 
 <table style="font-size:100%;">
@@ -82,6 +76,12 @@ The example bricks are developed using <a href="https://immersive-analytics.info
       <td style="text-align:left;"><strong>Protein phosphorylation (with more details captured).</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variable</i> auxiliary glyphs are used to indicate the phosphorylation state: "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code). Instead of empty state, "@Y701" without "P" can be used to indicate the position. ATP and ADP are represented as <i>simple chemicals</i>.</td>
     </tr>
 </table>
+
+<br />
+
+<p>An extended collection of PD patterns is available at the <a href="https://sbgnbricks.org/pd/">SBGN Briks website</a>.</p>
+
+<br />
 
 ## iNOS pathway example
 
