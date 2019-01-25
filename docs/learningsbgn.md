@@ -14,7 +14,7 @@ permalink: /learningsbgn
 
 ![Representations](/sbgn/images/learning/lenovere_representations.png)
 
-<p>In the figure, the same biological system is shown in different representations depending on the concepts used to describe this system (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In the Process Description, ELK1 shown in three different states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
+<p>In the figure, the same biological system is shown in different representations depending on the concepts used to describe this system (Le Novère, 2015, <a href="https://dx.doi.org/10.1038/nrg3885">doi:10.1038/nrg3885</a>). Note the same set of four proteins in all cases. In the Process Description, ELK1 is shown in three different states, with ELK1 sumoylation (SUMO) and phosphorylation (P) processes.</p>
 
 <p>Next, to avoid any confusion, we concentrate only on the Process Description (PD) language.</p>
 
@@ -38,11 +38,13 @@ permalink: /learningsbgn
     </tr>
 </table>
 
+<p>The above example shows the process of phosphorylation of glucose by hexokinase, which consumes glucose and ATP to produces glucose-6P and ADP. Glucose and ATP are linked to the process using <i>consumption arcs</i>; glucose-6P and ADP using <i>production arcs</i>; and the hexokinase using <i>catalysis arc</i>.</p>
+
 ## SBGN PD Bricks
 
 <p>The <a href="https://sbgnbricks.org/pd/">SBGN Bricks</a> project presents a tamplate-based approach that makes it simpler to learn and start applying the standard without necesserily being familiar with all the specifications. Here are some illustrations of how biological concepts such as metabolic reaction or complex formation can be reflected in the SBGN Process Description language (Junker et al., 2012, <a href="https://dx.doi.org/10.1016/j.tibtech.2012.08.003">doi:10.1016/j.tibtech.2012.08.003</a>).</p>
 
-The example bricks are developed using <a href="https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/">SBGN-ED</a> add-on of <a href="https://www.cls.uni-konstanz.de/software/vanted/">VANTED</a> editor. All the bricks are available for downloading in SBGN-ML format and can be opened online in <a href="http://newteditor.org/">Newt</a> editor. The <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> editor (desktop application) supports the SBGN Bricks and the available templates can be used to design a diagram by adding one brick after another. To download Krayon please use the <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">Releases</a> page.
+The example bricks are developed using the <a href="https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/">SBGN-ED</a> add-on of <a href="https://www.cls.uni-konstanz.de/software/vanted/">VANTED</a> editor. All the bricks are available for downloading in SBGN-ML format and can be opened online in <a href="http://newteditor.org/">Newt</a> editor. The <a href="https://github.com/wiese42/krayon4sbgn" target="_blank">Krayon</a> editor (desktop application) supports the SBGN Bricks and the available templates can be used to design a diagram by adding one brick after another. To download Krayon please use the <a href="https://github.com/wiese42/krayon4sbgn/releases" target="_blank">Releases</a> page.
 
 ### Metabolic processes
 
@@ -96,7 +98,7 @@ The example bricks are developed using <a href="https://immersive-analytics.info
 
 <p>The diagram can be redrawn in any application that supports the required shapes, for example, in PowerPoint, InkScape or Adobe Illustrator. For that the available <a href="/sbgn/templates">templates</a> can be used. In GraphML format the diagram can be developed in <a href="https://www.yworks.com/products/yed" target="_blank">yEd Graph Editor</a> (desktop application) that since version 3.17.1 provides a palette section for SBGN.</p>
 
-<p>To build the diagram and generate SBGN-ML file, a dedicated software should be used, for example <a href="http://newteditor.org/" target="_blank">Newt</a> (online editor) or <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> add-on for VANTED (desktop application). The SBGN Validation Tool can be used to verify the quality of your diagram in VANTED (Tools tab of the SBGN-ED add-on).</p>
+<p>To build the diagram and generate an SBGN-ML file, a dedicated software should be used, for example <a href="http://newteditor.org/" target="_blank">Newt</a> (online editor) or <a href="http://www.sbgn-ed.org/" target="_blank">SBGN-ED</a> add-on for VANTED (desktop application). The SBGN Validation Tool can be used to verify the quality of your diagram in VANTED (Tools tab of the SBGN-ED add-on).</p>
 
 ## Tips for creating diagrams in SBGN
 
