@@ -46,8 +46,7 @@ example
     <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_inhibition.png"/> <br /> 
           <a href="/sbgn/downloads/bricks/PD_inhibition.sbgn">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/downloads/bricks/PD_inhibition.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br /><br />
-      IMPORTANT: Please note that inhibition arcs in Process Descrition go to a <i>process</i> glyph and not directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow language.</td>
+      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.</td>
     </tr>
     <tr>
       <td style="width:200px; text-align:center; font-size:90%;"><img src="../sbgn/downloads/bricks/PD_phosphorylation_simple.png"/> <br /> 
