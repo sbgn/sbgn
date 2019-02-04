@@ -1,7 +1,7 @@
 ---
-title: Software support
+title: Software
 layout: default
-permalink: /software_support/
+permalink: /software/
 ---
 
 # Software support
