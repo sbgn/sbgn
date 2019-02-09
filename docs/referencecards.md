@@ -1,7 +1,7 @@
 ---
-title: Templates
+title: Reference Cards
 layout: default
-permalink: /templates2
+permalink: /referencecards
 ---
 
 # Reference cards and templates
