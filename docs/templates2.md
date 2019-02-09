@@ -23,18 +23,17 @@ Formats used:
 
 ### Process Description L1 V1.3
 
+|-|-|-|-|-|
+| [SVG](/sbgn/templates/PD_L1V1.3.svg) | [EPS](/sbgn/templates/PD_L1V1.3.eps) | [PDF](/sbgn/templates/PD_L1V1.3.pdf) | [PNG](/sbgn/templates/PD_L1V1.3.png) | [Inkscape](/sbgn/templates/PD_L1V1.3-Inkscape.svg) | 
+
 <img src="/sbgn/templates/PD_L1V1.3_web.png" width="600">
-
-|-|-|-|-|-|-|
-| Downloads | [SVG](/sbgn/templates/PD_L1V1.3.svg) | [EPS](/sbgn/templates/PD_L1V1.3.eps) | [PDF](/sbgn/templates/PD_L1V1.3.pdf) | [PNG](/sbgn/templates/PD_L1V1.3.png) | [Inkscape](/sbgn/templates/PD_L1V1.3-Inkscape.svg) | 
-
 
 ### Activity Flow L1 V1.2
 
 <!--![AF_L1V1.2](/sbgn/templates/AF_L1V1.2.png)-->
 
-|-|-|-|-|-|-|
-| AF L1 V1.2 | SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | Inkscape |
+|-|-|-|-|-|
+| SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | Inkscape |
 
 <img src="/sbgn/templates/AF_L1V1.2.png" width="600">
 
@@ -42,8 +41,8 @@ Formats used:
 
 <!--![ER_L1V2.0](/sbgn/templates/ER_L1V2.0.png)-->
 
-|-|-|-|-|-|-|
-| ER L1 V2.0 | [SVG](/sbgn/templates/ER_L1V2.svg) | [EPS](/sbgn/templates/ER_L1V2.eps) | [PDF](/sbgn/templates/ER_L1V2.pdf) | [PNG](/sbgn/templates/ER_L1V2.png) | [Inkscape](/sbgn/templates/ER_L1V2-Inkscape.svg) | 
+|-|-|-|-|-|
+| [SVG](/sbgn/templates/ER_L1V2.svg) | [EPS](/sbgn/templates/ER_L1V2.eps) | [PDF](/sbgn/templates/ER_L1V2.pdf) | [PNG](/sbgn/templates/ER_L1V2.png) | [Inkscape](/sbgn/templates/ER_L1V2-Inkscape.svg) | 
 
 <img src="/sbgn/templates/ER_L1V2.0.png" width="600">
 
