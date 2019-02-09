@@ -4,7 +4,7 @@ layout: default
 permalink: /templates2
 ---
 
-# Temaplates
+# Templates
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
