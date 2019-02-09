@@ -19,7 +19,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 
 ### Activity Flow L1 V1.2
 
-![AF_L1V1.2](/sbgn/templates/AF_L1V1.2.png)
+<!--![AF_L1V1.2](/sbgn/templates/AF_L1V1.2.png)-->
 
 |-|-|-|-|-|-|
 | AF L1 V1.2 |   |   |   | [PNG](/sbgn/templates/AF_L1V1.2.png) |   |   |
@@ -28,7 +28,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 
 ### Entity Relationships L1 V2.0
 
-![ER_L1V2.0](/sbgn/templates/ER_L1V2.0.png)
+<!--![ER_L1V2.0](/sbgn/templates/ER_L1V2.0.png)-->
 
 |-|-|-|-|-|-|
 | ER L1 V2.0 | [SVG](/sbgn/templates/ER_L1V2.svg) | [EPS](/sbgn/templates/ER_L1V2.eps) | [PDF](/sbgn/templates/ER_L1V2.pdf) | [PNG](/sbgn/templates/ER_L1V2.png) | [Inkscape](/sbgn/templates/ER_L1V2-Inkscape.svg) | 
