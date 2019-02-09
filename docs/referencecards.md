@@ -1,14 +1,12 @@
 ---
-title: Reference Cards
+title: Templates
 layout: default
-permalink: /referencecards
+permalink: /templates2
 ---
 
-# Reference Cards
+# Reference cards and templates
 
 This page lists the material provided to help you use the SBGN languages in your favorite software.
-
-
 
 Reference cards of the latest specs
 ---------------
