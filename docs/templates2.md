@@ -10,8 +10,7 @@ This page lists the material provided to help you use the SBGN languages in your
 
 
 
-## Reference Cards (the latest versions)
-
+Reference Cards (the latest versions)
 ---------------
 
 |-|-|-|-|-|-|-|
@@ -19,8 +18,7 @@ This page lists the material provided to help you use the SBGN languages in your
 | AF L1 V1.2 | [SVG](https://cdn.rawgit.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/images/refcard.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2-Inkscape.svg)                   |                                                                                                                  ||
 | ER L1 V2.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2-Inkscape.svg)                   |                                                                                                                  |
 
-## Reference Cards (the previous versions)
-
+Reference Cards (the previous versions)
 ---------------
 
 |-|-|-|-|-|-|-|
@@ -33,8 +31,7 @@ This page lists the material provided to help you use the SBGN languages in your
 | ER L1 V1.2 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2-Inkscape.svg)                   |                                                                                                                  |
 
 
-## Other templates
-
+Other templates
 ---------------
 
 | PD L1 V1.0 | [OmniGraffle](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-OmniGraffle.gstencil) |
