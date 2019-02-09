@@ -27,7 +27,7 @@ Abbreviations and names used in the following tables:
 | PD L1 V1.0 | [SVG](/sbgn/templates/PD_L1V1.0.svg) | [EPS](/sbgn/templates/PD_L1V1.0.eps) | [PDF](/sbgn/templates/PD_L1V1.0.pdf) | [PNG](/sbgn/templates/PD_L1V1.0.png) | [Inkscape](/sbgn/templates/PD_L1V1.0-Inkscape.svg) |
 
 |-|-|-|-|-|-|
-| AF L1 V1.2 | SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | Inkscape |
+| AF L1 V1.2 | SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | [Inkscape](/sbgn/templates/AF_L1V1.2-Inkscape.svg) | 
 | AF L1 V1.0 | [SVG](/sbgn/templates/AF_L1V1.0.svg) | [EPS](/sbgn/templates/AF_L1V1.0.eps) | [PDF](/sbgn/templates/AF_L1V1.0.pdf) | [PNG](/sbgn/templates/AF_L1V1.0.png) | [Inkscape](/sbgn/templates/AF_L1V1.0-Inkscape.svg)                                |
 
 |-|-|-|-|-|-|
