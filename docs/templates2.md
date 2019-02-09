@@ -1,5 +1,5 @@
 ---
-title: Tamplates
+title: Templates
 layout: default
 permalink: /templates2
 ---
