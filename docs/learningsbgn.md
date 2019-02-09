@@ -92,7 +92,7 @@ The example bricks are developed using the <a href="https://immersive-analytics.
 
 <p>After simply redrawing the following example you will be much more familiar with how the SBGN PD language works. This was proved to be very useful in various tutorials and university courses. The example pathway diagram is comparatively small but includes many types of biological processes and the corresponding elements of the graphical notation.</p>
 
-![iNOS](/sbgn/images/learning/iNOS_SBGN-ED.png)
+![iNOS](/sbgn/images/learning/iNOS_SBGN-ED.png =400)
 
 **Downloads:** &ensp; [PNG](/sbgn/images/learning/iNOS_SBGN-ED.png) &ensp; [SVG](/sbgn/images/learning/iNOS_SBGN-ED.svg) &ensp; [SBGN-ML](/sbgn/images/learning/iNOS_SBGN-ED.sbgn) &ensp; 
 
