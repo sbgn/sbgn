@@ -22,7 +22,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 <!--![AF_L1V1.2](/sbgn/templates/AF_L1V1.2.png)-->
 
 |-|-|-|-|-|-|
-| AF L1 V1.2 |   |   |   | [PNG](/sbgn/templates/AF_L1V1.2.png) |   |   |
+| AF L1 V1.2 | SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | Inkscape |
 
 <img src="/sbgn/templates/AF_L1V1.2.png" width="600">
 
@@ -44,7 +44,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 | AF L1 V1.0 | [SVG](/sbgn/templates/AF_L1V1.0.svg) | [EPS](/sbgn/templates/AF_L1V1.0.eps) | [PDF](/sbgn/templates/AF_L1V1.0.pdf) | [PNG](/sbgn/templates/AF_L1V1.0.png) | [Inkscape](/sbgn/templates/AF_L1V1.0-Inkscape.svg)                                |
 | ER L1 V1.2 | [SVG](/sbgn/templates/ER_L1V1.2.svg)  | [EPS](/sbgn/templates/ER_L1V1.2.eps) | [PDF](/sbgn/templates/ER_L1V1.2.pdf) | [PNG](/sbgn/templates/ER_L1V1.2.png) | [Inkscape](/sbgn/templates/ER_L1V1.2-Inkscape.svg) |   
 | ER L1 V1.1 | [SVG](/sbgn/templates/ER_L1V1.2.svg) | [EPS](/sbgn/templates/ER_L1V1.1.eps) | [PDF](/sbgn/templates/ER_L1V1.1.pdf) | [PNG](/sbgn/templates/ER_L1V1.1.png) | [Inkscape](/sbgn/templates/ER_L1V1.1-Inkscape.svg) |
-| ER L1 V1.0 | [SVG](/sbgn/templates/ER_L1V1.0.svg) | [EPS](/sbgn/templates/ER_L1V1.0.eps) | [PDF](/sbgn/templates/ER_L1V1.0.pdf) | [PNG](/sbgn/templates/ER_L1V1.0.png) |  
+| ER L1 V1.0 | [SVG](/sbgn/templates/ER_L1V1.0.svg) | [EPS](/sbgn/templates/ER_L1V1.0.eps) | [PDF](/sbgn/templates/ER_L1V1.0.pdf) | [PNG](/sbgn/templates/ER_L1V1.0.png) | Inkscape
 
 ## Other templates
 
