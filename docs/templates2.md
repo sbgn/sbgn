@@ -29,7 +29,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 |-|-|-|-|-|-|-|
 | ER L1 V2.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2-Inkscape.svg)                   |                                                                                                                  |
 
-## Reference cards of the earlier versions
+## Reference cards (earlier versions)
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.0 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.svg)                            | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.eps)                            | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.pdf)                            | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.png)                            | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-Inkscape.svg)                            | 
