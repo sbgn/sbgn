@@ -1,12 +1,12 @@
 ---
-title: Reference Cards
+title: Reference cards
 layout: default
 permalink: /referencecards
 ---
 
 # Reference cards and templates
 
-This page lists the material provided to help you use the SBGN languages in your favorite software.  
+This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
 Abbreviations and names used in the following tables:
 
@@ -17,8 +17,6 @@ Abbreviations and names used in the following tables:
 -   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): Proprietary tool.
 -   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
 -   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
-
-## Reference cards
 
 Reference cards of the latest specs
 ---------------
