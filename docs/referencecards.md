@@ -1,16 +1,16 @@
 ---
-title: Documents Templates
+title: Reference Cards
 layout: default
-permalink: /templates2
+permalink: /referencecards
 ---
 
-# Templates
+# Reference Cards
 
 This page lists the material provided to help you use the SBGN languages in your favorite software.
 
 
 
-Reference Cards (the latest versions)
+Reference cards of the latest specs
 ---------------
 
 |-|-|-|-|-|-|-|
@@ -18,7 +18,7 @@ Reference Cards (the latest versions)
 | AF L1 V1.2 | [SVG](https://cdn.rawgit.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/images/refcard.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/templates/ER_L1V1.2-Inkscape.svg)                   |                                                                                                                  ||
 | ER L1 V2.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2-Inkscape.svg)                   |                                                                                                                  |
 
-Reference Cards (the previous versions)
+Reference cards of earlier versions
 ---------------
 
 |-|-|-|-|-|-|-|
