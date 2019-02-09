@@ -1,7 +1,7 @@
 ---
 title: Tamplates
 layout: default
-permalink: /templates3
+permalink: /templates
 ---
 
 # Templates
