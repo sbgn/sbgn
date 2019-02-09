@@ -8,39 +8,28 @@ permalink: /templates2
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
-Abbreviations and names used in the following tables:
+## Reference cards of the latest versions
 
--   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
--   [Inkscape](http://www.inkscape.org): Effectively an extended (but valid) SVG
--   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
--   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
--   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): Proprietary tool.
--   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
--   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
-
-### Process Description L1 V1.3 Reference Card
+### Process Description L1 V1.3
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.3 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.svg)                              | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.eps)                              | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.pdf)                              | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.png)                              | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3-Inkscape.svg)                              |                                                                                                                  |
 
 
 
-Activity Flow L1 V1.2 Reference Card
----------------
+### Activity Flow L1 V1.2
 
 |-|-|-|-|-|-|-|
 | AF L1 V1.2 |                    |                    |                    | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/images/refcard.png)                   |                    |                                                                                                                  ||
 
 
 
-Entity Relationships L1 V2.0 Reference Card
----------------
+### Entity Relationships L1 V2.0
 
 |-|-|-|-|-|-|-|
 | ER L1 V2.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2-Inkscape.svg)                   |                                                                                                                  |
 
-Reference cards of the earlier versions
----------------
+## Reference cards of the earlier versions
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.0 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.svg)                            | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.eps)                            | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.pdf)                            | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.png)                            | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-Inkscape.svg)                            | 
@@ -52,9 +41,19 @@ Reference cards of the earlier versions
 | ER L1 V1.2 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/62944e1f8271444956abf2cfd105b39bb677503d/templates/ER_L1V1.2-Inkscape.svg)                   |                                                                                                                  |
 
 
-Other templates
----------------
+## Other templates
 
 |-|-|
 | PD L1 V1.0 | [OmniGraffle](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-OmniGraffle.gstencil) |
 | PD L1 V1.0 | [PPT](https://raw.githubusercontent.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/PD_L1V1.1.ppt) |
+
+---------------
+Abbreviations and names used in the following tables:
+
+-   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
+-   [Inkscape](http://www.inkscape.org): Effectively an extended (but valid) SVG
+-   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
+-   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
+-   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): Proprietary tool.
+-   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
+-   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
