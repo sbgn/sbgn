@@ -41,9 +41,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 | PD L1 V1.2 | [SVG](/sbgn/templates/PD_L1V1.2.svg) | [EPS](/sbgn/templates/PD_L1V1.2.eps) | [PDF](/sbgn/templates/PD_L1V1.2.pdf) | [PNG](/sbgn/templates/PD_L1V1.2.png) | [Inkscape](/sbgn/templates/PD_L1V1.2-Inkscape.svg) |           
 | PD L1 V1.1 | [SVG](/sbgn/templates/PD_L1V1.1.svg) | [EPS](/sbgn/templates/PD_L1V1.1.eps) | [PDF](/sbgn/templates/PD_L1V1.1.pdf) | [PNG](/sbgn/templates/PD_L1V1.1.png) | [Inkscape](/sbgn/templates/PD_L1V1.1-Inkscape.svg) | 
 | PD L1 V1.0 | [SVG](/sbgn/templates/PD_L1V1.0.svg) | [EPS](/sbgn/templates/PD_L1V1.0.eps) | [PDF](/sbgn/templates/PD_L1V1.0.pdf) | [PNG](/sbgn/templates/PD_L1V1.0.png) | [Inkscape](/sbgn/templates/PD_L1V1.0-Inkscape.svg) |
-
 | AF L1 V1.0 | [SVG](/sbgn/templates/AF_L1V1.0.svg) | [EPS](/sbgn/templates/AF_L1V1.0.eps) | [PDF](/sbgn/templates/AF_L1V1.0.pdf) | [PNG](/sbgn/templates/AF_L1V1.0.png) | [Inkscape](/sbgn/templates/AF_L1V1.0-Inkscape.svg)                                |
-
 | ER L1 V1.2 | [SVG](/sbgn/templates/ER_L1V1.2.svg)  | [EPS](/sbgn/templates/ER_L1V1.2.eps) | [PDF](/sbgn/templates/ER_L1V1.2.pdf) | [PNG](/sbgn/templates/ER_L1V1.2.png) | [Inkscape](/sbgn/templates/ER_L1V1.2-Inkscape.svg) |   
 | ER L1 V1.1 | [SVG](/sbgn/templates/ER_L1V1.2.svg) | [EPS](/sbgn/templates/ER_L1V1.1.eps) | [PDF](/sbgn/templates/ER_L1V1.1.pdf) | [PNG](/sbgn/templates/ER_L1V1.1.png) | [Inkscape](/sbgn/templates/ER_L1V1.1-Inkscape.svg) |
 | ER L1 V1.0 | [SVG](/sbgn/templates/ER_L1V1.0.svg) | [EPS](/sbgn/templates/ER_L1V1.0.eps) | [PDF](/sbgn/templates/ER_L1V1.0.pdf) | [PNG](/sbgn/templates/ER_L1V1.0.png) |  
