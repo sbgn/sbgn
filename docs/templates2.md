@@ -60,7 +60,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 ## Abbreviations
 
 -   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
--   [Inkscape](http://www.inkscape.org): An extended SVG fornat
+-   [Inkscape](http://www.inkscape.org): An extended SVG format
 -   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
 -   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): OmniGraffle proprietary tool format
