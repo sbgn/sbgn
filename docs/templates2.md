@@ -4,7 +4,7 @@ layout: default
 permalink: /templates2
 ---
 
-# Templates
+# Temaplates
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
@@ -31,7 +31,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 |-|-|-|-|-|-|-|
 | ER L1 V2.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2-Inkscape.svg)                   |                                                                                                                  |
 
-## Earlier versions of the reference cards
+### Earlier versions of the reference cards
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.0 | [SVG](/sbgn/templates/PD_L1V1.0.svg) | [EPS](/sbgn/templates/PD_L1V1.0.eps) | [PDF](/sbgn/templates/PD_L1V1.0.pdf) | [PNG](/sbgn/templates/PD_L1V1.0.png) | [Inkscape](/sbgn/templates/PD_L1V1.0-Inkscape.svg)  |
@@ -50,7 +50,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 | PD L1 V1.0 | [PPT](https://raw.githubusercontent.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/PD_L1V1.1.ppt) |
 
 
-## Abbreviations and names used
+## Abbreviations
 
 -   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
 -   [Inkscape](http://www.inkscape.org): An extended SVG fornat
