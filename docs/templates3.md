@@ -8,6 +8,16 @@ permalink: /templates3
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
+Abbreviations and names used in the following tables:
+
+-   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
+-   [Inkscape](http://www.inkscape.org): An extended SVG format
+-   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
+-   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
+-   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): OmniGraffle proprietary tool format
+-   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
+-   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
+
 ## Reference cards
 
 |-|-|-|-|-|-|
@@ -31,13 +41,3 @@ This page provides SBGN reference cards and lists the material provided to help 
 |-|-|
 | PD L1 V1.0 | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) |
 | PD L1 V1.0 | [PPT](/sbgn/templates/PD_L1V1.1.ppt) |
-
-## Formats
-
--   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
--   [Inkscape](http://www.inkscape.org): An extended SVG format
--   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
--   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
--   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): OmniGraffle proprietary tool format
--   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
--   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
