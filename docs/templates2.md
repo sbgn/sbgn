@@ -10,21 +10,21 @@ This page provides SBGN reference cards and lists the material provided to help 
 
 ## Reference cards
 
-### Process Description L1 V1.3
+### Process Description
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.3 | [SVG](/sbgn/templates/PD_L1V1.3.svg) | [EPS](/sbgn/templates/PD_L1V1.3.eps) | [PDF](/sbgn/templates/PD_L1V1.3.pdf) | [PNG](/sbgn/templates/PD_L1V1.3.png)  | [Inkscape](/sbgn/templates/PD_L1V1.3-Inkscape.svg)  |    |
 
 <img src="/sbgn/templates/PD_L1V1.3_web.png" width="600">
 
-### Activity Flow L1 V1.2
+### Activity Flow
 
 ![PD_L1V1.3](/sbgn/templates/AF_L1V1.2.png)
 
 |-|-|-|-|-|-|-|
 | AF L1 V1.2 |                    |                    |                    | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/images/refcard.png)                   |                    |                                                                                                                  ||
 
-### Entity Relationships L1 V2.0
+### Entity Relationships
 
 ![PD_L1V1.3](/sbgn/templates/ER_L1V2.png)
 
@@ -34,8 +34,8 @@ This page provides SBGN reference cards and lists the material provided to help 
 ## Earlier versions of the reference cards
 
 |-|-|-|-|-|-|-|
-| PD L1 V1.0 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.svg)                            | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.eps)                            | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.pdf)                            | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.png)                            | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-Inkscape.svg)                            | 
-| PD L1 V1.1 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/templates/PD_L1V1.1.svg)                              | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/templates/PD_L1V1.1.eps)                              | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/templates/PD_L1V1.1.pdf)                              | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/templates/PD_L1V1.1.png)                              | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/templates/PD_L1V1.1-Inkscape.svg)                              | 
+| PD L1 V1.0 | [SVG](/sbgn/templates/PD_L1V1.0.svg) | [EPS](/sbgn/templates/PD_L1V1.0.eps) | [PDF](/sbgn/templates/PD_L1V1.0.pdf) | [PNG](/sbgn/templates/PD_L1V1.0.png) | [Inkscape](/sbgn/templates/PD_L1V1.0-Inkscape.svg)  |
+| PD L1 V1.1 | [SVG](/sbgn/templates/PD_L1V1.1.svg) | [EPS](/sbgn/templates/PD_L1V1.1.eps) | [PDF](/sbgn/templates/PD_L1V1.1.pdf) | [PNG](/sbgn/templates/PD_L1V1.1.png) | [Inkscape](/sbgn/templates/PD_L1V1.1-Inkscape.svg)                              | 
 | PD L1 V1.2 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/95cabd5716867f969fa6c0b5aceb9f10238bd306/templates/PD_L1V1.2.svg)                              | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/95cabd5716867f969fa6c0b5aceb9f10238bd306/templates/PD_L1V1.2.eps)                              | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/95cabd5716867f969fa6c0b5aceb9f10238bd306/templates/PD_L1V1.2.pdf)                              | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/95cabd5716867f969fa6c0b5aceb9f10238bd306/templates/PD_L1V1.2.png)                              | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/95cabd5716867f969fa6c0b5aceb9f10238bd306/templates/PD_L1V1.2-Inkscape.svg)                              |                                                                                                                  |
 | AF L1 V1.0 | [SVG](https://cdn.rawgit.com/sbgn/activity-flows/c57ed0b66fdb0e83ac033d0850b7e96e06b33b08/templates/AF_L1V1.0.svg)                                | [EPS](https://raw.githubusercontent.com/sbgn/activity-flows/c57ed0b66fdb0e83ac033d0850b7e96e06b33b08/templates/AF_L1V1.0.eps)                                | [PDF](https://raw.githubusercontent.com/sbgn/activity-flows/c57ed0b66fdb0e83ac033d0850b7e96e06b33b08/templates/AF_L1V1.0.pdf)                                | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/c57ed0b66fdb0e83ac033d0850b7e96e06b33b08/templates/AF_L1V1.0.png)                                | [Inkscape](https://cdn.rawgit.com/sbgn/activity-flows/c57ed0b66fdb0e83ac033d0850b7e96e06b33b08/templates/AF_L1V1.0-Inkscape.svg)                                |
 | ER L1 V1.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/3583a97a5787614561203f84f16fb2d38bf95356/templates/ER_L1V1.0.svg)                        | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/3583a97a5787614561203f84f16fb2d38bf95356/templates/ER_L1V1.0.eps)                        | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/3583a97a5787614561203f84f16fb2d38bf95356/templates/ER_L1V1.0.pdf)                        | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/3583a97a5787614561203f84f16fb2d38bf95356/templates/ER_L1V1.0.png)                        |                         | 
