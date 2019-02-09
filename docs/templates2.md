@@ -12,7 +12,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 
 ### Process Description L1 V1.3
 
-![PD_L1V1.3 | 600](/sbgn/templates/PD_L1V1.3.png)
+![PD_L1V1.3](/sbgn/templates/PD_L1V1.3.png | width=100)
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.3 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.svg)                              | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.eps)                              | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.pdf)                              | [PNG](/sbgn/templates/PD_L1V1.3.png)                              | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3-Inkscape.svg)                              |                                                                                                                  |
