@@ -40,7 +40,7 @@ Formats used:
 |-|-|-|-|-|
 | [SVG](/sbgn/templates/ER_L1V2.0.svg) | [EPS](/sbgn/templates/ER_L1V2.0.eps) | [PDF](/sbgn/templates/ER_L1V2.0.pdf) | [PNG](/sbgn/templates/ER_L1V2.0.png) | [Inkscape](/sbgn/templates/ER_L1V2.0-Inkscape.svg) | 
 
-<img src="/sbgn/templates/ER_L1V2.0.png" width="600">
+<img src="/sbgn/templates/ER_L1V2.0_web.png" width="600">
 
 ### Earlier versions of the reference cards
 
