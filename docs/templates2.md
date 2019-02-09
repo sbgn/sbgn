@@ -30,19 +30,15 @@ Formats used:
 
 ### Activity Flow L1 V1.2
 
-<!--![AF_L1V1.2](/sbgn/templates/AF_L1V1.2.png)-->
-
 |-|-|-|-|-|
-| SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | Inkscape |
+| SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | [Inkscape](/sbgn/templates/AF_L1V1.2-Inkscape.svg) |
 
-<img src="/sbgn/templates/AF_L1V1.2.png" width="600">
+<img src="/sbgn/templates/AF_L1V1.2_web.png" width="600">
 
 ### Entity Relationships L1 V2.0
 
-<!--![ER_L1V2.0](/sbgn/templates/ER_L1V2.0.png)-->
-
 |-|-|-|-|-|
-| [SVG](/sbgn/templates/ER_L1V2.svg) | [EPS](/sbgn/templates/ER_L1V2.eps) | [PDF](/sbgn/templates/ER_L1V2.pdf) | [PNG](/sbgn/templates/ER_L1V2.png) | [Inkscape](/sbgn/templates/ER_L1V2-Inkscape.svg) | 
+| [SVG](/sbgn/templates/ER_L1V2.0.svg) | [EPS](/sbgn/templates/ER_L1V2.0.eps) | [PDF](/sbgn/templates/ER_L1V2.0.pdf) | [PNG](/sbgn/templates/ER_L1V2.0.png) | [Inkscape](/sbgn/templates/ER_L1V2.0-Inkscape.svg) | 
 
 <img src="/sbgn/templates/ER_L1V2.0.png" width="600">
 
