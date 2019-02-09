@@ -10,21 +10,21 @@ This page provides SBGN reference cards and lists the material provided to help 
 
 ## Reference cards
 
-### Process Description
+### Process Description L1 V1.3
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.3 | [SVG](/sbgn/templates/PD_L1V1.3.svg) | [EPS](/sbgn/templates/PD_L1V1.3.eps) | [PDF](/sbgn/templates/PD_L1V1.3.pdf) | [PNG](/sbgn/templates/PD_L1V1.3.png)  | [Inkscape](/sbgn/templates/PD_L1V1.3-Inkscape.svg)  |    |
 
 <img src="/sbgn/templates/PD_L1V1.3_web.png" width="600">
 
-### Activity Flow
+### Activity Flow L1 V1.2
 
 ![PD_L1V1.3](/sbgn/templates/AF_L1V1.2.png)
 
 |-|-|-|-|-|-|-|
 | AF L1 V1.2 |                    |                    |                    | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/images/refcard.png)                   |                    |                                                                                                                  ||
 
-### Entity Relationships
+### Entity Relationships L1 V2.0
 
 ![PD_L1V1.3](/sbgn/templates/ER_L1V2.png)
 
