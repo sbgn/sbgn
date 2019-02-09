@@ -12,10 +12,10 @@ This page provides SBGN reference cards and lists the material provided to help 
 
 ### Process Description L1 V1.3
 
-<img src="/sbgn/templates/PD_L1V1.3_web.png" width="600">
-
 |-|-|-|-|-|-|-|
 | PD L1 V1.3 | [SVG](/sbgn/templates/PD_L1V1.3.svg) | [EPS](/sbgn/templates/PD_L1V1.3.eps) | [PDF](/sbgn/templates/PD_L1V1.3.pdf) | [PNG](/sbgn/templates/PD_L1V1.3.png)  | [Inkscape](/sbgn/templates/PD_L1V1.3-Inkscape.svg)  |    |
+
+<img src="/sbgn/templates/PD_L1V1.3_web.png" width="600">
 
 ### Activity Flow L1 V1.2
 
