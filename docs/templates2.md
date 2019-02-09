@@ -54,6 +54,6 @@ Abbreviations and names used:
 -   [Inkscape](http://www.inkscape.org): Effectively an extended (but valid) SVG
 -   [PDF](http://en.wikipedia.org/wiki/PDF): Portable Document Format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
--   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): Proprietary tool.
+-   [OmniGraffle](http://www.omnigroup.com/applications/OmniGraffle/): OmniGraffle proprietary tool format
 -   [PPT](http://office.microsoft.com/powerpoint): MicroSoft PowerPoint
 -   [SVG](http://en.wikipedia.org/wiki/Scalar_Vector_Graphics): Scalar Vector Graphics
