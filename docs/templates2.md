@@ -48,7 +48,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 | PD L1 V1.0 | [PPT](https://raw.githubusercontent.com/sbgn/process-descriptions/10dcc111463609818a6b6bc191f8aa8abe1f7bb0/PD_L1V1.1.ppt) |
 
 ---------------
-Abbreviations and names used in the tables:
+Abbreviations and names used:
 
 -   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
 -   [Inkscape](http://www.inkscape.org): Effectively an extended (but valid) SVG
