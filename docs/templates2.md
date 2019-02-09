@@ -8,30 +8,30 @@ permalink: /templates2
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
-## Reference cards (latest versions)
+## Reference cards
 
 ### Process Description L1 V1.3
 
 ![PD_L1V1.3](/sbgn/templates/PD_L1V1.3.png)
 
 |-|-|-|-|-|-|-|
-| PD L1 V1.3 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.svg)                              | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.eps)                              | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.pdf)                              | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.png)                              | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3-Inkscape.svg)                              |                                                                                                                  |
-
-
+| PD L1 V1.3 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.svg)                              | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.eps)                              | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.pdf)                              | [PNG](/sbgn/templates/PD_L1V1.3.png)                              | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3-Inkscape.svg)                              |                                                                                                                  |
 
 ### Activity Flow L1 V1.2
+
+![PD_L1V1.3](/sbgn/templates/AF_L1V1.2.png)
 
 |-|-|-|-|-|-|-|
 | AF L1 V1.2 |                    |                    |                    | [PNG](https://raw.githubusercontent.com/sbgn/activity-flows/ba30544ba494f76a7177b06bb6516be9ff29fc18/images/refcard.png)                   |                    |                                                                                                                  ||
 
-
-
 ### Entity Relationships L1 V2.0
+
+![PD_L1V1.3](/sbgn/templates/ER_L1V2.png)
 
 |-|-|-|-|-|-|-|
 | ER L1 V2.0 | [SVG](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.svg)                   | [EPS](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.eps)                   | [PDF](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.pdf)                   | [PNG](https://raw.githubusercontent.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2.png)                   | [Inkscape](https://cdn.rawgit.com/sbgn/entity-relationships/dd05b6ff66fd008c48f810c34f2b414aea01ea5e/templates/ER_L1V2-Inkscape.svg)                   |                                                                                                                  |
 
-## Reference cards (earlier versions)
+## Earlier versions of the reference cards
 
 |-|-|-|-|-|-|-|
 | PD L1 V1.0 | [SVG](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.svg)                            | [EPS](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.eps)                            | [PDF](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.pdf)                            | [PNG](https://raw.githubusercontent.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0.png)                            | [Inkscape](https://cdn.rawgit.com/sbgn/process-descriptions/Level1.1/templates/PD_L1V1.0-Inkscape.svg)                            | 
