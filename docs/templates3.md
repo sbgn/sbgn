@@ -32,7 +32,7 @@ This page provides SBGN reference cards and lists the material provided to help 
 | PD L1 V1.0 | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) |
 | PD L1 V1.0 | [PPT](/sbgn/templates/PD_L1V1.1.ppt) |
 
-## Abbreviations
+## Formats
 
 -   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
 -   [Inkscape](http://www.inkscape.org): An extended SVG format
