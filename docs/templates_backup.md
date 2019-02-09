@@ -1,7 +1,7 @@
 ---
-title: Documents Templates
+title: Templates
 layout: default
-permalink: /templates
+permalink: /templates_backup
 ---
 
 # Templates
