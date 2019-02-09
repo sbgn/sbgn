@@ -8,7 +8,7 @@ permalink: /templates2
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
-## Reference cards of the latest versions
+## Reference cards (latest versions)
 
 ### Process Description L1 V1.3
 
