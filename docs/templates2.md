@@ -42,7 +42,7 @@ Formats used:
 
 <img src="/sbgn/templates/ER_L1V2.0_web.png" width="600">
 
-### Earlier versions of the reference cards
+### Earlier versions
 
 |-|-|-|-|-|-|
 | PD L1 V1.2 | [SVG](/sbgn/templates/PD_L1V1.2.svg) | [EPS](/sbgn/templates/PD_L1V1.2.eps) | [PDF](/sbgn/templates/PD_L1V1.2.pdf) | [PNG](/sbgn/templates/PD_L1V1.2.png) | [Inkscape](/sbgn/templates/PD_L1V1.2-Inkscape.svg) |           
