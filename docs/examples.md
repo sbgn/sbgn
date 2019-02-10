@@ -25,7 +25,7 @@ This example of an SBGN Process Description uses two kinds of *Entity Pool Nodes
 
 This example illustrates how SBGN can be used to describe metabolic pathways. The following map represents glycolysis, the process that releases energy from the catabolism of glucose. In this example, *macromolecules* are only catalysts, and the other (whose glyph is a circle) are consumed or produced. Note that some carry *clone markers*, while others, present only once, do not need to.
 
-![Glycolysis.png](/sbgn/images/examples/WWWglycolysis.png){: .center-image width="500px"}
+![Glycolysis.png](/sbgn/images/examples/WWWglycolysis.png){: .center-image width="700px"}
 <br />
 
 ### Insulin signaling
