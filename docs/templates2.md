@@ -6,7 +6,7 @@ permalink: /templates2
 
 # Reference cards and templates
 
-This page provides SBGN reference cards and other materials to help you use the SBGN languages in your favorite software.  
+This page provides SBGN reference cards and templates to help you use the SBGN languages in your favorite software.  
 
 Formats used:
 
