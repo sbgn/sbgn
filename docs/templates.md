@@ -38,6 +38,5 @@ File formats used:
 
 ## Other templates
 
-|-|-|
-| PD L1 V1.0 | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) |
-| PD L1 V1.0 | [PPT](/sbgn/templates/PD_L1V1.1.ppt) |
+|-|-|-|
+| PD L1 V1.0 | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) | [PPT](/sbgn/templates/PD_L1V1.1.ppt) |
