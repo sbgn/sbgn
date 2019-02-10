@@ -8,7 +8,7 @@ permalink: /templates
 
 This page provides SBGN reference cards and lists the material provided to help you use the SBGN languages in your favorite software.  
 
-Abbreviations and names used in the following tables:
+File formats used:
 
 -   [EPS](http://en.wikipedia.org/wiki/Encapsulated_postscript): Encapsulated Postscript
 -   [Inkscape](http://www.inkscape.org): An extended SVG format
