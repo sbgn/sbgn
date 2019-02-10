@@ -129,7 +129,7 @@ The repressilator is a circular system of three genes which products sequentiall
 
 The following map was presented to the annual SBGN competition 2010, section best map.
 
-![SBGN_ER_DM_retinopathy](/sbgn/images/examples/SBGN_ER_DM_retinopathy_v13_3-small.png){: .center-image width="600px"}
+![SBGN_ER_DM_retinopathy](/sbgn/images/examples/SBGN_ER_DM_retinopathy_v13_3.png){: .center-image }
 <br />
 
 ### Bacterial transcription initiation
