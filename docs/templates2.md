@@ -4,7 +4,7 @@ layout: default
 permalink: /templates2
 ---
 
-# Templates
+# Reference cards and templates
 
 This page provides SBGN reference cards and other materials to help you use the SBGN languages in your favorite software.  
 
@@ -53,7 +53,7 @@ Formats used:
 | ER L1 V1.1 | [SVG](/sbgn/templates/ER_L1V1.2.svg) | [EPS](/sbgn/templates/ER_L1V1.1.eps) | [PDF](/sbgn/templates/ER_L1V1.1.pdf) | [PNG](/sbgn/templates/ER_L1V1.1.png) | [Inkscape](/sbgn/templates/ER_L1V1.1-Inkscape.svg) |
 | ER L1 V1.0 | [SVG](/sbgn/templates/ER_L1V1.0.svg) | [EPS](/sbgn/templates/ER_L1V1.0.eps) | [PDF](/sbgn/templates/ER_L1V1.0.pdf) | [PNG](/sbgn/templates/ER_L1V1.0.png) | Inkscape
 
-## Other templates
+## Templates
 
 |-|-|-|
 | PD L1 V1.0 | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) | [PPT](/sbgn/templates/PD_L1V1.1.ppt) |
