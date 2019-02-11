@@ -17,6 +17,7 @@ File formats used:
 -   [SBGN-ML](https://github.com/sbgn/sbgn/wiki/SBGN_ML): SBGN-ML 0.2 format exported from the VANTED/SBGN-ED editor, colours are not saved in this format
 -   [SBGN-ED](https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/): GraphML file exported from the VANTED/SBGN-ED editor, colours and modified fonts are saved in this format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
+-   [Newt](http://newteditor.org/): A link for opening SBGN-ML file in the Newt Editor
 
 ## PD Level 1 examples
 
@@ -68,7 +69,7 @@ The repressilator is a circular system of three genes which products sequentiall
 
 <!--<center>Downloads: &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.graphml">SBGN-ED</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.sbgn">SBGN-ML</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.png">PNG</a></center>-->
 
-**Downloads:** &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v6_color.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v6_color.sbgn) &ensp; [PNG](/sbgn/examples/Repressilator_PD_v6_color.png) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/examples/Repressilator_PD_v6_color.sbgn)
+**Downloads:** &ensp; [PNG](/sbgn/examples/Repressilator_PD_v6_color.png) &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v6_color.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v6_color.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/examples/Repressilator_PD_v6_color.sbgn)
 
 <br />
 
