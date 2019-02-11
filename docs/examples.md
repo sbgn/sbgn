@@ -14,7 +14,7 @@ The corresponding SBGN-ML files are available [here](https://github.com/sbgn/lib
 
 File formats used:
 
--   [SBGN-ML](https://github.com/sbgn/sbgn/wiki/SBGN_ML): SBGN-ML format exported from the VANTED/SBGN-ED editor
+-   [SBGN-ML](https://github.com/sbgn/sbgn/wiki/SBGN_ML): SBGN-ML 0.2 format exported from the VANTED/SBGN-ED editor, colours are not saved in this format
 -   [SBGN-ED](https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/): GraphML file exported from the VANTED/SBGN-ED editor, colours and modified fonts are saved in this format
 -   [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics): Portable Network Graphic
 
