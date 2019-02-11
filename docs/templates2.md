@@ -31,7 +31,7 @@ Formats used:
 ### Activity Flow L1 V1.2
 
 |-|-|-|-|-|
-| SVG | EPS | PDF | [PNG](/sbgn/templates/AF_L1V1.2.png) | [Inkscape](/sbgn/templates/AF_L1V1.2-Inkscape.svg) |
+| [SVG](/sbgn/templates/AF_L1V1.2.svg) | [EPS](/sbgn/templates/AF_L1V1.2.eps) | [PDF](/sbgn/templates/AF_L1V1.2.pdf) | [PNG](/sbgn/templates/AF_L1V1.2.png) | [Inkscape](/sbgn/templates/AF_L1V1.2-Inkscape.svg) |
 
 <img src="/sbgn/templates/AF_L1V1.2_web.png" width="600">
 
