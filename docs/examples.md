@@ -33,7 +33,7 @@ This example illustrates how SBGN can be used to describe metabolic pathways. Th
 
 Next example presents an example of signalling pathway, that examplifies the use of the *entity pool nodes* *observable*, and *state variable*, the *containers* *complex*, *compartment* and *submap*, the *process nodes* association, and the *connecting arcs* *stimulation*. Note the complex IGF and IGF receptor, located on the boundary of the compartment. This position is only for user convenience. The complex has to belong to a given compartment in SBGN Process Diagram Level 1. This example also shows how details can be hidden by using a *submap*. The submap called MAPK cascade is shown in the first example above. Note the *tags* that permit to identify the same entity in the submap and the main map.
 
-![Insulin_signaling](/sbgn/images/examples/WWWinsulin.png){: .center-image width="500px"}
+![Insulin_signaling](/sbgn/images/examples/WWWinsulin.png){: .center-image width="600px"}
 <br />
 
 ### Neuro-muscular junction
@@ -58,9 +58,9 @@ This next example involves a gene regulatory network. It also shows the use of t
 
 The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birh of Synthetic Biology.
 
-![Repressilator-PD](/sbgn/examples/Repressilator_PD_v6_color.png){: .center-image width="600px"}
+![Repressilator-PD](/sbgn/examples/Repressilator_PD_v6_color.png){: .center-image width="700px"}
 
-Example text {style=text-align:center}
+-> Example text <-
 
 **Downloads:** &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v6_color.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v6_color.sbgn) &ensp; [PNG](/sbgn/examples/Repressilator_PD_v6_color.png)
 
