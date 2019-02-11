@@ -26,6 +26,7 @@ This example of an SBGN Process Description uses two kinds of *Entity Pool Nodes
 This example illustrates how SBGN can be used to describe metabolic pathways. The following map represents glycolysis, the process that releases energy from the catabolism of glucose. In this example, *macromolecules* are only catalysts, and the other (whose glyph is a circle) are consumed or produced. Note that some carry *clone markers*, while others, present only once, do not need to.
 
 ![Glycolysis.png](/sbgn/images/examples/WWWglycolysis.png){: .center-image width="700px"}
+
 <br />
 
 ### Insulin signaling
@@ -58,6 +59,9 @@ This next example involves a gene regulatory network. It also shows the use of t
 The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birh of Synthetic Biology.
 
 ![Repressilator-PD](/sbgn/examples/Repressilator_PD_v6_color.png){: .center-image width="600px"}
+
+**Downloads:** &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v6_color.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v6_color.sbgn) &ensp; [PNG](/sbgn/examples/Repressilator_PD_v6_color.png)
+
 <br />
 
 ### Plant central metabolism
