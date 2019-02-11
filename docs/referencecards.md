@@ -28,6 +28,8 @@ Formats used:
 
 <img src="/sbgn/templates/PD_L1V1.3_web.png" width="600">
 
+<br />
+
 ### Activity Flow L1 V1.2
 
 |-|-|-|-|-|
@@ -35,12 +37,16 @@ Formats used:
 
 <img src="/sbgn/templates/AF_L1V1.2_web.png" width="600">
 
+<br />
+
 ### Entity Relationships L1 V2.0
 
 |-|-|-|-|-|
 | [SVG](/sbgn/templates/ER_L1V2.0.svg) | [EPS](/sbgn/templates/ER_L1V2.0.eps) | [PDF](/sbgn/templates/ER_L1V2.0.pdf) | [PNG](/sbgn/templates/ER_L1V2.0.png) | [Inkscape](/sbgn/templates/ER_L1V2.0-Inkscape.svg) | 
 
 <img src="/sbgn/templates/ER_L1V2.0_web.png" width="600">
+
+<br />
 
 ### Earlier versions
 
