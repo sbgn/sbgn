@@ -10,9 +10,7 @@ permalink: /examples
 * [ER Level 1 Examples](#er-level-1-examples)
 * [AF Level 1 Examples](#af-level-1-examples)
 
-The corresponding SBGN-ML files are available [here](https://github.com/sbgn/libsbgn/tree/master/example-files).
-
-File formats used:
+The corresponding SBGN-ML files are available [here](https://github.com/sbgn/libsbgn/tree/master/example-files). File formats for downloading (where available):
 
 -   [SBGN-ML](https://github.com/sbgn/sbgn/wiki/SBGN_ML): SBGN-ML 0.2 format exported from the VANTED/SBGN-ED editor, colours are not saved in this format
 -   [SBGN-ED](https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/): GraphML file exported from the VANTED/SBGN-ED editor, colours and modified fonts are saved in this format
