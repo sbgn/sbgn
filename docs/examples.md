@@ -23,14 +23,14 @@ The corresponding SBGN-ML files are available [here](https://github.com/sbgn/lib
 
 This example of an SBGN Process Description uses two kinds of *Entity Pool Nodes* (that is, nodes representing biochemically-indistinguishable entities such as molecules). One kind of Entity Pool Node (whose glyph is a rounded rectangle) represents different *macromolecules*, and the other (whose glyph is a circle) represents pools of *simple chemicals*. Most macromolecule nodes in this map are also adorned with *state variables* representing phosphorylation states. This map uses one type of process node, the *transition node*, and one kind of connecting arc, *catalysis*. Finally, some entity pool nodes have dark bands along their bottoms; these are *clone markers* indicating that the same pool nodes appear multiple times in the diagram.
 
-![MAPK-PD](/sbgn/images/examples/Sample-mapk-pd.png){: .center-image width="500px"}
+![MAPK-PD](/sbgn/images/examples/Sample-mapk-pd.png){: .center-image width="450px"}
 <br />
 
 ### Glycolysis
 
 This example illustrates how SBGN can be used to describe metabolic pathways. The following map represents glycolysis, the process that releases energy from the catabolism of glucose. In this example, *macromolecules* are only catalysts, and the other (whose glyph is a circle) are consumed or produced. Note that some carry *clone markers*, while others, present only once, do not need to.
 
-![Glycolysis.png](/sbgn/images/examples/WWWglycolysis.png){: .center-image width="700px"}
+![Glycolysis.png](/sbgn/images/examples/WWWglycolysis.png){: .center-image width="600px"}
 
 <br />
 
@@ -38,7 +38,7 @@ This example illustrates how SBGN can be used to describe metabolic pathways. Th
 
 Next example presents an example of signalling pathway, that examplifies the use of the *entity pool nodes* *observable*, and *state variable*, the *containers* *complex*, *compartment* and *submap*, the *process nodes* association, and the *connecting arcs* *stimulation*. Note the complex IGF and IGF receptor, located on the boundary of the compartment. This position is only for user convenience. The complex has to belong to a given compartment in SBGN Process Diagram Level 1. This example also shows how details can be hidden by using a *submap*. The submap called MAPK cascade is shown in the first example above. Note the *tags* that permit to identify the same entity in the submap and the main map.
 
-![Insulin_signaling](/sbgn/images/examples/WWWinsulin.png){: .center-image width="600px"}
+![Insulin_signaling](/sbgn/images/examples/WWWinsulin.png){: .center-image width="550px"}
 <br />
 
 ### Neuro-muscular junction
