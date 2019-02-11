@@ -60,7 +60,7 @@ The repressilator is a circular system of three genes which products sequentiall
 
 ![Repressilator-PD](/sbgn/examples/Repressilator_PD_v6_color.png){: .center-image width="650px"}
 
-<center><strong>Downloads:</strong> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.graphml">SBGN-ED</a> &ensp; &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.sbgn">SBGN-ML</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.png">PNG</a></center>
+<center><strong>Downloads:</strong> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.graphml">SBGN-ED</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.sbgn">SBGN-ML</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.png">PNG</a></center>
 
 <!--**Downloads:** &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v6_color.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v6_color.sbgn) &ensp; [PNG](/sbgn/examples/Repressilator_PD_v6_color.png)-->
 
