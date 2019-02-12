@@ -17,7 +17,16 @@ permalink: /examples
   
 * [AF Level 1 Examples](#af-level-1-examples)
   * [Repressilator (AF)](#repressilator-af)
+  * [EGFR signalling](#egfr-signalling)
+  
 * [ER Level 1 Examples](#er-level-1-examples)
+  * [Autophagy](#autophagy)
+  * [Polymerase chain reaction (PCR)](#polymerase-chain-reaction-PCR)
+  * [CaMKII in synaptic plasticity](#camkii-in-synaptic-plasticity)
+  * [CaMKII in synaptic plasticity (example II)](#camkii-in-synaptic-plasticity-example-ii)
+  * [Repressilator (ER)](#repressilator-er)
+  * [Development of diabetic retinopathy](#development-of-diabetic-retinopathy)
+  * [Bacterial transcription initiation](#bacterial-transcription-initiation)
 
 The corresponding SBGN-ML files are available [here](https://github.com/sbgn/libsbgn/tree/master/example-files). File formats for downloading (where available):
 
@@ -99,9 +108,9 @@ The repressilator is a circular system of three genes which products sequentiall
 ![Repressilator-AF](/sbgn/images/examples/Repressilator-AF.png){: .center-image }
 <br />
 
-### EGFR signaling
+### EGFR signalling
 
-This is a representation in AF of the signaling pathways triggered by EGF binding on its receptor. The original information came from [STKE](http://stke.sciencemag.org/cgi/cm/stkecm;CMP_14987), and a first version of the image was published in [the initial SBGN publication](http://identifiers.org/pubmed/19668183).
+This is a representation in AF of the signalling pathways triggered by EGF binding on its receptor. The original information came from [STKE](http://stke.sciencemag.org/cgi/cm/stkecm;CMP_14987), and a first version of the image was published in [the initial SBGN publication](http://identifiers.org/pubmed/19668183).
 
 
 ![EGFfromSTKEinAF2](/sbgn/images/examples/EGFfromSTKEinAF2.png){: .center-image width="500px"}
@@ -138,14 +147,14 @@ The image below shows the effect of calmodulin binding on CaMKII activity, using
 ![CaMKII-ER-L1V2](/sbgn/images/examples/CaMKII-ER-L1V2.png){: .center-image width="500px"}
 <br />
 
-### Repressilator
+### Repressilator (ER)
 
 The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birth of Synthetic Biology.
 
 ![Repressilator-ER](/sbgn/images/examples/Repressilator-ER.png){: .center-image }
 <br />
 
-### Development of Diabetic Retinopathy
+### Development of diabetic retinopathy
 
 The following map was presented to the annual SBGN competition 2010, section best map.
 
