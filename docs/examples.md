@@ -7,7 +7,10 @@ permalink: /examples
 # Examples
 
 * [Process Description Level 1 Examples](#pd-level-1-examples)
-  * [MAPK](#MAPK)
+  * [MAPK](#mapk)
+  * [Glycolysis](#glycolysis)
+  * [Insulin signalling](#insulin-signalling)
+  * [Neuro-muscular junction](#neuro-muscular-junction)
 * [Activity Flow Level 1 Examples](#af-level-1-examples)
 * [Entity Relationships Level 1 Examples](#er-level-1-examples)
 
@@ -35,7 +38,7 @@ This example illustrates how SBGN can be used to describe metabolic pathways. Th
 
 <br />
 
-### Insulin signaling
+### Insulin signalling
 
 Next example presents an example of signalling pathway, that examplifies the use of the *entity pool nodes* *observable*, and *state variable*, the *containers* *complex*, *compartment* and *submap*, the *process nodes* association, and the *connecting arcs* *stimulation*. Note the complex IGF and IGF receptor, located on the boundary of the compartment. This position is only for user convenience. The complex has to belong to a given compartment in SBGN Process Diagram Level 1. This example also shows how details can be hidden by using a *submap*. The submap called MAPK cascade is shown in the first example above. Note the *tags* that permit to identify the same entity in the submap and the main map.
 
