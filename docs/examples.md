@@ -63,11 +63,11 @@ This next example involves a gene regulatory network. It also shows the use of t
 
 The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birh of Synthetic Biology.
 
-![Repressilator-PD](/sbgn/examples/Repressilator_PD_v6_color.png){: .center-image width="600px"}
+![Repressilator-PD](/sbgn/examples/Repressilator_PD_v7.png){: .center-image width="600px"}
 
 <!--<center>Downloads: &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.graphml">SBGN-ED</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.sbgn">SBGN-ML</a> &ensp; <a href="/sbgn/examples/Repressilator_PD_v6_color.png">PNG</a></center>-->
 
-**Downloads:** &ensp; [PNG](/sbgn/examples/Repressilator_PD_v6_color.png) &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v6_color.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v6_color.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/examples/Repressilator_PD_v6_color.sbgn)
+**Downloads:** &ensp; [PNG](/sbgn/examples/Repressilator_PD_v7.png) &ensp; [SBGN-ED](/sbgn/examples/Repressilator_PD_v7.graphml) &ensp; [SBGN-ML](/sbgn/examples/Repressilator_PD_v7.sbgn) &ensp; [Newt](http://web.newteditor.org/?URL=http://sbgn.github.io/sbgn/examples/Repressilator_PD_v7.sbgn)
 
 <br />
 
