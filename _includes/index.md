@@ -6,9 +6,9 @@
 
 ## Upcoming events 
 
-[HARMONY 2019](http://co.mbine.org/events/HARMONY_2019) will take place in Pasadena, CA 91125, USA, 25-29 March 2019 at the Annenberg Center for Information Science and Technology of Caltech's Department of Computing and Mathematical Sciences.  
+[HARMONY 2019](http://co.mbine.org/events/HARMONY_2019) will take place 25-29 March 2019 in Pasadena, CA 91125, USA, at the Annenberg Center for Information Science and Technology of Caltech's Department of Computing and Mathematical Sciences.  
 
-[COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place in Heidelberg, Germany, 15 - 19 July 2019, hosted by the Heidelberg Institute for Theoretical Studies.
+[COMBINE 2019](http://co.mbine.org/events/COMBINE_2019) will take place 15-19 July 2019 in Heidelberg, Germany, hosted by the Heidelberg Institute for Theoretical Studies.
 
 
 ## Published map highlight
