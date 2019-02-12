@@ -184,7 +184,7 @@ We are deeply indebted to the many funding agencies and organizations that have 
 
 The development of SBGN during 2005–2008 was mainly supported by a grant from the Japanese [New Energy and Industrial Technology Development Organization](http://www.nedo.go.jp/) (NEDO). The principal investigators were Hiroaki Kitano, Akira Funahashi, Nicolas Le Novère and Michael Hucka.
 
-The [Okinawa Institute of Science and Technology](http://www.oist.jp/) (OIST), the British [Biotechnology and Biological Sciences Research Council](http://www.bbsrc.ac.uk/) (BBSRC) through a Japan Partnering Award, and a US Partnering Award, the [European Media Laboratory](http://www.eml-r.org/) (EML Research GmbH), the Beckman Institute BNMC at the California Institute of Technology, and US [National Science Foundation](www.nsf.gov) (NSF) provided additional support for SBGN workshops.
+The [Okinawa Institute of Science and Technology](http://www.oist.jp/) (OIST), the British [Biotechnology and Biological Sciences Research Council](http://www.bbsrc.ac.uk/) (BBSRC) through a Japan Partnering Award, and a US Partnering Award, the [European Media Laboratory](http://www.eml-r.org/) (EML Research GmbH), the Beckman Institute BNMC at the California Institute of Technology, and US [National Science Foundation](https://www.nsf.gov/) (NSF) provided additional support for SBGN workshops.
 
 ## Ownership
 
