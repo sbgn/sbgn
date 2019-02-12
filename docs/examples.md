@@ -12,10 +12,10 @@ permalink: /examples
   * [Insulin signalling](#insulin-signalling)
   * [Neuro-muscular junction](#neuro-muscular-junction)
   
-  * [Repressilator](#repressilator)
+  * [Repressilator (PD)](#repressilator-pd)
   
 * [AF Level 1 Examples](#af-level-1-examples)
-  * [Repressilator](#repressilator)
+  * [Repressilator (AF)](#repressilator-af)
 * [ER Level 1 Examples](#er-level-1-examples)
 
 The corresponding SBGN-ML files are available [here](https://github.com/sbgn/libsbgn/tree/master/example-files). File formats for downloading (where available):
@@ -67,7 +67,7 @@ This next example involves a gene regulatory network. It also shows the use of t
 ![IFN-regulation](/sbgn/images/examples/Sample-ifn-gene.png){: .center-image width="400px"}
 <br />
 
-### Repressilator
+### Repressilator (PD)
 
 The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birh of Synthetic Biology.
 
@@ -91,7 +91,7 @@ The following map won the annual SBGN competition 2010, section best map.
 
 ## AF Level 1 examples
 
-### Repressilator
+### Repressilator (AF)
 
 The repressilator is a circular system of three genes which products sequentially inhibit the expression of the next gene. Both the model and its in vitro realization were published by [Michael Elowitz and Stanislas Leibler in 2000](http://www.ncbi.nlm.nih.gov/pubmed/10659856), in a publication that is seen as one of the milestones in the birth of Synthetic Biology.
 
