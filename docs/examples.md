@@ -11,8 +11,9 @@ permalink: /examples
   * [Glycolysis](#glycolysis)
   * [Insulin signalling](#insulin-signalling)
   * [Neuro-muscular junction](#neuro-muscular-junction)
-  
+  * [IFN regulation](#ifn-regulation)
   * [Repressilator (PD)](#repressilator-pd)
+  * [Plant central metabolism](#plant-central-metabolism)
   
 * [AF Level 1 Examples](#af-level-1-examples)
   * [Repressilator (AF)](#repressilator-af)
