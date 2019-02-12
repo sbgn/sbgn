@@ -21,7 +21,7 @@ permalink: /examples
   
 * [ER Level 1 Examples](#er-level-1-examples)
   * [Autophagy](#autophagy)
-  * [Polymerase chain reaction (PCR)](#polymerase-chain-reaction-PCR)
+  * [Polymerase chain reaction (PCR)](#polymerase-chain-reaction-pcr)
   * [CaMKII in synaptic plasticity](#camkii-in-synaptic-plasticity)
   * [CaMKII in synaptic plasticity (example II)](#camkii-in-synaptic-plasticity-example-ii)
   * [Repressilator (ER)](#repressilator-er)
