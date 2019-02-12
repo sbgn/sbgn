@@ -6,10 +6,10 @@ permalink: /examples
 
 # Examples
 
-* [PD Level 1 Examples](#pd-level-1-examples)
+* [Process Description Level 1 Examples](#pd-level-1-examples)
   * [MAPK](#MAPK)
-* [ER Level 1 Examples](#er-level-1-examples)
-* [AF Level 1 Examples](#af-level-1-examples)
+* [Activity Flow Level 1 Examples](#af-level-1-examples)
+* [Entity Relationships Level 1 Examples](#er-level-1-examples)
 
 The corresponding SBGN-ML files are available [here](https://github.com/sbgn/libsbgn/tree/master/example-files). File formats for downloading (where available):
 
