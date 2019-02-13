@@ -28,7 +28,7 @@ permalink: /examples
   * [Development of diabetic retinopathy](#development-of-diabetic-retinopathy)
   * [Bacterial transcription initiation](#bacterial-transcription-initiation)
 
-The corresponding SBGN-ML files are stored [here](https://github.com/sbgn/examples). File formats for downloading (where available):
+File formats for downloading (where available):
 
 -   [SBGN-ML](https://github.com/sbgn/sbgn/wiki/SBGN_ML): SBGN-ML 0.2 format exported from the VANTED/SBGN-ED editor, colours are not saved in this format
 -   [SBGN-ED](https://immersive-analytics.infotech.monash.edu/vanted/addons/sbgn-ed/): GraphML file exported from the VANTED/SBGN-ED editor, colours and modified fonts are saved in this format
