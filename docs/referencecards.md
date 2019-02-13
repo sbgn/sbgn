@@ -56,4 +56,4 @@ Formats used:
 ## Templates
 
 |-|-|-|
-| PD L1 V1.0 | [PPT](/sbgn/templates/PD_L1V1.1.ppt) | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) | 
+| PD L1 V1.0 | [PPT](/sbgn/templates/PD_L1V1.0.ppt) | [OmniGraffle](/sbgn/templates/PD_L1V1.0-OmniGraffle.gstencil) | 
