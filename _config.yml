@@ -3,7 +3,7 @@ project_name: SBGN
 description: >
   Systems Biology Graphical Notation
 repository_url: https://github.com/sbgn
-repository_shorthand: sbgn/Something
+repository_shorthand: sbgn/something
 
 baseurl: "/sbgn"
 
