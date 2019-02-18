@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: default
-permalink: /contact_backup
+permalink: /contact
 ---
 
 # Contact
