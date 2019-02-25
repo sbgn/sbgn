@@ -8,13 +8,17 @@ permalink: /proposals
 
 ## Candidate for the Process Description L1.V2.0
 
+This version is based on the PD L1V1.3 specification and the previous release candidate that was proposed in December 2015.
+
 ### Process Description Specification L1.V2.0 proposal
+
+Please download and review the proposal draft:
 
 [PDF](./downloads/proposals/PD_L.V2.0.Proposal.Draft.pdf)
 
 ### Change log
 
-The document describes the main changes made in the new specification.
+This document describes the main changes made in the new specification:
 
 [PDF](./downloads/proposals/PD_L.V2.0.Log.pdf)
 
