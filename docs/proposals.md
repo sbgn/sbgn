@@ -14,13 +14,13 @@ This version is based on the PD L1V1.3 specification and the previous release ca
 
 Please download and review the proposal draft:
 
-[PDF](./downloads/proposals/PD_L.V2.0.Proposal.Draft.pdf)
+[PD L.V2.0 Proposal](./downloads/proposals/PD_L.V2.0.Proposal.Draft.pdf)
 
 ### Change log
 
 This document describes the main changes made in the new specification:
 
-[PDF](./downloads/proposals/PD_L.V2.0.Log.pdf)
+[PD L.V2.0 Log](./downloads/proposals/PD_L.V2.0.Log.pdf)
 
 ### Project Description L1.V2.0 Reference Card proposal
 
