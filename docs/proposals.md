@@ -10,15 +10,15 @@ permalink: /proposals
 
 ### Process Description Specification L1.V2.0 proposal
 
-PDF
+[PDF](./downloads/proposals/PD_L.V2.0.Proposal.Draft.pdf)
 
 ### Change log
 
 The document describes the main changes made in the new specification.
 
-PDF
+[PDF](./downloads/proposals/PD_L.V2.0.Log.pdf)
 
 ### Project Description L1.V2.0 Reference Card proposal
 
-PNG
+![](./downloads/proposals/PD_L.V2.0.png)
 
