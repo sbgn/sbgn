@@ -14,7 +14,7 @@ This version is based on the PD L1V1.3 specification and the previous release ca
 
 Please download and review the proposal draft:
 
-[PD L.V2.0 Proposal](./downloads/proposals/PD_L.V2.0.Proposal.Draft.pdf)
+[PD L.V2.0 Draft](./downloads/proposals/PD_L.V2.0.Proposal.Draft.pdf)
 
 ### Change log
 
