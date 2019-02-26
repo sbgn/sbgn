@@ -1,7 +1,7 @@
 ---
 title: Contribute
 layout: default
-permalink: /contribute
+permalink: /contribute_backup
 ---
 
 # Contribute 
