@@ -8,7 +8,7 @@ permalink: /proposals
 
 ## Candidate for the Process Description L1V2.0
 
-This version is based on the [PD L1V1.3 specification](.downloads/proposals/PD_L1V3.pdf) and the [previous release candidate](.downloads/proposals/PD_L1V2.RC_2015_12.pdf) that was proposed in December 2015.
+This version is based on the [PD L1V1.3 specification](./downloads/proposals/PD_L1V3.pdf) and the [previous release candidate](./downloads/proposals/PD_L1V2.RC_2015_12.pdf) that was proposed in December 2015.
 
 ### Process Description Specification L1V2.0 draft
 
