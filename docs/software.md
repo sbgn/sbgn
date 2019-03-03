@@ -16,13 +16,6 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 The following is a list of software packages known to provide support for SBGN. The links to the software packages were correct at the time of recording.
 
-<!--  [Please, delete this comment when/if approving a pull request]
-    Broken links with no idea how to fix them:
-      * Biographer. Snapshot of the editor, as of July 2017, can be seen at https://web.archive.org/web/20160725134705/http://biographer.biologie.hu-berlin.de/, should this link replace the current one?
-      * PathwayLab ('access denied' server response)
-      * SBMM assistant
--->
-
 | Software Package                                                                 | V / E | PD  | ER  | AF  | SBGN-ML |
 | -------------------------------------------------------------------------------- | :---: | :-: | :-: | :-: | :-----: |
 | [Arcadia](http://arcadiapathways.sourceforge.net/)                               | V     | +   | -   | -   | -       |
