@@ -16,6 +16,13 @@ This page summarizes what we know about software support for SBGN languages. Thi
 
 The following is a list of software packages known to provide support for SBGN. The links to the software packages were correct at the time of recording.
 
+<!--  [Please, delete this comment when/if approving a pull request]
+    Broken links with no idea how to fix them:
+      * Biographer. Snapshot of the editor, as of July 2017, can be seen at https://web.archive.org/web/20160725134705/http://biographer.biologie.hu-berlin.de/, should this link replace the current one?
+      * PathwayLab ('access denied' server response)
+      * SBMM assistant
+-->
+
 | Software Package                                                                 | V / E | PD  | ER  | AF  | SBGN-ML |
 | -------------------------------------------------------------------------------- | :---: | :-: | :-: | :-: | :-----: |
 | [Arcadia](http://arcadiapathways.sourceforge.net/)                               | V     | +   | -   | -   | -       |
@@ -28,21 +35,22 @@ The following is a list of software packages known to provide support for SBGN. 
 | [ChiBE](https://code.google.com/archive/p/chibe/)                                | E     | +   | -   | -   | -       |
 | [COPASI](http://copasi.org/)                                                     | V     | +   | -   | -   | -       |
 | [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | V     | +   | +   | +   | +       |
-| [Dunnart](http://www.dunnart.org/)                                               | E     | +   | -   | -   | -       |
+| [Dunnart](http://users.monash.edu/~mwybrow/dunnart/)                             | E     | +   | -   | -   | -       |
 | [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | E     | +   | +   | +   | -       |
 | [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | V     | +   | -   | -   | +       |
-| [geneXplain platform](http://genexplain.com/genexplain-platform-1)               | E     | +   | -   | -   | -       |
+| [geneXplain platform](http://genexplain.com/genexplain-platform/)                | E     | +   | -   | -   | -       |
 | [iPathways](http://www.ipathways.org/)                                           | V     | +   | -   | -   | -       |
 | [JWS Online](http://jjj.bio.vu.nl/)                                              | V     | +   | -   | -   | -       |
 | [KEGGtranslator](http://www.cogsys.cs.uni-tuebingen.de/software/KEGGtranslator/) | V     | +   | -   | -   | +       |
 | [Krayon for SBGN](https://github.com/wiese42/krayon4sbgn)                        | E     | +   | -   | -   | +       |
-| [Mayday MGV](http://it.inf.uni-tuebingen.de/?page_id=248)                        | V     | +   | -   | -   | -       |
+| [Mayday MGV](https://bit.ly/2BZR2g8)                                             | V     | +   | -   | -   | -       |
 | [Mimoza](http://mimoza.bordeaux.inria.fr/)                                       | V     | +   | -   | -   | -       |
 | [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
 | [Newt Editor](http://newteditor.org/)                                            | E     | +   | -   | +   | +       |
 | [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
 | [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
 | [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
+| [PathWiz](http://smpdb.ca/pathwhiz)                                              | E     | -   | -   | -   | +       |
 | [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
 | [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | E     | +   | +   | +   | -       |
 | [SBGNViz](http://www.cs.bilkent.edu.tr/~ivis/SBGNViz.js/)                        | V     | +   | -   | -   | +       |
@@ -93,7 +101,7 @@ One can compare the rendering of SBGN-ML by different software packages on the [
 ### BioPAX-SBGN Mapping
 
 [Biological Pathways Exchange (BioPAX)](https://biopax.github.io/) is a standard that aims to provide integration, exchange, visualization and analysis of biological pathway data. A substantial amount of BioPAX Level 3 concepts can be represented in SBGN PD via [BioPAX-SBGN Mapping](http://www.biopax.org/mediawiki/index.php/BioPAX-SBGN_Mapping). More information regarding BioPAX-SBGN Mapping software can be found [here](https://biopax.github.io/Paxtools/4.3.1/sbgn-converter/index.html).  
-   
+
 ### Biological Connection Markup Language (BCML)
 
 The [Biological Connection Markup Language (BCML)](http://bioinformatics.oxfordjournals.org/content/27/15/2127) is a format to describe, annotate and visualize pathways. BCML can be automatically converted into a SBGN-compliant graphical representation. More information regarding BCML software can be found [here](https://github.com/dc-atlas/bcml).
