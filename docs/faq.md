@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout: default
+layout: redirected
 permalink: /faqs
 ---
 

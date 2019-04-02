@@ -1,6 +1,6 @@
 ---
 title: FAQ AF
-layout: default
+layout: redirected
 permalink: /faq/af
 ---
 

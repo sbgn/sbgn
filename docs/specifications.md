@@ -1,6 +1,6 @@
 ---
 title: Specifications
-layout: default
+layout: redirected
 permalink: /specifications
 ---
 

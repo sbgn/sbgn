@@ -1,6 +1,6 @@
 ---
 title: FAQ PD
-layout: default
+layout: redirected
 permalink: /faq/pd
 ---
 

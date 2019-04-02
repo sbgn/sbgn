@@ -1,6 +1,6 @@
 ---
 title: Abstract
-layout: default
+layout: redirected
 permalink: /abstract
 ---
 

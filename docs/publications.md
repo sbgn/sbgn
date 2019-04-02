@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: default
+layout: redirected
 permalink: /publications
 ---
 

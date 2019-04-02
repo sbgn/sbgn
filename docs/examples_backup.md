@@ -1,6 +1,6 @@
 ---
 title: Examples
-layout: default
+layout: redirected
 permalink: /examples_backup
 ---
 

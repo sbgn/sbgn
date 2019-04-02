@@ -1,6 +1,6 @@
 ---
 title: Competition
-layout: default
+layout: redirected
 permalink: /competition
 ---
 

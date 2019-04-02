@@ -1,6 +1,6 @@
 ---
 title: Learn to use SBGN
-layout: default
+layout: redirected
 permalink: /learntousesbgn_backup
 ---
 

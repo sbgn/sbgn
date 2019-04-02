@@ -1,6 +1,6 @@
 ---
 title: FAQ ER
-layout: default
+layout: redirected
 permalink: faq/er
 ---
 

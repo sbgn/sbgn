@@ -1,6 +1,6 @@
 ---
 title: Reference cards and templates
-layout: default
+layout: redirected
 permalink: /referencecards
 ---
 

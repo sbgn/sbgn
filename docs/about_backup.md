@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: redirected
 title: About
 permalink: /about_backup
 ---

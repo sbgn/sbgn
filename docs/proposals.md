@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: redirected
 title: Proposals
 permalink: /proposals
 ---

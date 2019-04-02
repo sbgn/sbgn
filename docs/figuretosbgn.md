@@ -1,6 +1,6 @@
 ---
 title: Figure to SBGN
-layout: default
+layout: redirected
 permalink: /figuretosbgn
 ---
 

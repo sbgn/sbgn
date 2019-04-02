@@ -1,6 +1,6 @@
 ---
 title: Software support
-layout: default
+layout: redirected
 permalink: /software_support
 ---
 

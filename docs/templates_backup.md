@@ -1,6 +1,6 @@
 ---
 title: Templates
-layout: default
+layout: redirected
 permalink: /templates_backup
 ---
 

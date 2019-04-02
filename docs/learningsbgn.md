@@ -1,6 +1,6 @@
 ---
 title: Learning SBGN
-layout: default
+layout: redirected
 permalink: /learningsbgn
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Contribute
-layout: default
+layout: redirected
 permalink: /contribute_backup
 ---
 
