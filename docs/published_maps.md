@@ -1,6 +1,6 @@
 ---
 title: Published maps
-layout: redirected
+layout: default
 permalink: /published_maps
 ---
 
