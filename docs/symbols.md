@@ -1,6 +1,6 @@
 ---
 title: Symbols
-layout: redirected
+layout: default
 permalink: /symbols
 ---
 
