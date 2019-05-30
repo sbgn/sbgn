@@ -1,7 +1,7 @@
 ---
 title: Learning SBGN
 layout: redirected
-permalink: /learningsbgn
+permalink: /learning
 ---
 
 # Learning SBGN
