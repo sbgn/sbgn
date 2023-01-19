@@ -27,7 +27,7 @@ The following is a list of software packages known to provide support for SBGN. 
 | [CellDesigner](http://www.celldesigner.org/)                                     | E     | +   | -   | -   | +       |
 | [ChiBE](https://code.google.com/archive/p/chibe/)                                | E     | +   | -   | -   | -       |
 | [COPASI](http://copasi.org/)                                                     | V     | +   | -   | -   | -       |
-| [CySBGN](http://www.ebi.ac.uk/saezrodriguez/cno/cysbgn/)                         | V     | +   | +   | +   | +       |
+| [CySBGN](https://saezlab.github.io/cysbgn/)                                      | V     | +   | +   | +   | +       |
 | [Dunnart](http://www.dunnart.org/)                                               | E     | +   | -   | -   | -       |
 | [Edinburgh Pathway Editor](http://epe.sourceforge.net/)                          | E     | +   | +   | +   | -       |
 | [EscherConverter](https://escher.readthedocs.org/en/latest/escherconverter.html) | V     | +   | -   | -   | +       |
@@ -41,7 +41,7 @@ The following is a list of software packages known to provide support for SBGN. 
 | [Netbuilder'](http://sourceforge.net/projects/apostrophe/)                       | E     | +   | -   | -   | -       |
 | [Newt Editor](http://newteditor.org/)                                            | E     | +   | -   | +   | +       |
 | [Omix](http://www.omix-visualization.com/)                                       | E     | -   | -   | -   | +       |
-| [PathVisio](http://www.pathvisio.org/plugin/sbgn-plugin/)                        | E     | +   | +   | +   | +       |
+| [PathVisio](https://pathvisio.org/plugins/sbgn.html)                             | E     | +   | +   | +   | +       |
 | [PathwayLab](http://www.innetics.com/)                                           | E     | +   | -   | -   | -       |
 | [SBGN-ED](http://www.sbgn-ed.org/)                                               | E     | +   | +   | +   | +       |
 | [SBGNTikZ](https://github.com/Adrienrougny/sbgntikz)                             | E     | +   | +   | +   | -       |
