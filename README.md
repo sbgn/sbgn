@@ -1,3 +1,9 @@
+# DEPRECATION NOTICE 
+
+This is an old version of the website. If edits are needed, please edit this content: 
+
+https://github.com/sbgn/sbgn.github.io
+
 # SBGN Homepage & Development Wiki
 
 This repository contains the code for the SBGN homepage available at  
